@@ -10,12 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b6e59ab3c07384a4bbc9a6c1945901d6, type: 3}
-  m_Name: receta2
+  m_Name: Receta2
   m_EditorClassIdentifier: 
   name: receta 2
   recipeSprite: {fileID: 1894015333056429649, guid: cd8d0a30226a2ee43be03101a2b95974, type: 3}
-  baseIngredient: {fileID: 11400000, guid: fbdfed240e3fe084d92b19ab77cd2803, type: 2}
-  sauceIngredients: []
+  baseIngredient: {fileID: 11400000, guid: d41876e64a749ca41b5e0736a70fae0c, type: 2}
+  sauceIngredients:
+  - {fileID: 11400000, guid: 48bbe54a0c6b89846a7d95bad72cf3cf, type: 2}
   toppingIngredients:
-  - {fileID: 11400000, guid: d41876e64a749ca41b5e0736a70fae0c, type: 2}
-  flowerIngredient: {fileID: 11400000, guid: ef1bb73fb397f7249aa32de6ed766ebe, type: 2}
+  - {fileID: 11400000, guid: bb210e0dcfac9fc41954cbbe8aa887c5, type: 2}
+  flowerIngredient: {fileID: 11400000, guid: 8d26a136a2bf33e44be754c98469b265, type: 2}

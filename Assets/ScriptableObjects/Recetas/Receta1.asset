@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b6e59ab3c07384a4bbc9a6c1945901d6, type: 3}
-  m_Name: ReceteaPrueba1
+  m_Name: Receta1
   m_EditorClassIdentifier: 
-  name: miaumiau
-  recipeSprite: {fileID: -8109332514852492385, guid: b13e4361985ca6744ab90b9bef4b084e, type: 3}
+  name: receta 1
+  recipeSprite: {fileID: 21300000, guid: 354f2581a78838242807bdea464eddae, type: 3}
   baseIngredient: {fileID: 11400000, guid: b26c6699952953247b554fc72110de89, type: 2}
   sauceIngredients: []
   toppingIngredients:
-  - {fileID: 11400000, guid: d41876e64a749ca41b5e0736a70fae0c, type: 2}
-  flowerIngredient: {fileID: 11400000, guid: 135e3d232d38c7445a2f46ea26880f31, type: 2}
+  - {fileID: 11400000, guid: fd1906eff348d8844bbd184f7ef627b3, type: 2}
+  flowerIngredient: {fileID: 11400000, guid: 159d743d2a361cb419256297df369ac6, type: 2}

@@ -10,6 +10,8 @@ public class Buttons : MonoBehaviour
 {
 
     public GameObject menuPausa;
+    public GameObject panelLibroRecetas;
+
     public bool isPaused = false;
 
     
@@ -35,5 +37,15 @@ public class Buttons : MonoBehaviour
         menuPausa.SetActive(true);
         Time.timeScale = 0; //Esto pausaria luego el juego (tipo, el tiempo) cuando tengamos algo xd osea pone la velocidad al 0
         isPaused = true;
+    }
+
+    public void AbrirLibroRecetas()
+    {
+        panelLibroRecetas.SetActive(true);
+    }
+
+    public void CerrarLibroRecetas()
+    {
+        panelLibroRecetas.SetActive(false);
     }
 }

@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8cca7f08629941140ba18426f6758e7b, type: 3}
-  m_Name: manzana
+  m_Name: gusanos
   m_EditorClassIdentifier: 
-  id: 0
-  name: manzana
-  type: 0
+  id: 11
+  name: gusanos
+  type: 2
   cooked: 0
-  sprite: {fileID: 21300000, guid: 5b27d7dfce6e6714cae97c651f4b08cd, type: 3}
+  sprite: {fileID: 21300000, guid: 4631b01e2724c3641818e27a4dde1836, type: 3}

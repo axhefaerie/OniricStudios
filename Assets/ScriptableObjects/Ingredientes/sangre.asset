@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8cca7f08629941140ba18426f6758e7b, type: 3}
-  m_Name: kiwi
+  m_Name: sangre
   m_EditorClassIdentifier: 
-  id: 1
-  name: kiwi
-  type: 2
+  id: 7
+  name: sangre
+  type: 1
   cooked: 0
-  sprite: {fileID: 21300000, guid: cef760056d7fde84386aa0fee338e0a9, type: 3}
+  sprite: {fileID: 21300000, guid: c8c15f1921021814c93bd9c432a75f7d, type: 3}

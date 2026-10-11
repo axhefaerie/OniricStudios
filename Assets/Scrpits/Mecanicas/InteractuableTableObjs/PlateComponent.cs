@@ -70,7 +70,7 @@ public class PlateComponent : MonoBehaviour
 
         // Segundo, lo ajustar visualmente
         go.transform.localPosition = new Vector3(0, 0.4f, -ingredients.Count * 0.1f);       // Lo ajusta un poco hacia arriba del plato
-        go.transform.localScale = new Vector3(0.2f, 0.2f, 0.2f);        // Ajusta el tamaño
+        go.transform.localScale = new Vector3(0.9f, 0.9f, 0.9f);        // Ajusta el tamaño
     }
 
     // Método que se llama al entregar el plato y qu7e comprueba si la receta está bien o mal con la que pide el cliente
