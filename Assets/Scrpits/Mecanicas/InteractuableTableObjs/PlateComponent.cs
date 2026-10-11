@@ -112,20 +112,21 @@ public class PlateComponent : MonoBehaviour
     // Método que descarta el plato al tirarlo a la basura
     public void ThrowAway()
     {
-        ingredients.Clear();
-        // Borrado inmediato para que no queden sprites "fantasma" un frame
-        for (int i = ingredientParent.childCount - 1; i >= 0; i--)
-            DestroyImmediate(ingredientParent.GetChild(i).gameObject);
-        currentRecipe = null;
-        ClearPlate() ;
+        ClearPlate();// Vacía los ingredientes y elimina sus imágenes
     }
 
     // Método que resetea el plato
     private void ClearPlate()
     {
         ingredients.Clear();    // Se vacía la lista
-        // Se borran los sprites del plato (las instancias creadas)
-        foreach (Transform child in ingredientParent)       // Se recorre todos los gameObjects creados dentro del plato
-            Destroy(child.gameObject);                      // Se destruyen
+
+        // Eliminar las imágenes de los ingredientes
+        for (int i = ingredientParent.childCount - 1; i >= 0; i--)
+        {
+            Destroy(ingredientParent.GetChild(i).gameObject);
+        }
+
+        // Reiniciar la receta actual
+        currentRecipe = null;
     }
 }

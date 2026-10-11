@@ -34,16 +34,23 @@ public class ClientComponent : MonoBehaviour
             return false;
         }
 
-        // Comparamos la receta entregada con la pedid
-        if (deliveredRecipe == recipeRandomizer.requestedRecipe)
+        // Comprueba el pedido y cambia el texto del bocadillo
+        bool correctOrder = recipeRandomizer.CheckRecipe(deliveredRecipe);
+
+        if (correctOrder)
         {
-            Debug.Log("Cliente happy. + 1000 pabo");
-            spawner.OnCustomerServed();     // LLama para que se genere un nuevo cliente
+            Debug.Log("Cliente contento :D");
+
+            if (spawner != null)
+            {
+                spawner.OnCustomerServed();
+            }
+
             return true;
         }
         else
         {
-            Debug.Log("Cliente enfadado");
+            Debug.Log("Cliente enfadado >:(");
             return false;
         }
     }

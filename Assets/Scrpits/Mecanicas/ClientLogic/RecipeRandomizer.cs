@@ -71,9 +71,13 @@ public class RecipeRandomizer : MonoBehaviour
             // Pedido correcto
             Debug.Log("Cliente contento :D");
             //clientSprite.sprite = happySprite;
+            // Pedido correcto
+            if (recipeText != null)
+            {
+                recipeText.text = "muchas gracias... es justo lo que quería...";
+            }
+
             orderCompleted = true;
-            if (balloon != null) 
-                balloon.SetActive(false);
             return true;
         }
         else
@@ -81,6 +85,13 @@ public class RecipeRandomizer : MonoBehaviour
             // Pedido incorrecto
             Debug.Log("Cliente enfadao >:(");
             // clientSprite.sprite = angrySprite;
+            // Pedido incorrecto
+            if (recipeText != null)
+            {
+                recipeText.text =
+                    "¡Este no es mi pedido! yo no quería eso... Prueba otra vez...";
+            }
+
             return false;
         }
     }

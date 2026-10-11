@@ -36,6 +36,14 @@ public class CustomerSpawner : MonoBehaviour
 
     public void OnCustomerServed()
     {
+        StartCoroutine(ChangeCustomerAfterDelay());
+    }
+
+    private IEnumerator ChangeCustomerAfterDelay()
+    {
+        // Espera 2 segundos para que se lea el agradecimiento
+        yield return new WaitForSeconds(2f);
+
         Destroy(currentCustomer);
         SpawnCustomer();
     }
