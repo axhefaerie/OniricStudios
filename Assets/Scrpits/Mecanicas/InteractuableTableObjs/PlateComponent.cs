@@ -36,8 +36,9 @@ public class PlateComponent : MonoBehaviour
     // Este método permite actualizar visualmente el plato al añadir un ingrediente
     private void RebuildPlate()
     {
+        // YA NO COMPROBAMOS RECETA
         // Primero, comprueba si los ingredientes del plato actual forman una receta llamando al método FindRecipe
-        currentRecipe = recipeBook.FindRecipe(ingredients);
+        //currentRecipe = recipeBook.FindRecipe(ingredients);
 
         // CAMBIO: eliminamos solamente los sprites anteriores
         // Antes llamábamos a ClearPlate(), pero ese método también
@@ -47,15 +48,30 @@ public class PlateComponent : MonoBehaviour
         {
             Destroy(ingredientParent.GetChild(i).gameObject);
         }
-        if (currentRecipe != null) {        // Si hay correspondencia (se ha formado un plato con los ingredientes de una receta)
-                      // Se vacían los sprites de los ingredientes
-            ShowSprite(currentRecipe.recipeSprite);     // Se llama al método ShowSprite para que aparezca el sprite de la receta final
-        }
-        else            // Si no hay una receta terminada con los ingredientes del plato, se muestran los ingreientes sin más
+        
+        foreach (var ing in ingredients)        // Se recorre toda la lista de ingredientes
+           ShowSprite(ing.sprite);         // Se llama al método para que los renderice
+        
+    }
+
+    // Este método se llama al hornear el plato para cambiar el sprite y que salga la recepta que se haya seguido
+    public bool Bake()
+    {
+        // Se busca si los ingredientes actuales forman una receta
+        currentRecipe = recipeBook.FindRecipe(ingredients);
+
+        if (currentRecipe == null)
         {
-            foreach (var ing in ingredients)        // Se recorre toda la lista de ingredientes
-                ShowSprite(ing.sprite);         // Se llama al método para que los renderice
+            Debug.Log("No se puede hornear: ingredientes no forman una receta");
+            return false;
         }
+
+        // Borrar sprites de ingredientes
+        for (int i = ingredientParent.childCount - 1; i >= 0; i--)
+            Destroy(ingredientParent.GetChild(i).gameObject);
+
+        ShowSprite(currentRecipe.recipeSprite);   // aparece la receta terminada
+        return true;
     }
 
     // Añade el sprite del ingrediente en el plato

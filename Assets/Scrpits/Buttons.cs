@@ -11,6 +11,8 @@ public class Buttons : MonoBehaviour
 
     public GameObject menuPausa;
     public GameObject panelLibroRecetas;
+    public string cookingScene = "CookingScene";
+    public string gameScene = "Game";
 
     public bool isPaused = false;
 
@@ -47,5 +49,15 @@ public class Buttons : MonoBehaviour
     public void CerrarLibroRecetas()
     {
         panelLibroRecetas.SetActive(false);
+    }
+
+    public void GoToCook()
+    {
+        SceneManager.LoadScene(cookingScene);
+    }
+
+    public void GoBackToGame()
+    {
+        SceneManager.LoadScene(gameScene);
     }
 }
