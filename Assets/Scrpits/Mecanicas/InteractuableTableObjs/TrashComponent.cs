@@ -4,14 +4,11 @@ public class TrashComponent : MonoBehaviour
 {
     // AÑADIR LÓGICA DE, AL TIRAR ALGO, QUE SUEÑE UN SONIDO O ANIMACION O ALGO
 
-    public AudioSource audioSource;
-    public AudioClip trashSound;
+    [SerializeField] private string trashSfx;
 
     public void PlayTrashSound()
     {
-        if (audioSource != null && trashSound != null)
-        {
-            audioSource.PlayOneShot(trashSound);
-        }
+        if (AudioManager.Instance != null)
+            AudioManager.Instance.PlaySfx(trashSfx);
     }
 }

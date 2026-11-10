@@ -1,5 +1,6 @@
-
+﻿
 using System.Collections;
+using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
@@ -9,7 +10,14 @@ public class CustomerSpawner : MonoBehaviour
     [Header("Clientes")]
     public GameObject customerPrefab;
     public Transform spawnPoint;
-    public Sprite[] customerSprites;
+
+    public List<CustomerType> normalCustomers;     // los normales disponibles
+    public List<CustomerType> specialCustomers;    // los especiales disponibles
+
+    public int minNormals = 2;    // mínimo de normales antes de un especial
+    public int maxNormals = 4;    // máximo
+
+
     public float spawnDelay = 0.5f;
     public TextMeshProUGUI recipeText; //configurar dialogos y esas cosas(?
 
@@ -19,8 +27,8 @@ public class CustomerSpawner : MonoBehaviour
     public float maxTime = 30f;
 
     private GameObject currentCustomer;
-    private int actualCustomer;
-    private int oldCustomer = -1;
+    private int normalCount = 0;
+    private int nextNormalsTarget;
 
     private float currentTime;
     private bool timerRunning = false;
@@ -28,11 +36,17 @@ public class CustomerSpawner : MonoBehaviour
 
     private void Start()
     {
-        SpawnCustomer();
+        nextNormalsTarget = Random.Range(minNormals, maxNormals + 1);
+
+        if (GameManager.Instance != null && GameManager.Instance.hasCustomer)
+            SpawnSavedCustomer();
+        else
+            SpawnCustomer();
     }
 
-    // Genera aleatoriamente un cliente
-    public void SpawnCustomer()
+    // Restaura el cliente que estaba previamente esperando
+    // Restaura el cliente que ya estaba esperando al volver a la escena
+    private void SpawnSavedCustomer()
     {
         currentCustomer = Instantiate(
             customerPrefab,
@@ -40,41 +54,90 @@ public class CustomerSpawner : MonoBehaviour
             Quaternion.identity
         );
 
-        if (customerSprites.Length > 0)
-        {
-            var sr = currentCustomer.GetComponent<SpriteRenderer>();
+        // Restaurar el tipo de cliente guardado
+        var randomizer = currentCustomer.GetComponent<RecipeRandomizer>();
+        randomizer.customerType = GameManager.Instance.customerType;
 
-            actualCustomer = Random.Range(0, customerSprites.Length);
+        // Restaurar el sprite guardado
+        currentCustomer.GetComponent<SpriteRenderer>().sprite = GameManager.Instance.customerSprite;
 
-            while (actualCustomer == oldCustomer && customerSprites.Length > 1)
-            {
-                actualCustomer = Random.Range(0, customerSprites.Length);
-            }
+        // Restaurar la receta pedida SIN generar una nueva
+        randomizer.requestedRecipe = GameManager.Instance.requestedRecipe;
 
-            oldCustomer = actualCustomer;
+        // Restaurar el texto del globo (preferencia o nombre de receta)
+        recipeText.text = GameManager.Instance.recipeText;
 
-            sr.sprite = customerSprites[actualCustomer];
-        }
-
-        // Reiniciar temporizador
-        currentTime = maxTime;
+        // Restaurar el temporizador donde estaba
+        currentTime = GameManager.Instance.remainingTime;
         timerBar.maxValue = maxTime;
-        timerBar.value = maxTime;
+        timerBar.value = currentTime;
 
         timerRunning = true;
         changingCustomer = false;
     }
 
+    // Genera aleatoriamente un cliente
+    public void SpawnCustomer()
+    {
+        CustomerType type = PickCustomerType();
+
+        currentCustomer = Instantiate(
+            customerPrefab,
+            spawnPoint.position,
+            Quaternion.identity
+        );
+
+        currentCustomer = Instantiate(customerPrefab, spawnPoint.position, Quaternion.identity);
+
+        // Sprite desde el CustomerType
+        currentCustomer.GetComponent<SpriteRenderer>().sprite = type.sprite;
+
+        // Asignar el tipo ANTES de generar la receta
+        var randomizer = currentCustomer.GetComponent<RecipeRandomizer>();
+        randomizer.customerType = type;
+        randomizer.GenerateRandomRecipe();
+
+        // Guardar estado para el cambio de escena
+        GameManager.Instance.customerType = type;
+        GameManager.Instance.customerSprite = type.sprite;
+        GameManager.Instance.requestedRecipe = randomizer.requestedRecipe;
+        GameManager.Instance.recipeText = recipeText.text;
+        GameManager.Instance.hasCustomer = true;
+
+        // Reiniciar temporizador
+        currentTime = maxTime;
+        timerBar.maxValue = maxTime;
+        timerBar.value = maxTime;
+        GameManager.Instance.remainingTime = currentTime;
+
+        timerRunning = true;
+        changingCustomer = false;
+    }
+
+    // Decide si toca normal o especial (2-4 normales → 1 especial)
+    private CustomerType PickCustomerType()
+    {
+        if (normalCount >= nextNormalsTarget && specialCustomers.Count > 0)
+        {
+            normalCount = 0;
+            nextNormalsTarget = Random.Range(minNormals, maxNormals + 1);
+            return specialCustomers[Random.Range(0, specialCustomers.Count)];
+        }
+
+        normalCount++;
+        return normalCustomers[Random.Range(0, normalCustomers.Count)];
+    }
     private void Update()
     {
         if (timerRunning)
         {
             currentTime -= Time.deltaTime;
-
-            // Actualizar la barra
             timerBar.value = currentTime;
 
-            // Si se acaba el tiempo
+            // Guardar el tiempo restante para que sobreviva al cambio de escena
+            if (GameManager.Instance != null)
+                GameManager.Instance.remainingTime = currentTime;
+
             if (currentTime <= 0)
             {
                 timerRunning = false;
@@ -83,14 +146,17 @@ public class CustomerSpawner : MonoBehaviour
         }
     }
 
+
     // Se llama cuando el cliente recibe su pedido
     public void OnCustomerServed()
     {
-        if (changingCustomer)
-            return;
+        if (changingCustomer) return;
 
         timerRunning = false;
         changingCustomer = true;
+
+        // Liberar el cliente guardado
+        GameManager.Instance.hasCustomer = false;
 
         StartCoroutine(ChangeCustomerAfterDelay());
     }
@@ -98,18 +164,14 @@ public class CustomerSpawner : MonoBehaviour
     // Se llama cuando se agota el tiempo
     private void OnCustomerTimeOut()
     {
-        if (changingCustomer)
-            return;
+        if (changingCustomer) return;
 
         changingCustomer = true;
 
+        recipeText.text = "Que tardon... Me piro";
 
-
-        // Mostrar mensaje de despedida
-        recipeText.text =
-                    "Que tardon... Me piro";
-
-
+        // Liberar el cliente guardado
+        GameManager.Instance.hasCustomer = false;
 
         StartCoroutine(CustomerLeavesAfterDelay());
     }

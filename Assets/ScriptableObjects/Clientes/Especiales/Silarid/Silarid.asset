@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2be2d19b981bc6409d3d3184be83f55, type: 3}
+  m_Name: Silarid
+  m_EditorClassIdentifier: 
+  customerName: Silarid
+  sprite: {fileID: 5770581514594138179, guid: 10814cd9018da194abb4dbc1e2632fde, type: 3}
+  isSpecial: 1
+  preferences: []
+  enterLines:
+  - por las precarias
+  correctLines:
+  - te doy 1 pabo por esto
+  wrongLines:
+  - no es lo que he pedido, pues te robo
+  timeoutLines:
+  - por tardar me llevo tu dinero

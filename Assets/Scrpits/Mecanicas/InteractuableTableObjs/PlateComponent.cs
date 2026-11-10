@@ -18,6 +18,26 @@ public class PlateComponent : MonoBehaviour
     private RecipeComponent currentRecipe;          // Receta actual
     private ClientComponent client;                // Cliente al que se le va a entregar el plato
 
+
+    private void Start()
+    {
+        if (GameManager.Instance != null)
+        {
+            ingredients = new List<IngredientComponent>(GameManager.Instance.plateIngredients);
+            if (GameManager.Instance.isBaked)
+            {
+                // mostrar la receta horneada
+                ShowSprite(GameManager.Instance.bakedRecipe.recipeSprite);
+            }
+            else
+            {
+                RebuildPlate();   // mostrar ingredientes apilados
+            }
+        }
+    }
+
+
+
     // Añade un ingrediente al plato (se llama desde DragAndDrop)
     public bool AddIngredient(IngredientComponent ingredient)
     {
@@ -30,6 +50,9 @@ public class PlateComponent : MonoBehaviour
 
         ingredients.Add(ingredient);// Se añade el ingrediente al plato
         RebuildPlate();// Se actualiza visualmente el plato
+
+        GameManager.Instance.SavePlate(ingredients, false, null);   // Guarda en el Manager lo que se ha añadido por si se cambia de escena
+
         return true; // Se devuelve true si se ha añadido
     }
 
@@ -71,6 +94,9 @@ public class PlateComponent : MonoBehaviour
             Destroy(ingredientParent.GetChild(i).gameObject);
 
         ShowSprite(currentRecipe.recipeSprite);   // aparece la receta terminada
+
+        GameManager.Instance.SavePlate(ingredients, true, currentRecipe);       // Guarda que ya está horneado
+
         return true;
     }
 
