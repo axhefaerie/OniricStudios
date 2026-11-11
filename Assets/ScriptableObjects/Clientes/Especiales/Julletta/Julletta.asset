@@ -14,8 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   customerName: Julletta
   sprite: {fileID: 21300000, guid: 235f4601996b9904298b96f797e14469, type: 3}
-  isSpecial: 0
-  preferences: []
+  isSpecial: 1
+  preferences:
+  - {fileID: 11400000, guid: 228a2d86645509544abe9ab6f1bd6101, type: 2}
   enterLines:
   - hoooola
   correctLines:

@@ -9,11 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8cca7f08629941140ba18426f6758e7b, type: 3}
-  m_Name: limon
+  m_Script: {fileID: 11500000, guid: dbc71b29c7d3c3b4591582952d2320bc, type: 3}
+  m_Name: ZG_pref1
   m_EditorClassIdentifier: 
-  id: 2
-  name: limon
-  type: 3
-  cooked: 0
-  sprite: {fileID: 21300000, guid: c30718d0d6248b746aeeb7558599dbfa, type: 3}
+  preferenceText: Quie..ro.. Receta.. 1
+  preferenceRecipe: {fileID: 11400000, guid: 335f078ccee887b429d6c82b8d428463, type: 2}

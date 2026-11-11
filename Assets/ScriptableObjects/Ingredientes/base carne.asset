@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8cca7f08629941140ba18426f6758e7b, type: 3}
-  m_Name: cereza
+  m_Name: base carne
   m_EditorClassIdentifier: 
-  id: 4
-  name: ceraza
-  type: 3
+  id: 3
+  name: base carne
+  type: 0
   cooked: 0
-  sprite: {fileID: -8118779410464207872, guid: 2dac432d9844f5b45acd8410656ea627, type: 3}
+  sprite: {fileID: 7960980970626661098, guid: 724b6e5238d2aaf4a9ab232e9b8fe423, type: 3}

@@ -45,10 +45,7 @@ public class RecipeRandomizer : MonoBehaviour
         requestedRecipe = chosen.preferenceRecipe;
 
         // Lo único que cambia: el texto que muestra
-        if (customerType.isSpecial)
-            recipeText.text = chosen.preferenceText;              // "Me apetece algo dulce"
-        else
-            recipeText.text = "Quiero " + requestedRecipe.name;   // "Quiero Galletas"
+        recipeText.text = chosen.preferenceText;              // "Me apetece algo dulce"
 
         if (balloon != null) balloon.SetActive(true);
         orderCompleted = false;

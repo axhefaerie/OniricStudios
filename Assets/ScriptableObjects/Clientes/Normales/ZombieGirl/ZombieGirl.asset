@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2be2d19b981bc6409d3d3184be83f55, type: 3}
+  m_Name: ZombieGirl
+  m_EditorClassIdentifier: 
+  customerName: ZombieGirl
+  sprite: {fileID: 5770581514594138179, guid: ea2b786a8c3681040992d746b468667b, type: 3}
+  isSpecial: 0
+  preferences:
+  - {fileID: 11400000, guid: 228a2d86645509544abe9ab6f1bd6101, type: 2}
+  enterLines: []
+  correctLines: []
+  wrongLines: []
+  timeoutLines: []

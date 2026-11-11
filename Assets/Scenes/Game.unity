@@ -3091,7 +3091,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   customerPrefab: {fileID: 7531226520133852929, guid: 0c2c7f25f0fed954c8f73d81e8fbd427, type: 3}
   spawnPoint: {fileID: 837124200}
-  normalCustomers: []
+  normalCustomers:
+  - {fileID: 11400000, guid: eb7e48447db2362498f48a781d2bea6f, type: 2}
   specialCustomers:
   - {fileID: 11400000, guid: ac37c8665542ed047bb006958c72297d, type: 2}
   - {fileID: 11400000, guid: 2a9b50e8b6e6fc043ba7d35fec8c8244, type: 2}

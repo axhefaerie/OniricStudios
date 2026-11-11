@@ -2,6 +2,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using TMPro;
+using UnityEditor.PackageManager;
+using UnityEditor.Search;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -27,16 +29,17 @@ public class CustomerSpawner : MonoBehaviour
     public float maxTime = 30f;
 
     private GameObject currentCustomer;
-    private int normalCount = 0;
-    private int nextNormalsTarget;
 
     private float currentTime;
     private bool timerRunning = false;
     private bool changingCustomer = false;
 
+    private bool spawning = false;
+
     private void Start()
     {
-        nextNormalsTarget = Random.Range(minNormals, maxNormals + 1);
+        if (GameManager.Instance.nextNormalsTarget <= 0)
+            GameManager.Instance.nextNormalsTarget = Random.Range(minNormals, maxNormals + 1);
 
         if (GameManager.Instance != null && GameManager.Instance.hasCustomer)
             SpawnSavedCustomer();
@@ -48,6 +51,10 @@ public class CustomerSpawner : MonoBehaviour
     // Restaura el cliente que ya estaba esperando al volver a la escena
     private void SpawnSavedCustomer()
     {
+
+        if (currentCustomer != null)
+            Destroy(currentCustomer);
+
         currentCustomer = Instantiate(
             customerPrefab,
             spawnPoint.position,
@@ -79,13 +86,18 @@ public class CustomerSpawner : MonoBehaviour
     // Genera aleatoriamente un cliente
     public void SpawnCustomer()
     {
-        CustomerType type = PickCustomerType();
+        if (spawning) return;
+        spawning = true;
 
-        currentCustomer = Instantiate(
-            customerPrefab,
-            spawnPoint.position,
-            Quaternion.identity
-        );
+        if (currentCustomer != null)
+            Destroy(currentCustomer);
+
+        CustomerType type = PickCustomerType();
+        if (type == null)
+        {
+            spawning = false;   // ← faltaba
+            return;
+        }
 
         currentCustomer = Instantiate(customerPrefab, spawnPoint.position, Quaternion.identity);
 
@@ -112,21 +124,34 @@ public class CustomerSpawner : MonoBehaviour
 
         timerRunning = true;
         changingCustomer = false;
+        spawning = false;
     }
 
     // Decide si toca normal o especial (2-4 normales → 1 especial)
     private CustomerType PickCustomerType()
     {
-        if (normalCount >= nextNormalsTarget && specialCustomers.Count > 0)
+        bool canSpecial = specialCustomers != null && specialCustomers.Count > 0;
+        bool canNormal = normalCustomers != null && normalCustomers.Count > 0;
+
+        if (!canNormal && !canSpecial) return null;
+        if (!canNormal) return specialCustomers[Random.Range(0, specialCustomers.Count)];
+        if (!canSpecial) return normalCustomers[Random.Range(0, normalCustomers.Count)];
+
+        var gm = GameManager.Instance;
+        if (gm == null)
+            return normalCustomers[Random.Range(0, normalCustomers.Count)];
+
+        if (gm.normalCount >= gm.nextNormalsTarget)
         {
-            normalCount = 0;
-            nextNormalsTarget = Random.Range(minNormals, maxNormals + 1);
+            gm.normalCount = 0;
+            gm.nextNormalsTarget = Random.Range(minNormals, maxNormals + 1);
             return specialCustomers[Random.Range(0, specialCustomers.Count)];
         }
 
-        normalCount++;
+        gm.normalCount++;
         return normalCustomers[Random.Range(0, normalCustomers.Count)];
     }
+
     private void Update()
     {
         if (timerRunning)

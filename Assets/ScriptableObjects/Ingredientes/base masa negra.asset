@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8cca7f08629941140ba18426f6758e7b, type: 3}
-  m_Name: hamb
+  m_Name: base masa negra
   m_EditorClassIdentifier: 
-  id: 3
-  name: hambuerguesa
+  id: 1
+  name: base2
   type: 0
   cooked: 0
-  sprite: {fileID: 7960980970626661098, guid: 724b6e5238d2aaf4a9ab232e9b8fe423, type: 3}
+  sprite: {fileID: 21300000, guid: 2c6375b6cb1c81e4aa9d24700cff7ddb, type: 3}

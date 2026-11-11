@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2be2d19b981bc6409d3d3184be83f55, type: 3}
+  m_Name: CaraPie
+  m_EditorClassIdentifier: 
+  customerName: CaraPie
+  sprite: {fileID: 6925114656826501088, guid: de12095930414474ebd9f54d0900be1e, type: 3}
+  isSpecial: 0
+  preferences:
+  - {fileID: 11400000, guid: 228a2d86645509544abe9ab6f1bd6101, type: 2}
+  enterLines:
+  - snifff
+  correctLines:
+  - mmmmmm que rico
+  wrongLines:
+  - a que te chupo los pies
+  timeoutLines:
+  - me piro vampiro

@@ -20,6 +20,9 @@ public class GameManager : MonoBehaviour
     public CustomerType customerType;
     public string recipeText;
 
+    public int normalCount = 0;
+    public int nextNormalsTarget = 0;
+
     private void Awake()
     {
         if (Instance != null) { Destroy(gameObject); return; }
