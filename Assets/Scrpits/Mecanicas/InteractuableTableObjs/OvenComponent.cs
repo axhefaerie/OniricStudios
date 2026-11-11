@@ -15,7 +15,14 @@ public class OvenComponent : MonoBehaviour
     public void BakePlate(PlateComponent plate)
     {
         // Llama al método de Bake del plato para cambiar el sprite de la receta
-        if (plate == null || isCooking || isReady) return;
+        if (plate == null || plate.HasBeenBaked || isCooking || isReady) return;
+
+        // Comprobamos que los ingredientes forman una receta
+       // if (!plate.HasValidRecipe())
+     //   {
+      //      Debug.LogWarning("Este plato no contiene una receta válida.");
+      //      return;
+      //  }
 
         currentPlate = plate; //se acepta el plato recibido
         isCooking = true; //el horno está cocinando 

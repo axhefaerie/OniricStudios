@@ -18,6 +18,12 @@ public class PlateComponent : MonoBehaviour
     private RecipeComponent currentRecipe;          // Receta actual
     private ClientComponent client;                // Cliente al que se le va a entregar el plato
 
+    private bool hasBeenBaked = false;//para saber si un plato ha sido cocinado ya
+    public bool HasBeenBaked
+    {
+        get { return hasBeenBaked; }
+    }
+
 
     private void Start()
     {
@@ -85,6 +91,7 @@ public class PlateComponent : MonoBehaviour
 
         if (currentRecipe == null)
         {
+            hasBeenBaked = true;
             Debug.Log("No se puede hornear: ingredientes no forman una receta");
             return false;
         }
@@ -170,5 +177,10 @@ public class PlateComponent : MonoBehaviour
 
         // Reiniciar la receta actual
         currentRecipe = null;
+    }
+
+    public bool HasValidRecipe()//comprobar que la receta es valida
+    {
+        return recipeBook.FindRecipe(ingredients) != null;
     }
 }
