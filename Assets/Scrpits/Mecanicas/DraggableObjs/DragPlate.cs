@@ -58,10 +58,17 @@ public class DragPlate : Draggable
 
             // LÓGICA DE METER AL HORNO
             OvenComponent oven = hit.GetComponentInParent<OvenComponent>();
+
             if (oven != null)
             {
-                oven.BakePlate(GetComponent<PlateComponent>());
-                ReturnToOrigin();
+                PlateComponent plate = GetComponent<PlateComponent>();
+
+                if (plate != null)
+                {
+                    ReturnToOrigin();
+                    oven.BakePlate(plate);
+                }
+
                 return;
             }
         }

@@ -47,6 +47,12 @@ public abstract class Draggable : MonoBehaviour
         transform.position = originalPosition;      // Mueve el sprite a la posición original
     }
 
+    public void SetOriginalPosition(Vector3 newPosition) //permite modificar la posición a la que vuelve el
+                                                         //plato cuando se terminar de arrastrar al horno
+    {
+        originalPosition = newPosition;
+    }
+
     // Devuelve la posición del ratón para arrastrarlo correctamente
     protected Vector3 GetMouseWorldPos()
     {
