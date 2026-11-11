@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 56037ad9e84736a44900736a8881c767
+guid: ede9668f09288c848818008db16a4474
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -103,10 +103,10 @@ TextureImporter:
       name: Moscas_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 25
-        width: 180
-        height: 102
+        x: 0
+        y: 0
+        width: 177
+        height: 101
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

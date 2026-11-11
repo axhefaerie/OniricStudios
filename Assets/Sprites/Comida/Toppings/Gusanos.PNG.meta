@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7d36320fcee130f46ac72058cc3604b1
+guid: e92e039ef77b88541bc06b2aa7dcc75d
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -103,8 +103,8 @@ TextureImporter:
       name: Gusanos_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 26
+        x: 5
+        y: 2
         width: 149
         height: 91
       alignment: 0

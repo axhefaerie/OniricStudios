@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3a0ac45bd543256488db72acde3a653b
+guid: 6e09d737ea3df2b4e8393c61aa0725a7
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -103,9 +103,9 @@ TextureImporter:
       name: Nata_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 13
-        width: 63
+        x: 2
+        y: 10
+        width: 62
         height: 144
       alignment: 0
       pivot: {x: 0, y: 0}

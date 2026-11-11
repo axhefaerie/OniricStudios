@@ -4,6 +4,8 @@ public class OvenComponent : MonoBehaviour
 {
 
     public GameObject minigamePanel; //referencia al panel donde aparece el minijuego
+    public Animator doorsAnimator; // referencia al animator de las puertas
+
     private PlateComponent currentPlate;//plato que hemos introducido en el horno
     private bool isCooking = false;// horno ocupado
     private bool isReady = false;//horno vacio/plato terminado para recoger
@@ -19,13 +21,18 @@ public class OvenComponent : MonoBehaviour
         isCooking = true; //el horno está cocinando 
 
         currentPlate.gameObject.SetActive(false);//desaparece el plato temporalmente mientras cocina(aparece el fueguito)
+
+        doorsAnimator.SetTrigger("Cerrar"); // Cerrar puertas horno
+
         minigamePanel.SetActive(true);
         //plate.Bake(); // true/false según si se formó la receta
     }
 
     public void FinishCooking() //que el horno termine cuando el minijuego se logre pasar
     {
-        if (!isCooking || currentPlate == null)//comprueba que hay un plato cocinandose
+        doorsAnimator.SetTrigger("Abrir"); // abrir puertas horno
+
+        if (!isCooking || currentPlate == null) //comprueba que hay un plato cocinandose
             return;
 
         bool baked = currentPlate.Bake(); // guarda el resultado de baked que puede ser verdadero(cocinado) o falso(no se ha logrado cocinar)

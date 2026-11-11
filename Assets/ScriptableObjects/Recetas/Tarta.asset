@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6e59ab3c07384a4bbc9a6c1945901d6, type: 3}
+  m_Name: Tarta
+  m_EditorClassIdentifier: 
+  name: Tarta
+  recipeSprite: {fileID: 21300000, guid: 2e2e9c52742e99d46ace1a0ee7f7830c, type: 3}
+  baseIngredient: {fileID: 11400000, guid: b26c6699952953247b554fc72110de89, type: 2}
+  sauceIngredients:
+  - {fileID: 11400000, guid: 190d5163515e0f9428fd75b359844384, type: 2}
+  toppingIngredients:
+  - {fileID: 11400000, guid: 303bf8ad0b028fa4f89e1a45b8e2319c, type: 2}
+  - {fileID: 11400000, guid: fbe6b3ed1091a204bb17562ad6f258bf, type: 2}
+  flowerIngredient: {fileID: 11400000, guid: 159d743d2a361cb419256297df369ac6, type: 2}

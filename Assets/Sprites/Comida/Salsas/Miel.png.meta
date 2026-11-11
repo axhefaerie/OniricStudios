@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 075df1a71c06b5049bed42f90f02bb31
+guid: 933d88904f08cd4469fcfe48555befdb
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -103,8 +103,8 @@ TextureImporter:
       name: Miel_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 2
+        x: 18
+        y: 0
         width: 126
         height: 111
       alignment: 0

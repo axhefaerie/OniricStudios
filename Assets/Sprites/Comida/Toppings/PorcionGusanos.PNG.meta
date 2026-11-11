@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 4631b01e2724c3641818e27a4dde1836
+guid: 3ad05e572fb3d4a428618ab7fddeb744
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6831734514569830712
-    second: PorcionGusanos_0
+      213: 6901028204062883683
+    second: PorcionGusanos (2)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PorcionGusanos_0
+      name: PorcionGusanos (2)_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 0
-        width: 112
-        height: 116
+        x: 12
+        y: 7
+        width: 109
+        height: 107
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 831e5bc48523fce50800000000000000
-      internalID: 6831734514569830712
+      spriteID: 36fbe10a69065cf50800000000000000
+      internalID: 6901028204062883683
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      PorcionGusanos_0: 6831734514569830712
+      PorcionGusanos (2)_0: 6901028204062883683
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6e59ab3c07384a4bbc9a6c1945901d6, type: 3}
+  m_Name: Tortitas
+  m_EditorClassIdentifier: 
+  name: Tortitas
+  recipeSprite: {fileID: 21300000, guid: 8a41f2f304b0b97458be5dde719f1d6d, type: 3}
+  baseIngredient: {fileID: 11400000, guid: b26c6699952953247b554fc72110de89, type: 2}
+  sauceIngredients:
+  - {fileID: 11400000, guid: f07c92df9ab496c4d90ae09702784aa9, type: 2}
+  - {fileID: 11400000, guid: 213ad455563c2f44eb0ee49bda1568f4, type: 2}
+  toppingIngredients:
+  - {fileID: 11400000, guid: d1052cc269af4f043beab01697b38f61, type: 2}
+  flowerIngredient: {fileID: 11400000, guid: 159d743d2a361cb419256297df369ac6, type: 2}

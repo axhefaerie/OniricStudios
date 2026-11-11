@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 432540383ddf7f044831cd60eaff3a01
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1221649417315642583
+    second: LucesHorno1_0
+  - first:
+      213: 5014207748797318891
+    second: LucesHorno1_1
+  - first:
+      213: 7571981172974443409
+    second: LucesHorno1_2
+  - first:
+      213: 3811358467148379099
+    second: LucesHorno1_3
+  - first:
+      213: -3691354264229502027
+    second: LucesHorno1_4
+  - first:
+      213: -4106869019633726658
+    second: LucesHorno1_5
+  - first:
+      213: -7220656663665148319
+    second: LucesHorno1_6
+  - first:
+      213: -5928924647162903803
+    second: LucesHorno1_7
+  - first:
+      213: 7767322813384822598
+    second: LucesHorno1_8
+  - first:
+      213: -7584591264126296260
+    second: LucesHorno1_9
+  - first:
+      213: 179333997024368413
+    second: LucesHorno1_10
+  - first:
+      213: 2268023114232257235
+    second: LucesHorno1_11
+  - first:
+      213: 4985839340960635005
+    second: LucesHorno1_12
+  - first:
+      213: 6000043725183030445
+    second: LucesHorno1_13
+  - first:
+      213: 2776675314769738615
+    second: LucesHorno1_14
+  - first:
+      213: -7668818730995973865
+    second: LucesHorno1_15
+  - first:
+      213: -3198818943154034243
+    second: LucesHorno1_16
+  - first:
+      213: -8111803656381373225
+    second: LucesHorno1_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LucesHorno1_0
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 965
+        width: 131
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc69272cab24f010800000000000000
+      internalID: 1221649417315642583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LucesHorno1_1
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 929
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be64311916b069540800000000000000
+      internalID: 5014207748797318891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LucesHorno1_2
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 953
+        width: 84
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b561d32c4151960800000000000000
+      internalID: 7571981172974443409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LucesHorno1_3
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1016
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd37e0a155aa4e430800000000000000
+      internalID: 3811358467148379099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LucesHorno1_4
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1015
+        width: 84
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b32a74badca5ccc0800000000000000
+      internalID: -3691354264229502027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LucesHorno1_5
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 953
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bcca1c2687107c0800000000000000
+      internalID: -4106869019633726658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LucesHorno1_6
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 932
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e7e2565031bcb90800000000000000
+      internalID: -7220656663665148319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LucesHorno1_7
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 982
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5030cc9327a38bda0800000000000000
+      internalID: -5928924647162903803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LucesHorno1_8
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 898
+        width: 116
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f079b12f21bcb60800000000000000
+      internalID: 7767322813384822598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LucesHorno1_9
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 924
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f983f1e6e1eb690800000000000000
+      internalID: -7584591264126296260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LucesHorno1_10
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 888
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17d9c4f15f1d7200800000000000000
+      internalID: 179333997024368413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LucesHorno1_11
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 869
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da50328103a97f10800000000000000
+      internalID: 2268023114232257235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LucesHorno1_12
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 937
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d785029e672413540800000000000000
+      internalID: 4985839340960635005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LucesHorno1_13
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 794
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4985c7aff644350800000000000000
+      internalID: 6000043725183030445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LucesHorno1_14
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 838
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b3271cc7bb88620800000000000000
+      internalID: 2776675314769738615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LucesHorno1_15
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 790
+        width: 85
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7118f1ccef1e29590800000000000000
+      internalID: -7668818730995973865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LucesHorno1_16
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 691
+        width: 91
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db963888e138b93d0800000000000000
+      internalID: -3198818943154034243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LucesHorno1_17
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 607
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d46cad7d851d6f80800000000000000
+      internalID: -8111803656381373225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LucesHorno1_0: 1221649417315642583
+      LucesHorno1_1: 5014207748797318891
+      LucesHorno1_10: 179333997024368413
+      LucesHorno1_11: 2268023114232257235
+      LucesHorno1_12: 4985839340960635005
+      LucesHorno1_13: 6000043725183030445
+      LucesHorno1_14: 2776675314769738615
+      LucesHorno1_15: -7668818730995973865
+      LucesHorno1_16: -3198818943154034243
+      LucesHorno1_17: -8111803656381373225
+      LucesHorno1_2: 7571981172974443409
+      LucesHorno1_3: 3811358467148379099
+      LucesHorno1_4: -3691354264229502027
+      LucesHorno1_5: -4106869019633726658
+      LucesHorno1_6: -7220656663665148319
+      LucesHorno1_7: -5928924647162903803
+      LucesHorno1_8: 7767322813384822598
+      LucesHorno1_9: -7584591264126296260
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

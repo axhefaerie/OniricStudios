@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5eaf73a353c9dff4b9c5d6cbceefef21
+guid: 5d0679876033e9a4185762a868f139d8
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -103,9 +103,9 @@ TextureImporter:
       name: Sirope_0
       rect:
         serializedVersion: 2
-        x: 10
-        y: 5
-        width: 84
+        x: 15
+        y: 3
+        width: 94
         height: 169
       alignment: 0
       pivot: {x: 0, y: 0}

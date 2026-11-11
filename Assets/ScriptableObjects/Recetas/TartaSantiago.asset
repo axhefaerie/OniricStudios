@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6e59ab3c07384a4bbc9a6c1945901d6, type: 3}
+  m_Name: TartaSantiago
+  m_EditorClassIdentifier: 
+  name: Tarta de Santiago
+  recipeSprite: {fileID: 21300000, guid: 717f7075625e3d34f9a1c6af45594648, type: 3}
+  baseIngredient: {fileID: 11400000, guid: b26c6699952953247b554fc72110de89, type: 2}
+  sauceIngredients: []
+  toppingIngredients:
+  - {fileID: 11400000, guid: 77baf178677e39d40b70467954e14f22, type: 2}
+  - {fileID: 11400000, guid: dd34e5b83a4b422498cba92deefc33bc, type: 2}
+  flowerIngredient: {fileID: 11400000, guid: 159d743d2a361cb419256297df369ac6, type: 2}
