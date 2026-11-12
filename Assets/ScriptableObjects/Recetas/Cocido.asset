@@ -13,7 +13,8 @@ MonoBehaviour:
   m_Name: Cocido
   m_EditorClassIdentifier: 
   name: Cocido
-  recipeSprite: {fileID: 21300000, guid: e900b32d22d7d6446b477aee6f84eb96, type: 3}
+  recipeSprite: {fileID: 21300000, guid: 18549ea7398e8cd49bdbce61deca25b5, type: 3}
+  bookSprite: {fileID: 21300000, guid: 8e30ad3ea16b9ff449345784dc68f120, type: 3}
   baseIngredient: {fileID: 11400000, guid: fbdfed240e3fe084d92b19ab77cd2803, type: 2}
   sauceIngredients:
   - {fileID: 11400000, guid: af92022e87c5d6b49be78b50aa35c974, type: 2}
@@ -22,4 +23,3 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 9511e958dc12b144390bfb8378475756, type: 2}
   - {fileID: 11400000, guid: 1482d27cf2c14ec438d5112c37370757, type: 2}
   - {fileID: 11400000, guid: 303bf8ad0b028fa4f89e1a45b8e2319c, type: 2}
-  flowerIngredient: {fileID: 11400000, guid: 159d743d2a361cb419256297df369ac6, type: 2}

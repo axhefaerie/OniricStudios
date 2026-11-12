@@ -17,3 +17,4 @@ MonoBehaviour:
   type: 1
   cooked: 0
   sprite: {fileID: 21300000, guid: 5d0679876033e9a4185762a868f139d8, type: 3}
+  plateSprite: {fileID: 21300000, guid: 82d44f8689030cf49ad3ce6f60b74335, type: 3}

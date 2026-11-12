@@ -466,7 +466,12 @@ MonoBehaviour:
   recipeBook: {fileID: 11400000, guid: 7a6547e0780ef7a41ac1d8788297f0fa, type: 2}
   balloon: {fileID: 2474418467518773941}
   recipeText: {fileID: 8406110099931250023}
+  customerType: {fileID: 0}
+  availableFlowers:
+  - {fileID: 11400000, guid: 159d743d2a361cb419256297df369ac6, type: 2}
+  - {fileID: 11400000, guid: 8d26a136a2bf33e44be754c98469b265, type: 2}
   requestedRecipe: {fileID: 0}
+  requestedFlower: {fileID: 0}
 --- !u!61 &5587941005012677264
 BoxCollider2D:
   m_ObjectHideFlags: 0

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: base masa negra
   m_EditorClassIdentifier: 
   id: 1
-  name: base2
+  name: Base negra
   type: 0
   cooked: 0
-  sprite: {fileID: 21300000, guid: 2c6375b6cb1c81e4aa9d24700cff7ddb, type: 3}
+  sprite: {fileID: 21300000, guid: d2eb7b11c02dfe64c9afccd2fc2dced3, type: 3}

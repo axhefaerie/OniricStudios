@@ -47,7 +47,7 @@ public class PlateComponent : MonoBehaviour
     // Añade un ingrediente al plato (se llama desde DragAndDrop)
     public bool AddIngredient(IngredientComponent ingredient)
     {
-        //No permite añadir más de una base
+        // No permite añadir más de una base ni una flor
         if (ingredient.type == IngredientType.Base || ingredient.type == IngredientType.Flower)
         {
             if (ingredients.Exists(i => i.type == ingredient.type))//Si ya existe ese tipo de ingrediente, devuelve false y no deja  añadirlo al platp
@@ -77,10 +77,19 @@ public class PlateComponent : MonoBehaviour
         {
             Destroy(ingredientParent.GetChild(i).gameObject);
         }
-        
-        foreach (var ing in ingredients)        // Se recorre toda la lista de ingredientes
-           ShowSprite(ing.sprite);         // Se llama al método para que los renderice
-        
+             
+        foreach (var ing in ingredients) // Se recorre toda la lista de ingredientes
+        {
+            Sprite spriteToShow = ing.sprite;
+
+            if (ing.type == IngredientComponent.IngredientType.Sauce &&
+                ing.plateSprite != null)
+            {
+                spriteToShow = ing.plateSprite;
+            }
+
+            ShowSprite(spriteToShow); // Se llama al método para que los renderice
+        }
     }
 
     // Este método se llama al hornear el plato para cambiar el sprite y que salga la recepta que se haya seguido
@@ -100,7 +109,7 @@ public class PlateComponent : MonoBehaviour
         for (int i = ingredientParent.childCount - 1; i >= 0; i--)
             Destroy(ingredientParent.GetChild(i).gameObject);
 
-        ShowSprite(currentRecipe.recipeSprite);   // aparece la receta terminada
+        ShowSprite(currentRecipe.recipeSprite, 0.3f);   // aparece la receta terminada
 
         GameManager.Instance.SavePlate(ingredients, true, currentRecipe);       // Guarda que ya está horneado
 
@@ -108,7 +117,7 @@ public class PlateComponent : MonoBehaviour
     }
 
     // Añade el sprite del ingrediente en el plato
-    private void ShowSprite (Sprite sprite)
+    private void ShowSprite (Sprite sprite, float scale = 0.9f)
     {
         // Primero, crea un gameObject vacío para añadirle el sprite correspondiente
         GameObject go = new GameObject("sprite");               // Instancia un objeto con el sprite del ingrediente dentro del plato
@@ -119,7 +128,7 @@ public class PlateComponent : MonoBehaviour
 
         // Segundo, lo ajustar visualmente
         go.transform.localPosition = new Vector3(0, 0.4f, -ingredients.Count * 0.1f);       // Lo ajusta un poco hacia arriba del plato
-        go.transform.localScale = new Vector3(0.9f, 0.9f, 0.9f);        // Ajusta el tamaño
+        go.transform.localScale = new Vector3(scale, scale, scale);        // Ajusta el tamaño
     }
 
     // Método que se llama al entregar el plato y qu7e comprueba si la receta está bien o mal con la que pide el cliente
@@ -143,8 +152,17 @@ public class PlateComponent : MonoBehaviour
             return;
         }
 
+        // Buscar la flor añadida al plato
+        IngredientComponent currentFlower = ingredients.Find(i => i.type == IngredientType.Flower);
 
-        bool correct = client.ReceivePlate(currentRecipe);
+        if (currentFlower == null)
+        {
+            Debug.LogWarning("El plato no tiene ninguna flor.");
+            return;
+        }
+
+        // Comprobar receta y flor
+        bool correct = client.ReceivePlate(currentRecipe, currentFlower);
 
         if (correct)
         {

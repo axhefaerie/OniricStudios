@@ -8,7 +8,9 @@ public class IngredientComponent : ScriptableObject
     public string name;         // Nombre del ingrediente
     public IngredientType type;     // Indicador del tipo de ingrediente 
     public bool cooked = false;         // Bool que indica si un ingrediente ha sido cocinado
+    
     public Sprite sprite;               // Sprite de cada ingrediente
+    public Sprite plateSprite;  // Sprite que aparece en el plato
 
     // Enumerador de los distintos tipos de ingrediente
     public enum IngredientType

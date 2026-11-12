@@ -9,14 +9,15 @@ public class RecipeComponent : ScriptableObject
 {
     public string name;              // Nombre de la receta
     public Sprite recipeSprite;      // Sprite de la receta final
+    public Sprite bookSprite;      // Sprite de la receta final deformado para el libro
 
     // Ingredientes que forman una receta
-    // Una receta está compuesta por: 1 base, X salsas, X toppings y 1 flor.
+    // Una receta está compuesta por: 1 base, X salsas, X toppings
     public IngredientComponent baseIngredient;
     // Como el número de salsas (o toppings) no es fijo, se usa una lista
     public List<IngredientComponent> sauceIngredients = new List<IngredientComponent>();
     public List<IngredientComponent> toppingIngredients = new List<IngredientComponent> ();
-    public IngredientComponent flowerIngredient;
+    //public IngredientComponent flowerIngredient;
 
     // MÉTODOS
     // Este método comprueba si una lista de ingredientes coincide con esta receta
@@ -27,7 +28,7 @@ public class RecipeComponent : ScriptableObject
         var bases = new List<IngredientComponent> ();
         var sauces = new List<IngredientComponent> ();
         var toppings = new List<IngredientComponent> ();
-        var flowers = new List<IngredientComponent> ();
+        //var flowers = new List<IngredientComponent> ();
 
         // Se van separando los ingredientes según su tipo
         foreach (var ingredient in list) {
@@ -35,12 +36,14 @@ public class RecipeComponent : ScriptableObject
                 case IngredientComponent.IngredientType.Base: bases.Add(ingredient); break;
                 case IngredientComponent.IngredientType.Sauce: sauces.Add(ingredient); break;
                 case IngredientComponent.IngredientType.Topping: toppings.Add(ingredient); break;
-                case IngredientComponent.IngredientType.Flower: flowers.Add(ingredient); break;
+                //case IngredientComponent.IngredientType.Flower: flowers.Add(ingredient); break;
             }
         }
 
-        // Se comprueba que la receta tiene exactamente 1 base y 1 flor Y se comprueba que la base y la flor sean la misma que la de la receta
-        if (bases.Count != 1 || flowers.Count != 1 || bases[0] != baseIngredient || flowers[0] != flowerIngredient) { return false; }
+        // Se comprueba que la receta tiene exactamente 1 base Y se comprueba que la base sea la misma que la de la receta
+        //if (bases.Count != 1 || flowers.Count != 1 || bases[0] != baseIngredient || flowers[0] != flowerIngredient) { return false; }
+        if (bases.Count != 1 || bases[0] != baseIngredient)
+            return false;
 
         return SameSet(sauces, this.sauceIngredients) && SameSet(toppings, this.toppingIngredients);
     }

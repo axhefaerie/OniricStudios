@@ -4,6 +4,7 @@ using UnityEngine;
 using static RecipeComponent;
 using static RecipeRandomizer;
 
+// EL CLIENTE PIDE UN PLATO Y UNA FLOR :)
 
 public class ClientComponent : MonoBehaviour
 {
@@ -17,7 +18,7 @@ public class ClientComponent : MonoBehaviour
             spawner = FindObjectOfType<CustomerSpawner>();
         }
     }
-    public bool ReceivePlate(RecipeComponent deliveredRecipe)
+    public bool ReceivePlate(RecipeComponent deliveredRecipe, IngredientComponent deliveredFlower)
     {
         // Comprobamos que existe una receta entregada
         if (deliveredRecipe == null)
@@ -26,16 +27,24 @@ public class ClientComponent : MonoBehaviour
             return false;
         }
 
+        // Comprobamos que hay una flor
+        if (deliveredFlower == null)
+        {
+            Debug.Log("El plato no tiene ninguna flor");
+            return false;
+        }
+
         // Comprobamos que existe una receta pedida
         if (recipeRandomizer == null ||
-            recipeRandomizer.requestedRecipe == null)
+            recipeRandomizer.requestedRecipe == null ||
+            recipeRandomizer.requestedFlower == null)
         {
             Debug.LogWarning("El cliente no tiene ninguna receta asignada.");
             return false;
         }
 
         // Comprueba el pedido y cambia el texto del bocadillo
-        bool correctOrder = recipeRandomizer.CheckRecipe(deliveredRecipe);
+        bool correctOrder = recipeRandomizer.CheckRecipe(deliveredRecipe, deliveredFlower);
 
         if (correctOrder)
         {
