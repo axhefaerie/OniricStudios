@@ -14,9 +14,13 @@ public class PlateComponent : MonoBehaviour
     public RecipeBookComponent recipeBook;      // Libro de recetas
     public Transform ingredientParent;          // Lugar donde van a colocarse los sprites de los ingredientes
 
+    public Sprite susSprite;   // sprite de "receta pocha" / quemada
+    public Sprite burntSprite; // sprite de cenizas
+
     public List<IngredientComponent> ingredients = new List<IngredientComponent>();     // Ingredientes del plato
     private RecipeComponent currentRecipe;          // Receta actual
     private ClientComponent client;                // Cliente al que se le va a entregar el plato
+
 
     private bool hasBeenBaked = false;//para saber si un plato ha sido cocinado ya
     public bool HasBeenBaked
@@ -32,8 +36,12 @@ public class PlateComponent : MonoBehaviour
             ingredients = new List<IngredientComponent>(GameManager.Instance.plateIngredients);
             if (GameManager.Instance.isBaked)
             {
-                // mostrar la receta horneada
-                ShowSprite(GameManager.Instance.bakedRecipe.recipeSprite);
+                if (GameManager.Instance.bakedSprite != null)
+                    ShowSprite(GameManager.Instance.bakedSprite);
+                else if (GameManager.Instance.bakedRecipe != null)
+                    ShowSprite(GameManager.Instance.bakedRecipe.recipeSprite);
+                else
+                    ShowSprite(burntSprite);
             }
             else
             {
@@ -41,8 +49,6 @@ public class PlateComponent : MonoBehaviour
             }
         }
     }
-
-
 
     // Añade un ingrediente al plato (se llama desde DragAndDrop)
     public bool AddIngredient(IngredientComponent ingredient)
@@ -101,17 +107,26 @@ public class PlateComponent : MonoBehaviour
         if (currentRecipe == null)
         {
             hasBeenBaked = true;
+            GameManager.Instance.isBurnt = false;
             Debug.Log("No se puede hornear: ingredientes no forman una receta");
+            // Borrar ingredientes y mostrar el sprite "pocho"
+            for (int i = ingredientParent.childCount - 1; i >= 0; i--)
+                Destroy(ingredientParent.GetChild(i).gameObject);
+
+            ShowSprite(susSprite, 0.3f);
+            GameManager.Instance.bakedSprite = susSprite;
+            GameManager.Instance.SavePlate(ingredients, true, null);
+
             return false;
         }
-
+        GameManager.Instance.isBurnt = false;
         // Borrar sprites de ingredientes
         for (int i = ingredientParent.childCount - 1; i >= 0; i--)
             Destroy(ingredientParent.GetChild(i).gameObject);
 
-        ShowSprite(currentRecipe.recipeSprite, 0.3f);   // aparece la receta terminada
-
-        GameManager.Instance.SavePlate(ingredients, true, currentRecipe);       // Guarda que ya está horneado
+        ShowSprite(currentRecipe.recipeSprite, 0.3f);
+        GameManager.Instance.bakedSprite = currentRecipe.recipeSprite;
+        GameManager.Instance.SavePlate(ingredients, true, currentRecipe);
 
         return true;
     }
@@ -142,13 +157,24 @@ public class PlateComponent : MonoBehaviour
             return;
         }
 
+        if (GameManager.Instance != null && GameManager.Instance.isBurnt)
+        {
+            Debug.Log("El plato está quemado, no se puede entregar."); 
+            if (client.spawner != null) client.spawner.OnCustomerWrongDelivery();
+            client.recipeRandomizer.OnWrongPlate();   // muestra "mal" y restaura el pedido
+            ClearPlateAndGameManager();               // limpia el plato y el estado guardado
+            return;
+        }
+
         // Buscamos la receta que forman los ingredientes
         currentRecipe = recipeBook.FindRecipe(ingredients);
 
         if (currentRecipe == null)
         {
             Debug.LogWarning("No se ha encontrado una receta para estos ingredientes.");
-
+            if (client.spawner != null) client.spawner.OnCustomerWrongDelivery();
+            client.recipeRandomizer.OnWrongPlate();   // muestra "mal" y restaura el pedido
+            ClearPlateAndGameManager();               // limpia el plato y el estado guardado
             return;
         }
 
@@ -158,28 +184,40 @@ public class PlateComponent : MonoBehaviour
         if (currentFlower == null)
         {
             Debug.LogWarning("El plato no tiene ninguna flor.");
+            if (client.spawner != null) client.spawner.OnCustomerWrongDelivery();
+            client.recipeRandomizer.OnWrongPlate();   // también se trata como fallo
+            ClearPlateAndGameManager();
             return;
         }
 
         // Comprobar receta y flor
         bool correct = client.ReceivePlate(currentRecipe, currentFlower);
 
-        if (correct)
-        {
-            ClearPlate();
-            currentRecipe = null;
-        }
-        else
-        {
-            ClearPlate();
-            currentRecipe = null;
-        }
+        // Se limpia el estado del plato para que se traspase entre escenas
+        ClearPlateAndGameManager();
+        currentRecipe = null;
     }
 
     // Método que descarta el plato al tirarlo a la basura
     public void ThrowAway()
     {
-        ClearPlate();// Vacía los ingredientes y elimina sus imágenes
+        ClearPlate();
+        GameManager.Instance.plateIngredients.Clear();
+        GameManager.Instance.isBaked = false;
+        GameManager.Instance.bakedRecipe = null;
+        GameManager.Instance.bakedSprite = null;
+    }
+
+    // Metodo para limpiar el plato y el GameManager
+    private void ClearPlateAndGameManager()
+    {
+        ClearPlate();                                    // vacía la lista local y sprites
+        GameManager.Instance.plateIngredients.Clear();
+        GameManager.Instance.isBaked = false;
+        GameManager.Instance.bakedRecipe = null;
+        GameManager.Instance.bakedSprite = null;
+        GameManager.Instance.isBurnt = false;            // si usas el booleano
+        currentRecipe = null;
     }
 
     // Método que resetea el plato
@@ -200,5 +238,20 @@ public class PlateComponent : MonoBehaviour
     public bool HasValidRecipe()//comprobar que la receta es valida
     {
         return recipeBook.FindRecipe(ingredients) != null;
+    }
+
+    // Este método se llama cuando se falla en el minijuego, sale un sprite con cenizas en el plato
+    public void Burn()
+    {
+        hasBeenBaked = true;
+        GameManager.Instance.isBurnt = true;
+
+        for (int i = ingredientParent.childCount - 1; i >= 0; i--)
+            Destroy(ingredientParent.GetChild(i).gameObject);
+
+        ShowSprite(burntSprite, 0.3f);
+        GameManager.Instance.bakedSprite = burntSprite;
+        GameManager.Instance.SavePlate(ingredients, true, null);
+
     }
 }

@@ -1,5 +1,6 @@
-using System.Collections.Generic;
 using NUnit.Framework;
+using System.Collections;
+using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 using static RecipeBookComponent;
@@ -26,9 +27,25 @@ public class RecipeRandomizer : MonoBehaviour
 
     private bool orderCompleted = false;
 
+    private string orderText;       // Guarda el texto de pedido
+
     private void Start()
     {
-        GenerateRandomRecipe();
+        if (GameManager.Instance != null &&
+        GameManager.Instance.requestedRecipe != null &&
+        GameManager.Instance.requestedFlower != null)
+        {
+            // Carga los datos del pedido entre escenas para que no se pierdan
+            requestedRecipe = GameManager.Instance.requestedRecipe;
+            requestedFlower = GameManager.Instance.requestedFlower;
+            orderText = GameManager.Instance.orderText;
+            DisplayOrder();
+        }
+        else
+        {
+            // Si es un cliente nuevo, genera una receta aleatoria
+            GenerateRandomRecipe();
+        }
     }
 
     // Escoge una receta aleatoria del libro de recetas
@@ -59,18 +76,31 @@ public class RecipeRandomizer : MonoBehaviour
         // Elegir una flor aleatoria
         requestedFlower = availableFlowers[Random.Range(0, availableFlowers.Count)];
 
+        // Construir el texto del pedido
+        orderText = chosen.preferenceText +
+            "\nReceta: " + requestedRecipe.name +
+            "\nFlor: " + requestedFlower.name;
+
+        // Se guarda la selección en el GameManager para que persista entre escenas
+        if (GameManager.Instance != null)
+        {
+            GameManager.Instance.requestedRecipe = requestedRecipe;
+            GameManager.Instance.requestedFlower = requestedFlower;
+            GameManager.Instance.orderText = orderText;
+        }
+
         // Lo único que cambia: el texto que muestra
         // Mostrar el pedido
-        if (recipeText != null)
-        {
-            recipeText.text = chosen.preferenceText + // "Me apetece algo dulce"
-                "\nReceta: " + requestedRecipe.name +
-                "\nFlor: " + requestedFlower.name;
-        }           
-
-        if (balloon != null) balloon.SetActive(true);
+        DisplayOrder();
 
         orderCompleted = false;
+    }
+
+    private void DisplayOrder()
+    {
+        if (recipeText != null)
+            recipeText.text = orderText;
+        if (balloon != null) balloon.SetActive(true);
     }
 
     // Comprueba la receta entregada
@@ -79,8 +109,8 @@ public class RecipeRandomizer : MonoBehaviour
         if (orderCompleted)
             return false;
 
-        bool correctRecipe = deliveredRecipe == requestedRecipe;
-        bool correctFlower = deliveredFlower == requestedFlower;
+        bool correctRecipe = deliveredRecipe.name == requestedRecipe.name;
+        bool correctFlower = deliveredFlower.name == requestedFlower.name;
 
         if (correctRecipe && correctFlower)
         {
@@ -90,9 +120,35 @@ public class RecipeRandomizer : MonoBehaviour
             orderCompleted = true;
             return true;
         }
+        // Equivocado: muestra "mal" y luego vuelve al pedido
         if (recipeText != null)
+        {
             recipeText.text = customerType.GetRandomLine(customerType.wrongLines);
+            StartCoroutine(RestoreOrderText());
+        }
 
         return false;
+    }
+
+    public void OnWrongPlate()
+    {
+        if (recipeText != null)
+        {
+            recipeText.text = customerType.GetRandomLine(customerType.wrongLines);
+            StartCoroutine(RestoreOrderText());
+        }
+    }
+
+
+    public void CancelRestore()
+    {
+        StopAllCoroutines();   // cancela RestoreOrderText
+    }
+
+    private IEnumerator RestoreOrderText()
+    {
+        yield return new WaitForSeconds(2f);   // 2 segundos mostrando "mal"
+        if (!orderCompleted && recipeText != null)
+            recipeText.text = orderText;
     }
 }

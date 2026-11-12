@@ -42,7 +42,7 @@ public class RecipeComponent : ScriptableObject
 
         // Se comprueba que la receta tiene exactamente 1 base Y se comprueba que la base sea la misma que la de la receta
         //if (bases.Count != 1 || flowers.Count != 1 || bases[0] != baseIngredient || flowers[0] != flowerIngredient) { return false; }
-        if (bases.Count != 1 || bases[0] != baseIngredient)
+        if (bases.Count != 1 || bases[0].name != baseIngredient.name)
             return false;
 
         return SameSet(sauces, this.sauceIngredients) && SameSet(toppings, this.toppingIngredients);
@@ -55,7 +55,7 @@ public class RecipeComponent : ScriptableObject
 
         // Si tienen el mismo número, se va comprobando para cada item si está dentro de los ítems de la receta
         foreach(var item in a) {
-             if(!b.Contains(item)) return false;    // Si un item NO está dentro de los ingredientes de la receta, devuelve false
+            if (!b.Exists(x => x.name == item.name)) return false;    // Si un item NO está dentro de los ingredientes de la receta, devuelve false
         }
         // Si tiene el mismo número de ingredientes, y son el mismo, devuelve true
         return true;

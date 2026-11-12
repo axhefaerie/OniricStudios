@@ -9,7 +9,6 @@ using UnityEngine.UI;
 
 public class CustomerSpawner : MonoBehaviour
 {
-    [Header("Clientes")]
     public GameObject customerPrefab;
     public Transform spawnPoint;
 
@@ -23,18 +22,20 @@ public class CustomerSpawner : MonoBehaviour
     public float spawnDelay = 0.5f;
     public TextMeshProUGUI recipeText; //configurar dialogos y esas cosas(?
 
-
-    [Header("Temporizador")]
     public Slider timerBar;
-    public float maxTime = 30f;
+    public float maxTime = 120f;        // 2 min
 
-    private GameObject currentCustomer;
+    private GameObject currentCustomer;     // Cliente actual
 
+    // Variables del tiempo
     private float currentTime;
     private bool timerRunning = false;
     private bool changingCustomer = false;
 
-    private bool spawning = false;
+    private bool spawning = false;      // Guarda si está cambiandose el cliente para uqe no se instancien varios a alvez
+
+    public int maxWrongDeliveries = 3;   // intentos máximos fallidos
+    private int wrongDeliveries = 0;     // fallos acumulados del cliente actual
 
     private void Start()
     {
@@ -51,15 +52,13 @@ public class CustomerSpawner : MonoBehaviour
     // Restaura el cliente que ya estaba esperando al volver a la escena
     private void SpawnSavedCustomer()
     {
-
         if (currentCustomer != null)
             Destroy(currentCustomer);
 
-        currentCustomer = Instantiate(
-            customerPrefab,
-            spawnPoint.position,
-            Quaternion.identity
-        );
+        CustomerType type = GameManager.Instance.customerType;
+        Vector3 pos = type != null ? type.spawnPosition : spawnPoint.position;
+
+        currentCustomer = Instantiate(customerPrefab, pos, Quaternion.identity);
 
         // Restaurar el tipo de cliente guardado
         var randomizer = currentCustomer.GetComponent<RecipeRandomizer>();
@@ -89,17 +88,20 @@ public class CustomerSpawner : MonoBehaviour
         if (spawning) return;
         spawning = true;
 
+        wrongDeliveries = 0;
+
         if (currentCustomer != null)
             Destroy(currentCustomer);
 
         CustomerType type = PickCustomerType();
         if (type == null)
         {
-            spawning = false;   // ← faltaba
+            spawning = false;  
             return;
         }
 
-        currentCustomer = Instantiate(customerPrefab, spawnPoint.position, Quaternion.identity);
+        Vector3 pos = type.spawnPosition;
+        currentCustomer = Instantiate(customerPrefab, pos, Quaternion.identity);
 
         // Sprite desde el CustomerType
         currentCustomer.GetComponent<SpriteRenderer>().sprite = type.sprite;
@@ -187,6 +189,44 @@ public class CustomerSpawner : MonoBehaviour
         GameManager.Instance.UnlockCustomer(randomizer.customerType);
 
         StartCoroutine(ChangeCustomerAfterDelay());
+    }
+
+    // Se llama cuando se entrega mal un pedido (si se llama 3 veces con elmismo cliente, se va)
+    public void OnCustomerWrongDelivery()
+    {
+        if (changingCustomer) return;
+
+        wrongDeliveries++;
+
+        if (wrongDeliveries >= maxWrongDeliveries)
+        {
+            // Se acabaron los intentos: el cliente se va
+            OnCustomerWrongTooMany();   
+        }
+        // si no llega a 3, no pasa nada: el cliente sigue esperando
+    }
+
+    // Se llama cuando el jugador se equivoca 3 veces con elmismo cliente
+    private void OnCustomerWrongTooMany()
+    {
+        if (changingCustomer) return;
+        changingCustomer = true;
+
+        var randomizer = currentCustomer.GetComponent<RecipeRandomizer>();
+        if (randomizer != null)
+            randomizer.StopAllCoroutines();   // cancela RestoreOrderText y cualquier otra
+
+        CustomerType type = GameManager.Instance != null
+            ? GameManager.Instance.customerType
+            : (randomizer != null ? randomizer.customerType : null);
+
+        if (type != null && type.wrongDeliveryLines != null && type.wrongDeliveryLines.Count > 0)
+            recipeText.text = type.wrongDeliveryLines[Random.Range(0, type.wrongDeliveryLines.Count)];
+        else
+            recipeText.text = "Que tardon... Me piro";
+
+        GameManager.Instance.hasCustomer = false;
+        StartCoroutine(CustomerLeavesAfterDelay());
     }
 
     // Se llama cuando se agota el tiempo

@@ -24,6 +24,7 @@ public class ClientComponent : MonoBehaviour
         if (deliveredRecipe == null)
         {
             Debug.Log("El plato no tiene ninguna receta");
+            if (spawner != null) spawner.OnCustomerWrongDelivery();
             return false;
         }
 
@@ -31,6 +32,7 @@ public class ClientComponent : MonoBehaviour
         if (deliveredFlower == null)
         {
             Debug.Log("El plato no tiene ninguna flor");
+            if (spawner != null) spawner.OnCustomerWrongDelivery();
             return false;
         }
 
@@ -40,6 +42,7 @@ public class ClientComponent : MonoBehaviour
             recipeRandomizer.requestedFlower == null)
         {
             Debug.LogWarning("El cliente no tiene ninguna receta asignada.");
+            if (spawner != null) spawner.OnCustomerWrongDelivery();
             return false;
         }
 
@@ -60,6 +63,10 @@ public class ClientComponent : MonoBehaviour
         else
         {
             Debug.Log("Cliente enfadado >:(");
+            if (spawner != null)
+            {
+                spawner.OnCustomerWrongDelivery();
+            }
             return false;
         }
     }

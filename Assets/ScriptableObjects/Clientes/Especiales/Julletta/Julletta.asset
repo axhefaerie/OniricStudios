@@ -16,6 +16,7 @@ MonoBehaviour:
   sprite: {fileID: 21300000, guid: 235f4601996b9904298b96f797e14469, type: 3}
   iconMobileSprite: {fileID: 5461366136099871996, guid: 532e06e628bd47a4d8d619a40b3c76ae, type: 3}
   isSpecial: 1
+  spawnPosition: {x: -1, y: -0.3450264, z: 0}
   preferences:
   - {fileID: 11400000, guid: 228a2d86645509544abe9ab6f1bd6101, type: 2}
   enterLines:
@@ -26,3 +27,5 @@ MonoBehaviour:
   - estoy turboenfadada esto no es lo que he pedido
   timeoutLines:
   - fuckfuck
+  wrongDeliveryLines:
+  - "muchos fallos veo yo aqu\xED"

@@ -8,6 +8,9 @@ public class GameManager : MonoBehaviour
 
     // El cliente actual (se guarda y no se regenera)
     public RecipeComponent requestedRecipe;      // la receta que pide el cliente
+    public IngredientComponent requestedFlower; // la flor que pide el cliente
+    public string orderText;
+
     public Sprite customerSprite;                // el aspecto del cliente
     public bool hasCustomer = false;             // si hay un cliente esperando
     public float remainingTime;
@@ -16,6 +19,9 @@ public class GameManager : MonoBehaviour
     public List<IngredientComponent> plateIngredients = new List<IngredientComponent>();
     public RecipeComponent bakedRecipe;          // la receta ya horneada (null si aún no)
     public bool isBaked = false;                 // si el plato ya pasó por el horno
+    public Sprite bakedSprite;                 // Guarda el sprite del plato formado en el horno
+
+    public bool isBurnt = false;
 
     public CustomerType customerType;
     public string recipeText;
@@ -38,6 +44,7 @@ public class GameManager : MonoBehaviour
         plateIngredients = new List<IngredientComponent>(ingredients);
         isBaked = baked;
         bakedRecipe = recipe;
+        // bakedSprite = finalSprite;
     }
 
     public void UnlockCustomer(CustomerType type)

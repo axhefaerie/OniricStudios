@@ -16,9 +16,16 @@ MonoBehaviour:
   sprite: {fileID: 5770581514594138179, guid: ea2b786a8c3681040992d746b468667b, type: 3}
   iconMobileSprite: {fileID: -4774336441641080861, guid: 532e06e628bd47a4d8d619a40b3c76ae, type: 3}
   isSpecial: 0
+  spawnPosition: {x: -1, y: -0.3450264, z: 0}
   preferences:
   - {fileID: 11400000, guid: 228a2d86645509544abe9ab6f1bd6101, type: 2}
-  enterLines: []
-  correctLines: []
-  wrongLines: []
-  timeoutLines: []
+  enterLines:
+  - grr....
+  correctLines:
+  - ...brr.. bie..een
+  wrongLines:
+  - noo..
+  timeoutLines:
+  - me..voy...tard..e
+  wrongDeliveryLines:
+  - todo..mal..

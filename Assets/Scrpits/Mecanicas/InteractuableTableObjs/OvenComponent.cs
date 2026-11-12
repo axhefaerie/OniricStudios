@@ -44,7 +44,19 @@ public class OvenComponent : MonoBehaviour
 
         bool baked = currentPlate.Bake(); // guarda el resultado de baked que puede ser verdadero(cocinado) o falso(no se ha logrado cocinar)
 
-        if (baked) //si la receta es válida salen las animaciones se acaba el minijuego etc
+        // Bake() ya se encarga de mostrar el sprite correcto (receta o pocho)
+        minigamePanel.SetActive(false);
+
+        // Tanto si gana como si se pierde se forma un sprite en el plato
+        currentPlate.transform.position = transform.position;
+        currentPlate.GetComponent<Draggable>().SetOriginalPosition(transform.position);
+        currentPlate.gameObject.SetActive(true);
+
+        currentPlate = null;
+        isCooking = false;
+        isReady = true;
+
+        /*if (baked) //si la receta es válida salen las animaciones se acaba el minijuego etc
         {
             isCooking = false;
             isReady = true;
@@ -69,7 +81,7 @@ public class OvenComponent : MonoBehaviour
             currentPlate.gameObject.SetActive(true);
             currentPlate = null;
             isCooking = false;
-        }
+        }*/
     }
 
     public void TakePlate()// avisamos al horno de que se ha recogido el plato
@@ -81,5 +93,23 @@ public class OvenComponent : MonoBehaviour
         isReady = false;
     }
 
+    public void FailCooking()
+    {
+        doorsAnimator.SetTrigger("Abrir");
 
+        if (!isCooking || currentPlate == null) return;
+
+        // Marcar el plato como "quemado" y mostrar cenizas
+        currentPlate.Burn();
+
+        minigamePanel.SetActive(false);
+
+        currentPlate.transform.position = transform.position;
+        currentPlate.GetComponent<Draggable>().SetOriginalPosition(transform.position);
+        currentPlate.gameObject.SetActive(true);
+
+        currentPlate = null;
+        isCooking = false;
+        isReady = true;
+    }
 }

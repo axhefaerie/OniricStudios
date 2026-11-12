@@ -8,6 +8,7 @@ public class CustomerType : ScriptableObject
     public Sprite sprite;       // aspecto
     public Sprite iconMobileSprite;
     public bool isSpecial;  // true si es especial
+    public Vector3 spawnPosition;
 
     // PEDIDOS: junta lo que pide el cliente con la receta (así se puede seleccionar lo que dicen los especiales al pedir)
     public List<Preference> preferences;
@@ -17,6 +18,7 @@ public class CustomerType : ScriptableObject
     public List<string> correctLines;    // plato correcto
     public List<string> wrongLines;      // plato incorrecto
     public List<string> timeoutLines;    // se acaba el tiempo
+    public List<string> wrongDeliveryLines; // Si se equivoca 3 veces
 
     public string GetRandomLine(List<string> lines)
     {

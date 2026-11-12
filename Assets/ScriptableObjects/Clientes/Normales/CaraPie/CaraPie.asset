@@ -16,6 +16,7 @@ MonoBehaviour:
   sprite: {fileID: 6925114656826501088, guid: de12095930414474ebd9f54d0900be1e, type: 3}
   iconMobileSprite: {fileID: 1395338226281906750, guid: 532e06e628bd47a4d8d619a40b3c76ae, type: 3}
   isSpecial: 0
+  spawnPosition: {x: -1, y: -0.3450264, z: 0}
   preferences:
   - {fileID: 11400000, guid: 228a2d86645509544abe9ab6f1bd6101, type: 2}
   enterLines:
@@ -23,6 +24,8 @@ MonoBehaviour:
   correctLines:
   - mmmmmm que rico
   wrongLines:
-  - a que te chupo los pies
+  - a que te chupo los pies :(
   timeoutLines:
   - me piro vampiro
+  wrongDeliveryLines:
+  - todo mal

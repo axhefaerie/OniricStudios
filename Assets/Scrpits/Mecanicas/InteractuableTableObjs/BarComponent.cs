@@ -87,6 +87,8 @@ public class bar : MonoBehaviour //maneja la lógca del minijuego de la barra
             else
             {
                 Debug.Log("Miss");
+                oven.FailCooking();   // el minijuego se ha fallado
+                finished = true;      // detener el minijuego
             }
         }
     }
