@@ -183,6 +183,9 @@ public class CustomerSpawner : MonoBehaviour
         // Liberar el cliente guardado
         GameManager.Instance.hasCustomer = false;
 
+        var randomizer = currentCustomer.GetComponent<RecipeRandomizer>();
+        GameManager.Instance.UnlockCustomer(randomizer.customerType);
+
         StartCoroutine(ChangeCustomerAfterDelay());
     }
 

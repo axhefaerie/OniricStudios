@@ -6,6 +6,7 @@ public class CustomerType : ScriptableObject
 {
     public string customerName;
     public Sprite sprite;       // aspecto
+    public Sprite iconMobileSprite;
     public bool isSpecial;  // true si es especial
 
     // PEDIDOS: junta lo que pide el cliente con la receta (así se puede seleccionar lo que dicen los especiales al pedir)

@@ -1,31 +1,16 @@
 fileFormatVersion: 2
-guid: 617d86b4cc03431438a8be6b5b45fd71
+guid: 85c660ba34b332e4baf990814b6d5273
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1185703815699122718
-    second: IMG_0650_0
+      213: -4565552330596894920
+    second: IMG_0653_0
   - first:
-      213: -8699271375534766277
-    second: IMG_0650_1
+      213: 3311111016567374080
+    second: IMG_0653_1
   - first:
-      213: -6157114837464545449
-    second: IMG_0650_2
-  - first:
-      213: -5638257312959533626
-    second: IMG_0650_3
-  - first:
-      213: -8783287775397194233
-    second: IMG_0650_4
-  - first:
-      213: 8251351981693410201
-    second: IMG_0650_5
-  - first:
-      213: 1846526195466801014
-    second: IMG_0650_6
-  - first:
-      213: 3233941056356235167
-    second: IMG_0650_7
+      213: -6593185285433390240
+    second: IMG_0653_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -67,7 +52,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -121,177 +106,133 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: IMG_0650_0
+      name: btn opciones clck
       rect:
         serializedVersion: 2
-        x: 1121
-        y: 835
-        width: 22
-        height: 14
+        x: 790
+        y: 694
+        width: 139
+        height: 130
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e1a42979657747010800000000000000
-      internalID: 1185703815699122718
+      spriteID: 837b05b3856e3a0c0800000000000000
+      internalID: -4565552330596894920
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: IMG_0650_1
+      name: btn contactos click
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 690
+        width: 136
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00181623ded63fd20800000000000000
+      internalID: 3311111016567374080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMG_0653_2
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 833
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b09634aec4084a0800000000000000
+      internalID: -6593185285433390240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn inicio click
       rect:
         serializedVersion: 2
         x: 789
-        y: 697
-        width: 140
+        y: 561
+        width: 137
         height: 130
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b37c68056caf54780800000000000000
-      internalID: -8699271375534766277
+      spriteID: 9531bce09fc220c458dec8188b2d83e4
+      internalID: -602834547
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: IMG_0650_2
+      name: btn salir click
       rect:
         serializedVersion: 2
-        x: 993
-        y: 693
-        width: 130
-        height: 138
+        x: 1004
+        y: 558
+        width: 111
+        height: 126
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 75783a75da88d8aa0800000000000000
-      internalID: -6157114837464545449
+      spriteID: df4c29a262d8d0041b6109643ac64513
+      internalID: 667614713
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: IMG_0650_3
+      name: btn reanudar click
       rect:
         serializedVersion: 2
-        x: 791
-        y: 555
-        width: 132
-        height: 136
+        x: 763
+        y: 438
+        width: 157
+        height: 112
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6cd6cccb8d2e0c1b0800000000000000
-      internalID: -5638257312959533626
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: IMG_0650_4
-      rect:
-        serializedVersion: 2
-        x: 925
-        y: 569
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7065b6bdd4e7b1680800000000000000
-      internalID: -8783287775397194233
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: IMG_0650_5
-      rect:
-        serializedVersion: 2
-        x: 1001
-        y: 559
-        width: 114
-        height: 124
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 99b1d89e8e0b28270800000000000000
-      internalID: 8251351981693410201
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: IMG_0650_6
-      rect:
-        serializedVersion: 2
-        x: 743
-        y: 421
-        width: 178
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 67f804d9acd20a910800000000000000
-      internalID: 1846526195466801014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: IMG_0650_7
-      rect:
-        serializedVersion: 2
-        x: 963
-        y: 433
-        width: 216
-        height: 118
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f973aa0b14441ec20800000000000000
-      internalID: 3233941056356235167
+      spriteID: a91cb1a39631f76489df5950823d0d78
+      internalID: 2119676051
       vertices: []
       indices: 
       edges: []
@@ -300,7 +241,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 166b8095b848340459871b3dbe5b3b72
     internalID: 0
     vertices: []
     indices: 
@@ -310,14 +251,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      IMG_0650_0: 1185703815699122718
-      IMG_0650_1: -8699271375534766277
-      IMG_0650_2: -6157114837464545449
-      IMG_0650_3: -5638257312959533626
-      IMG_0650_4: -8783287775397194233
-      IMG_0650_5: 8251351981693410201
-      IMG_0650_6: 1846526195466801014
-      IMG_0650_7: 3233941056356235167
+      IMG_0653_2: -6593185285433390240
+      btn contactos click: 3311111016567374080
+      btn inicio click: -602834547
+      btn opciones clck: -4565552330596894920
+      btn reanudar click: 2119676051
+      btn salir click: 667614713
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -8,8 +8,8 @@ using Unity.VisualScripting;
 
 public class GameButtons : MonoBehaviour
 {
-
     public GameObject menuPausa;
+    public GameObject menuContactos;
     public GameObject menuAjustes;
     public GameObject panelLibroRecetas;
     public string cookingScene = "CookingScene";
@@ -47,10 +47,21 @@ public class GameButtons : MonoBehaviour
         menuPausa.SetActive(false);
         menuAjustes.SetActive(true);
     }
+    public void Contacts()
+    {
+        menuPausa.SetActive(false);
+        menuContactos.SetActive(true);
+    }
 
     public void GoBackMobileFromOptions()
     {
         menuAjustes.SetActive(false);
+        menuPausa.SetActive(true);
+    }
+
+    public void GoBackMobileFromContacts()
+    {
+        menuContactos.SetActive(false);
         menuPausa.SetActive(true);
     }
 

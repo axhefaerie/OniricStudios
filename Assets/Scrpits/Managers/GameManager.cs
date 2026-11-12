@@ -23,6 +23,8 @@ public class GameManager : MonoBehaviour
     public int normalCount = 0;
     public int nextNormalsTarget = 0;
 
+    public List<string> unlockedCustomers = new List<string>(); // Lista que guarda los clientes que se van desbloqueando
+
     private void Awake()
     {
         if (Instance != null) { Destroy(gameObject); return; }
@@ -36,6 +38,13 @@ public class GameManager : MonoBehaviour
         plateIngredients = new List<IngredientComponent>(ingredients);
         isBaked = baked;
         bakedRecipe = recipe;
+    }
+
+    public void UnlockCustomer(CustomerType type)
+    {
+        if (type == null) return;
+        if (!unlockedCustomers.Contains(type.customerName))
+            unlockedCustomers.Add(type.customerName);
     }
 }
 

@@ -14,6 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   customerName: ZombieGirl
   sprite: {fileID: 5770581514594138179, guid: ea2b786a8c3681040992d746b468667b, type: 3}
+  iconMobileSprite: {fileID: -4774336441641080861, guid: 532e06e628bd47a4d8d619a40b3c76ae, type: 3}
   isSpecial: 0
   preferences:
   - {fileID: 11400000, guid: 228a2d86645509544abe9ab6f1bd6101, type: 2}
