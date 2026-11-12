@@ -25,11 +25,9 @@ public class CustomerSpawner : MonoBehaviour
     public Slider timerBar;
     public float maxTime = 120f;        // 2 min
 
-    private GameObject currentCustomer;     // Cliente actual
 
-    // Variables del tiempo
-    private float currentTime;
-    private bool timerRunning = false;
+    private GameObject currentCustomer;     // Cliente actual
+  
     private bool changingCustomer = false;
 
     private bool spawning = false;      // Guarda si está cambiandose el cliente para uqe no se instancien varios a alvez
@@ -74,11 +72,9 @@ public class CustomerSpawner : MonoBehaviour
         recipeText.text = GameManager.Instance.recipeText;
 
         // Restaurar el temporizador donde estaba
-        currentTime = GameManager.Instance.remainingTime;
         timerBar.maxValue = maxTime;
-        timerBar.value = currentTime;
+        timerBar.value = GameManager.Instance.remainingTime;
 
-        timerRunning = true;
         changingCustomer = false;
     }
 
@@ -118,13 +114,14 @@ public class CustomerSpawner : MonoBehaviour
         GameManager.Instance.recipeText = recipeText.text;
         GameManager.Instance.hasCustomer = true;
 
-        // Reiniciar temporizador
-        currentTime = maxTime;
+        // Reiniciar temporizador, lo gestiona el gamemanager para que sobreviva al cambio de escena
+        GameManager.Instance.remainingTime = maxTime;
+        GameManager.Instance.timerRunning = true;
+        GameManager.Instance.customerTimedOut = false;
+
         timerBar.maxValue = maxTime;
         timerBar.value = maxTime;
-        GameManager.Instance.remainingTime = currentTime;
 
-        timerRunning = true;
         changingCustomer = false;
         spawning = false;
     }
@@ -156,20 +153,17 @@ public class CustomerSpawner : MonoBehaviour
 
     private void Update()
     {
-        if (timerRunning)
+        if (GameManager.Instance == null) return;
+
+        // Actualizar la barra visual
+        timerBar.value = GameManager.Instance.remainingTime;
+
+        // Comprobar si se ha agotado el tiempo
+        if (GameManager.Instance.customerTimedOut && !changingCustomer)
         {
-            currentTime -= Time.deltaTime;
-            timerBar.value = currentTime;
-
-            // Guardar el tiempo restante para que sobreviva al cambio de escena
-            if (GameManager.Instance != null)
-                GameManager.Instance.remainingTime = currentTime;
-
-            if (currentTime <= 0)
-            {
-                timerRunning = false;
-                OnCustomerTimeOut();
-            }
+            GameManager.Instance.customerTimedOut = false;
+            OnCustomerTimeOut();
+        
         }
     }
 
@@ -179,7 +173,8 @@ public class CustomerSpawner : MonoBehaviour
     {
         if (changingCustomer) return;
 
-        timerRunning = false;
+        GameManager.Instance.timerRunning = false;
+
         changingCustomer = true;
 
         // Liberar el cliente guardado
@@ -227,6 +222,7 @@ public class CustomerSpawner : MonoBehaviour
 
         GameManager.Instance.hasCustomer = false;
         StartCoroutine(CustomerLeavesAfterDelay());
+        GameManager.Instance.timerRunning = false;
     }
 
     // Se llama cuando se agota el tiempo
@@ -242,6 +238,7 @@ public class CustomerSpawner : MonoBehaviour
         GameManager.Instance.hasCustomer = false;
 
         StartCoroutine(CustomerLeavesAfterDelay());
+        GameManager.Instance.timerRunning = false;
     }
 
     private IEnumerator CustomerLeavesAfterDelay()

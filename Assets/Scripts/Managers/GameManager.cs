@@ -13,7 +13,9 @@ public class GameManager : MonoBehaviour
 
     public Sprite customerSprite;                // el aspecto del cliente
     public bool hasCustomer = false;             // si hay un cliente esperando
-    public float remainingTime;
+    public float remainingTime = 120f;
+    public bool timerRunning = false;
+    public bool customerTimedOut = false;
 
     // El plato: ingredientes que se van juntando
     public List<IngredientComponent> plateIngredients = new List<IngredientComponent>();
@@ -52,6 +54,22 @@ public class GameManager : MonoBehaviour
         if (type == null) return;
         if (!unlockedCustomers.Contains(type.customerName))
             unlockedCustomers.Add(type.customerName);
+    }
+
+    //para que el temporizador funcione aunque se cambie de escena
+    private void Update()
+    {
+        if (timerRunning)
+        {
+            remainingTime -= Time.deltaTime;
+
+            if (remainingTime <= 0)
+            {
+                remainingTime = 0;
+                timerRunning = false;
+                customerTimedOut = true;
+            }
+        }
     }
 }
 
