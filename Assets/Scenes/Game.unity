@@ -3788,6 +3788,8 @@ MonoBehaviour:
   spawnPoint: {fileID: 837124200}
   normalCustomers:
   - {fileID: 11400000, guid: eb7e48447db2362498f48a781d2bea6f, type: 2}
+  - {fileID: 11400000, guid: e5bb889548d848f40b353bdd7ea5c14c, type: 2}
+  - {fileID: 11400000, guid: ced9af62eaa90584e8b9af67c6e76c98, type: 2}
   - {fileID: 11400000, guid: bd2f14dc6921cdb41a89d1548a4c4564, type: 2}
   - {fileID: 11400000, guid: 58deebeb2c3255d4c84e9b48d5c24e4b, type: 2}
   specialCustomers:

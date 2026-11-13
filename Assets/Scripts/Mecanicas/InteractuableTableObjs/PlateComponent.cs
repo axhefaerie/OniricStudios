@@ -158,8 +158,7 @@ public class PlateComponent : MonoBehaviour
         }
 
         if (GameManager.Instance != null && GameManager.Instance.isBurnt)
-        {
-            Debug.Log("El plato está quemado, no se puede entregar."); 
+        { 
             if (client.spawner != null) client.spawner.OnCustomerWrongDelivery();
             client.recipeRandomizer.OnWrongPlate();   // muestra "mal" y restaura el pedido
             ClearPlateAndGameManager();               // limpia el plato y el estado guardado

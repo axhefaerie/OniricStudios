@@ -20,12 +20,12 @@ MonoBehaviour:
   preferences:
   - {fileID: 11400000, guid: 228a2d86645509544abe9ab6f1bd6101, type: 2}
   enterLines:
-  - 'hola... '
+  - 'Hola... '
   correctLines:
-  - mil gracias! que rico todo wawawa
+  - Mil gracias! Que rico todo wawawa
   wrongLines:
-  - "no es lo que hab\xEDa pedido... waaawaaa"
+  - "No es lo que hab\xEDa pedido... waaawaaa"
   timeoutLines:
-  - "lo siento.. tengo prisa, ya otro d\xEDa me paso"
+  - "Lo siento.. tengo prisa, ya otro d\xEDa me paso"
   wrongDeliveryLines:
-  - lo siento, me voy, has fallado mucho..
+  - "Perd\xF3n, me voy, has fallado mucho.."

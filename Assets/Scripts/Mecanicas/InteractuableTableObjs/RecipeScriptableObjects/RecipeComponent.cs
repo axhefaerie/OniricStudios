@@ -30,6 +30,12 @@ public class RecipeComponent : ScriptableObject
         var toppings = new List<IngredientComponent> ();
         //var flowers = new List<IngredientComponent> ();
 
+        // Se comprueba si el plato está vacío
+        if (baseIngredient == null)
+        {
+            return list == null || list.Count == 0;
+        }
+
         // Se van separando los ingredientes según su tipo
         foreach (var ingredient in list) {
             switch (ingredient.type) {

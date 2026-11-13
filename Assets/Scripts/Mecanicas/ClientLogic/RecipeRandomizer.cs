@@ -78,8 +78,8 @@ public class RecipeRandomizer : MonoBehaviour
 
         // Construir el texto del pedido
         orderText = chosen.preferenceText +
-            "\nReceta: " + requestedRecipe.name +
-            "\nFlor: " + requestedFlower.name;
+            "" + requestedRecipe.name +
+            " y " + requestedFlower.name;
 
         // Se guarda la selección en el GameManager para que persista entre escenas
         if (GameManager.Instance != null)

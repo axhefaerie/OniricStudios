@@ -13,7 +13,6 @@ MonoBehaviour:
   m_Name: CustomerDatabase
   m_EditorClassIdentifier: 
   allCustomers:
-  - {fileID: 11400000, guid: bd2f14dc6921cdb41a89d1548a4c4564, type: 2}
   - {fileID: 11400000, guid: 58deebeb2c3255d4c84e9b48d5c24e4b, type: 2}
   - {fileID: 11400000, guid: ac37c8665542ed047bb006958c72297d, type: 2}
   - {fileID: 11400000, guid: 2a9b50e8b6e6fc043ba7d35fec8c8244, type: 2}
@@ -21,3 +20,5 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 1953daf1d665ebf40b7d148e93826d41, type: 2}
   - {fileID: 11400000, guid: b04a6498ad395b144b095f05c9496b95, type: 2}
   - {fileID: 11400000, guid: eb7e48447db2362498f48a781d2bea6f, type: 2}
+  - {fileID: 11400000, guid: e5bb889548d848f40b353bdd7ea5c14c, type: 2}
+  - {fileID: 11400000, guid: ced9af62eaa90584e8b9af67c6e76c98, type: 2}

@@ -20,12 +20,12 @@ MonoBehaviour:
   preferences:
   - {fileID: 11400000, guid: 228a2d86645509544abe9ab6f1bd6101, type: 2}
   enterLines:
-  - pumpam
+  - PUMPAM HE APARECIDO
   correctLines:
-  - tilin feliz
+  - TILIN ESTOY FELIZ
   wrongLines:
-  - meeek mal
+  - MEEEK MAL
   timeoutLines:
-  - meekmeek tiempo agotado
+  - SE HA ACABADO EL TIEMPO
   wrongDeliveryLines:
-  - "muchos fallos meekm\xA1"
+  - MUCHOS FALLOS MEEEK
