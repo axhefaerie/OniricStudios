@@ -16,9 +16,10 @@ MonoBehaviour:
   sprite: {fileID: 2253639577306037883, guid: 72da4452f86154e41979186b7d756472, type: 3}
   iconMobileSprite: {fileID: 21300000, guid: 1db329b1daa231f4e87bc39c0c3bf773, type: 3}
   isSpecial: 0
-  spawnPosition: {x: -1, y: -2, z: 0}
+  spawnPosition: {x: -0.5, y: -0.2, z: 0}
   preferences:
   - {fileID: 11400000, guid: 228a2d86645509544abe9ab6f1bd6101, type: 2}
+  assignedFlower: {fileID: 11400000, guid: 8d26a136a2bf33e44be754c98469b265, type: 2}
   enterLines:
   - "Buenas tardes, se\xF1orita."
   correctLines:

@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: dbc71b29c7d3c3b4591582952d2320bc, type: 3}
-  m_Name: AgujeroNegro
+  m_Name: Silarid_AgujeroNegro
   m_EditorClassIdentifier: 
   preferenceText: "Ponme lo m\xE1s raro que tengas"
   preferenceRecipe: {fileID: 11400000, guid: 2e23f035422bbf744917ca23bd08cd44, type: 2}

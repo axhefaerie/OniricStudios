@@ -5,6 +5,7 @@ using TMPro;
 using UnityEditor.PackageManager;
 using UnityEditor.Search;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class CustomerSpawner : MonoBehaviour
@@ -40,6 +41,8 @@ public class CustomerSpawner : MonoBehaviour
         if (GameManager.Instance.nextNormalsTarget <= 0)
             GameManager.Instance.nextNormalsTarget = Random.Range(minNormals, maxNormals + 1);
 
+        GameManager.Instance.totalSpecialCustomers = specialCustomers.Count;    // Se cuenta la cantidad de especiales que hay en el juego
+
         if (GameManager.Instance != null && GameManager.Instance.hasCustomer)
             SpawnSavedCustomer();
         else
@@ -71,10 +74,6 @@ public class CustomerSpawner : MonoBehaviour
         // Restaurar el texto del globo (preferencia o nombre de receta)
         recipeText.text = GameManager.Instance.recipeText;
 
-        // Restaurar el temporizador donde estaba
-        timerBar.maxValue = maxTime;
-        timerBar.value = GameManager.Instance.remainingTime;
-
         changingCustomer = false;
     }
 
@@ -85,7 +84,7 @@ public class CustomerSpawner : MonoBehaviour
         spawning = true;
 
         wrongDeliveries = 0;
-
+       
         if (currentCustomer != null)
             Destroy(currentCustomer);
 
@@ -115,12 +114,9 @@ public class CustomerSpawner : MonoBehaviour
         GameManager.Instance.hasCustomer = true;
 
         // Reiniciar temporizador, lo gestiona el gamemanager para que sobreviva al cambio de escena
-        GameManager.Instance.remainingTime = maxTime;
+        GameManager.Instance.remainingTime = GameManager.Instance.maxTime;
         GameManager.Instance.timerRunning = true;
         GameManager.Instance.customerTimedOut = false;
-
-        timerBar.maxValue = maxTime;
-        timerBar.value = maxTime;
 
         changingCustomer = false;
         spawning = false;
@@ -154,16 +150,10 @@ public class CustomerSpawner : MonoBehaviour
     private void Update()
     {
         if (GameManager.Instance == null) return;
-
-        // Actualizar la barra visual
-        timerBar.value = GameManager.Instance.remainingTime;
-
-        // Comprobar si se ha agotado el tiempo
         if (GameManager.Instance.customerTimedOut && !changingCustomer)
         {
             GameManager.Instance.customerTimedOut = false;
             OnCustomerTimeOut();
-        
         }
     }
 
@@ -173,8 +163,14 @@ public class CustomerSpawner : MonoBehaviour
     {
         if (changingCustomer) return;
 
+        // Se atribuye puntuación al cliente segun los intentos del jugador
+        AwardStars();
+        MarkCustomerHandled();
+
+        // Se para el tiempo
         GameManager.Instance.timerRunning = false;
 
+        // Se marca que se está cambiadndo el cliente
         changingCustomer = true;
 
         // Liberar el cliente guardado
@@ -207,30 +203,34 @@ public class CustomerSpawner : MonoBehaviour
         if (changingCustomer) return;
         changingCustomer = true;
 
+        // Se resta 1 a la puntuación
+        GameManager.Instance.totalStarsEarned -= 1;
+        // Se suma 3 a la puntuación global (la máxima posible de la partida)
+        GameManager.Instance.totalStarsPossible += 3;
+        MarkCustomerHandled();  // Se marca como atendido
+
         var randomizer = currentCustomer.GetComponent<RecipeRandomizer>();
         if (randomizer != null)
-            randomizer.StopAllCoroutines();   // cancela RestoreOrderText y cualquier otra
-
-        CustomerType type = GameManager.Instance != null
-            ? GameManager.Instance.customerType
-            : (randomizer != null ? randomizer.customerType : null);
-
-        if (type != null && type.wrongDeliveryLines != null && type.wrongDeliveryLines.Count > 0)
-            recipeText.text = type.wrongDeliveryLines[Random.Range(0, type.wrongDeliveryLines.Count)];
-        else
-            recipeText.text = "Que tardon... Me piro";
+        {
+            randomizer.ShowWrongTooMany();   // frase de despedida en el bocadillo del cliente
+        }
 
         GameManager.Instance.hasCustomer = false;
         StartCoroutine(CustomerLeavesAfterDelay());
-        GameManager.Instance.timerRunning = false;
     }
 
     // Se llama cuando se agota el tiempo
     private void OnCustomerTimeOut()
     {
         if (changingCustomer) return;
-
+        // Se pone que se está cambiando el cliente
         changingCustomer = true;
+
+        // Se resta 1 a la puntuacón del jugador
+        GameManager.Instance.totalStarsEarned -= 1;
+        // Se suma 3 a la puntuación máxima de la partida
+        GameManager.Instance.totalStarsPossible += 3;
+        MarkCustomerHandled();  // se cmarca como ateniddo
 
         recipeText.text = "Que tardon... Me piro";
 
@@ -239,6 +239,55 @@ public class CustomerSpawner : MonoBehaviour
 
         StartCoroutine(CustomerLeavesAfterDelay());
         GameManager.Instance.timerRunning = false;
+    }
+
+    // Este metodo marca cuando se ha atendido a los clientes especiales
+    private void MarkCustomerHandled()
+    {
+        var randomizer = currentCustomer.GetComponent<RecipeRandomizer>();
+        if (randomizer != null && randomizer.customerType != null &&
+            GameManager.Instance.IsSpecialCustomer(randomizer.customerType))
+        {
+            GameManager.Instance.specialCustomersServed++;
+        }
+        // Se comprueba si se ha atendido a todos los clientes especiales
+        if (GameManager.Instance.specialCustomersServed >= GameManager.Instance.totalSpecialCustomers)
+        {
+            EndGame();
+            return;
+        }
+    }
+
+
+    // Este método permite atribuir una puntuación al jugador para posteriormente decidir si ha ganado o perdido
+    private void AwardStars()
+    {
+        int stars;
+        if (wrongDeliveries == 0) stars = 3;
+        else if (wrongDeliveries == 1) stars = 2;
+        else if (wrongDeliveries == 2) stars = 1;
+        else stars = -1;
+
+        GameManager.Instance.totalStarsEarned += stars;
+        GameManager.Instance.totalStarsPossible += 3;   // siempre suma 3 posibles
+        
+    }
+
+    // Este metodo termina el juego y cambia la escena para mostrar los resultados
+    public void EndGame()
+    {
+        GameManager.Instance.timerRunning = false;
+
+        bool victory = GameManager.Instance.totalStarsEarned >=
+                       GameManager.Instance.totalStarsPossible / 2f;
+
+        // Guardar resultado para la pantalla final
+        GameManager.Instance.gameResult = victory ? "victory" : "defeat";
+        GameManager.Instance.finalStars = GameManager.Instance.totalStarsEarned;
+        GameManager.Instance.maxStars = GameManager.Instance.totalStarsPossible;
+
+        // Cargar la escena de resultados
+        SceneManager.LoadScene("VictoryDefeat");
     }
 
     private IEnumerator CustomerLeavesAfterDelay()

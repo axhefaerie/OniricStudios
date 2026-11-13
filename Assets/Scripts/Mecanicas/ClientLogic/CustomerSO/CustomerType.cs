@@ -12,6 +12,7 @@ public class CustomerType : ScriptableObject
 
     // PEDIDOS: junta lo que pide el cliente con la receta (así se puede seleccionar lo que dicen los especiales al pedir)
     public List<Preference> preferences;
+    public IngredientComponent assignedFlower;      // La flor que pide
 
     // Diálogos que puede decir cada personaje al hacer varias acciones
     public List<string> enterLines;      // al aparecer

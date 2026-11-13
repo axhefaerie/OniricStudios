@@ -369,6 +369,7 @@ MonoBehaviour:
   panelLibroRecetas: {fileID: 0}
   cookingScene: CookingScene
   gameScene: Game
+  recipeBook: {fileID: 0}
   isPaused: 0
 --- !u!1 &340953515
 GameObject:
@@ -553,12 +554,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   requestedRecipe: {fileID: 0}
+  requestedFlower: {fileID: 0}
+  orderText: 
   customerSprite: {fileID: 0}
   hasCustomer: 0
-  remainingTime: 0
+  remainingTime: 120
+  timerRunning: 0
+  customerTimedOut: 0
   plateIngredients: []
   bakedRecipe: {fileID: 0}
   isBaked: 0
+  bakedSprite: {fileID: 0}
+  isBurnt: 0
   customerType: {fileID: 0}
   recipeText: 
   normalCount: 0

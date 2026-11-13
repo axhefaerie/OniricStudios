@@ -36,7 +36,14 @@ public class RecipeComponent : ScriptableObject
         // Se comprueba si el plato está vacío
         if (baseIngredient == null)
         {
-            return list == null || list.Count == 0;
+            if (list == null) return true;
+
+            foreach (var ing in list)
+            {
+                if (ing.type != IngredientComponent.IngredientType.Flower)
+                    return false;   // hay algo que no es flor 
+            }
+            return true;
         }
 
         // Se van separando los ingredientes según su tipo

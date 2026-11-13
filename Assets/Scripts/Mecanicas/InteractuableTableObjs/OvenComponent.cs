@@ -15,14 +15,14 @@ public class OvenComponent : MonoBehaviour
     public void BakePlate(PlateComponent plate)
     {
         // Llama al método de Bake del plato para cambiar el sprite de la receta
-        if (plate == null || plate.HasBeenBaked || isCooking || isReady) return;
+        if (plate == null || GameManager.Instance.isBaked || isCooking || isReady) return;
 
         // Comprobamos que los ingredientes forman una receta
-       // if (!plate.HasValidRecipe())
-     //   {
-      //      Debug.LogWarning("Este plato no contiene una receta válida.");
-      //      return;
-      //  }
+        // if (!plate.HasValidRecipe())
+        //   {
+        //      Debug.LogWarning("Este plato no contiene una receta válida.");
+        //      return;
+        //  }
 
         currentPlate = plate; //se acepta el plato recibido
         isCooking = true; //el horno está cocinando 
@@ -44,7 +44,6 @@ public class OvenComponent : MonoBehaviour
 
         bool baked = currentPlate.Bake(); // guarda el resultado de baked que puede ser verdadero(cocinado) o falso(no se ha logrado cocinar)
 
-        // Bake() ya se encarga de mostrar el sprite correcto (receta o pocho)
         minigamePanel.SetActive(false);
 
         // Tanto si gana como si se pierde se forma un sprite en el plato
@@ -52,36 +51,12 @@ public class OvenComponent : MonoBehaviour
         currentPlate.GetComponent<Draggable>().SetOriginalPosition(transform.position);
         currentPlate.gameObject.SetActive(true);
 
+        // Ocultar el sprite del plato, dejar solo la receta
+        currentPlate.HidePlateSprite();
+
         currentPlate = null;
         isCooking = false;
         isReady = true;
-
-        /*if (baked) //si la receta es válida salen las animaciones se acaba el minijuego etc
-        {
-            isCooking = false;
-            isReady = true;
-
-            minigamePanel.SetActive(false);
-
-            currentPlate.transform.position = transform.position; //vuelve a mostrar plato en el horno
-
-            // Actualizar su posición original para poder arrastrarlo desde el horno
-            currentPlate.GetComponent<Draggable>().SetOriginalPosition(transform.position);
-
-            currentPlate.gameObject.SetActive(true);
-        }
-
-        else
-        {
-            // Si no existe una receta válida, devolver el plato
-            Debug.LogWarning("No se puede cocinar este plato.");
-
-            minigamePanel.SetActive(false);
-
-            currentPlate.gameObject.SetActive(true);
-            currentPlate = null;
-            isCooking = false;
-        }*/
     }
 
     public void TakePlate()// avisamos al horno de que se ha recogido el plato
@@ -107,6 +82,7 @@ public class OvenComponent : MonoBehaviour
         currentPlate.transform.position = transform.position;
         currentPlate.GetComponent<Draggable>().SetOriginalPosition(transform.position);
         currentPlate.gameObject.SetActive(true);
+        currentPlate.HidePlateSprite();   // ocultar el plato, dejar las cenizas
 
         currentPlate = null;
         isCooking = false;

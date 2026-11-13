@@ -73,13 +73,21 @@ public class RecipeRandomizer : MonoBehaviour
         Preference chosen = customerType.preferences[Random.Range(0, customerType.preferences.Count)];
         requestedRecipe = chosen.preferenceRecipe;
 
-        // Elegir una flor aleatoria
-        requestedFlower = availableFlowers[Random.Range(0, availableFlowers.Count)];
+        // Elegir la flor atribuida a cada cliente
+        if (customerType.assignedFlower != null)
+        {
+            requestedFlower = customerType.assignedFlower;
+        }
+        else
+        {
+            requestedFlower = null;   // este cliente no pide flor (p. ej. Santiago)
+        }
 
         // Construir el texto del pedido
-        orderText = chosen.preferenceText +
-            "" + requestedRecipe.name +
-            " y " + requestedFlower.name;
+        orderText = chosen.preferenceText + requestedRecipe.name;
+
+        if (requestedFlower != null)
+            orderText += " y " + requestedFlower.name;
 
         // Se guarda la selección en el GameManager para que persista entre escenas
         if (GameManager.Instance != null)
@@ -110,7 +118,14 @@ public class RecipeRandomizer : MonoBehaviour
             return false;
 
         bool correctRecipe = deliveredRecipe.name == requestedRecipe.name;
-        bool correctFlower = deliveredFlower.name == requestedFlower.name;
+        bool correctFlower;
+
+        // Se comprueba si hay flor (hay clientes que no tienen flor atribuida)
+        if (requestedFlower == null)
+            correctFlower = deliveredFlower == null;      
+        else
+            correctFlower = deliveredFlower != null && deliveredFlower.name == requestedFlower.name;
+
 
         if (correctRecipe && correctFlower)
         {
@@ -139,6 +154,27 @@ public class RecipeRandomizer : MonoBehaviour
         }
     }
 
+    public void ShowWrongTooMany()
+    {
+        StopAllCoroutines();   // cancela RestoreOrderText
+
+        if (recipeText != null && customerType != null &&
+            customerType.wrongDeliveryLines != null &&
+            customerType.wrongDeliveryLines.Count > 0)
+        {
+            recipeText.text = customerType.wrongDeliveryLines[Random.Range(0, customerType.wrongDeliveryLines.Count)];
+        }
+        else if (recipeText != null)
+        {
+            recipeText.text = "Que tardón... Me piro";
+        }
+    }
+
+    // Indica si el cliente ha pedido flor
+    public bool WantsFlower()
+    {
+        return requestedFlower != null;
+    }
 
     public void CancelRestore()
     {

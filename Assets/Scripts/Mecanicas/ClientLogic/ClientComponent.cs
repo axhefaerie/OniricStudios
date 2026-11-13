@@ -24,25 +24,23 @@ public class ClientComponent : MonoBehaviour
         if (deliveredRecipe == null)
         {
             Debug.Log("El plato no tiene ninguna receta");
-            if (spawner != null) spawner.OnCustomerWrongDelivery();
+            
             return false;
         }
 
-        // Comprobamos que hay una flor
-        if (deliveredFlower == null)
+        // Comprobamos que hay una flor SOLO si el cliente la pide
+        if (deliveredFlower == null && recipeRandomizer != null && recipeRandomizer.WantsFlower())
         {
             Debug.Log("El plato no tiene ninguna flor");
-            if (spawner != null) spawner.OnCustomerWrongDelivery();
+            
             return false;
         }
 
         // Comprobamos que existe una receta pedida
         if (recipeRandomizer == null ||
-            recipeRandomizer.requestedRecipe == null ||
-            recipeRandomizer.requestedFlower == null)
+            recipeRandomizer.requestedRecipe == null)
         {
             Debug.LogWarning("El cliente no tiene ninguna receta asignada.");
-            if (spawner != null) spawner.OnCustomerWrongDelivery();
             return false;
         }
 
@@ -63,10 +61,6 @@ public class ClientComponent : MonoBehaviour
         else
         {
             Debug.Log("Cliente enfadado >:(");
-            if (spawner != null)
-            {
-                spawner.OnCustomerWrongDelivery();
-            }
             return false;
         }
     }
