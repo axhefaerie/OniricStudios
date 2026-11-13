@@ -13,8 +13,9 @@ MonoBehaviour:
   m_Name: Nada
   m_EditorClassIdentifier: 
   name: Nada
-  recipeSprite: {fileID: 21300000, guid: 458b1c75b6bb2a844a06138c96123027, type: 3}
-  bookSprite: {fileID: 0}
+  recipeSprite: {fileID: 21300000, guid: 7e6f1bd217f2e2c40a3e7081821d2071, type: 3}
+  recipeName: {fileID: 21300000, guid: 7e6f1bd217f2e2c40a3e7081821d2071, type: 3}
+  bookSprite: {fileID: 21300000, guid: 7e6f1bd217f2e2c40a3e7081821d2071, type: 3}
   baseIngredient: {fileID: 0}
   sauceIngredients: []
   toppingIngredients: []

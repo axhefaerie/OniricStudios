@@ -15,6 +15,8 @@ public class GameButtons : MonoBehaviour
     public string cookingScene = "CookingScene";
     public string gameScene = "Game";
 
+    public RecipeBook recipeBook;
+
     public bool isPaused = false;
 
     
@@ -47,6 +49,7 @@ public class GameButtons : MonoBehaviour
         menuPausa.SetActive(false);
         menuAjustes.SetActive(true);
     }
+
     public void Contacts()
     {
         menuPausa.SetActive(false);
@@ -68,10 +71,12 @@ public class GameButtons : MonoBehaviour
     public void AbrirLibroRecetas()
     {
         panelLibroRecetas.SetActive(true);
+        recipeBook.ResetBook();
     }
 
     public void CerrarLibroRecetas()
     {
+        recipeBook.ResetBook();
         panelLibroRecetas.SetActive(false);
     }
 

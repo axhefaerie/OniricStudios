@@ -14,10 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Tortitas
   recipeSprite: {fileID: 21300000, guid: 8a41f2f304b0b97458be5dde719f1d6d, type: 3}
+  recipeName: {fileID: 21300000, guid: 6a69c4bb666e7564ba8c755ce42d2a2b, type: 3}
+  bookSprite: {fileID: 0}
+  recipeCharacteristics: El desayuno favorito de todo norteamericano.
   baseIngredient: {fileID: 11400000, guid: b26c6699952953247b554fc72110de89, type: 2}
   sauceIngredients:
   - {fileID: 11400000, guid: f07c92df9ab496c4d90ae09702784aa9, type: 2}
   - {fileID: 11400000, guid: 213ad455563c2f44eb0ee49bda1568f4, type: 2}
   toppingIngredients:
   - {fileID: 11400000, guid: d1052cc269af4f043beab01697b38f61, type: 2}
-  flowerIngredient: {fileID: 11400000, guid: 159d743d2a361cb419256297df369ac6, type: 2}

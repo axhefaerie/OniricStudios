@@ -14,6 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Brownie
   recipeSprite: {fileID: 21300000, guid: c232bbc00c58e534fb1c4bd5b84fae65, type: 3}
+  recipeName: {fileID: 21300000, guid: 243c02c6976112f47b5383121fa7dd50, type: 3}
+  bookSprite: {fileID: 0}
+  recipeCharacteristics: Todo me da vueltas...
   baseIngredient: {fileID: 11400000, guid: b26c6699952953247b554fc72110de89, type: 2}
   sauceIngredients:
   - {fileID: 11400000, guid: 48bbe54a0c6b89846a7d95bad72cf3cf, type: 2}
@@ -21,4 +24,3 @@ MonoBehaviour:
   - {fileID: 11400000, guid: bb210e0dcfac9fc41954cbbe8aa887c5, type: 2}
   - {fileID: 11400000, guid: 35468fe11aa05234fbe218ae6255ba42, type: 2}
   - {fileID: 11400000, guid: 23bb176812c16eb498bb80e19def6852, type: 2}
-  flowerIngredient: {fileID: 11400000, guid: 159d743d2a361cb419256297df369ac6, type: 2}

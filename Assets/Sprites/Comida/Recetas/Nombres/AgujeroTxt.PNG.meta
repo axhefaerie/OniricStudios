@@ -1,0 +1,2379 @@
+fileFormatVersion: 2
+guid: 42432baef390d8441820bfd88f29ffd8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4251827738735327254
+    second: AgujeroTxt_0
+  - first:
+      213: 6519641819128885307
+    second: AgujeroTxt_1
+  - first:
+      213: -2799075834470483874
+    second: AgujeroTxt_2
+  - first:
+      213: 2135307746163247729
+    second: AgujeroTxt_3
+  - first:
+      213: 4420876955019032123
+    second: AgujeroTxt_4
+  - first:
+      213: -4607760181890215247
+    second: AgujeroTxt_5
+  - first:
+      213: -9207517615166270804
+    second: AgujeroTxt_6
+  - first:
+      213: 3393189194934262304
+    second: AgujeroTxt_7
+  - first:
+      213: 7545244711428876569
+    second: AgujeroTxt_8
+  - first:
+      213: -1685673535598113251
+    second: AgujeroTxt_9
+  - first:
+      213: 5417718376393389262
+    second: AgujeroTxt_10
+  - first:
+      213: 6045134061269448516
+    second: AgujeroTxt_11
+  - first:
+      213: -1283899229556807863
+    second: AgujeroTxt_12
+  - first:
+      213: 4840280876594609927
+    second: AgujeroTxt_13
+  - first:
+      213: 3738130175681455861
+    second: AgujeroTxt_14
+  - first:
+      213: 1717825551455874909
+    second: AgujeroTxt_15
+  - first:
+      213: 4593843057987700857
+    second: AgujeroTxt_16
+  - first:
+      213: -8107499691780083248
+    second: AgujeroTxt_17
+  - first:
+      213: -1286346528957667841
+    second: AgujeroTxt_18
+  - first:
+      213: -2639278157756541446
+    second: AgujeroTxt_19
+  - first:
+      213: 7015263590874635301
+    second: AgujeroTxt_20
+  - first:
+      213: 9049605061878430861
+    second: AgujeroTxt_21
+  - first:
+      213: -3742453383018121041
+    second: AgujeroTxt_22
+  - first:
+      213: 4815811678755123679
+    second: AgujeroTxt_23
+  - first:
+      213: -8185770390996760838
+    second: AgujeroTxt_24
+  - first:
+      213: 1541323260134576025
+    second: AgujeroTxt_25
+  - first:
+      213: 2881618329997411431
+    second: AgujeroTxt_26
+  - first:
+      213: 258172282653650615
+    second: AgujeroTxt_27
+  - first:
+      213: 2130911468287986117
+    second: AgujeroTxt_28
+  - first:
+      213: -5665349085807440686
+    second: AgujeroTxt_29
+  - first:
+      213: 1479664078013028006
+    second: AgujeroTxt_30
+  - first:
+      213: 8236244036692777311
+    second: AgujeroTxt_31
+  - first:
+      213: -6751204287484929222
+    second: AgujeroTxt_32
+  - first:
+      213: 7725547139662984402
+    second: AgujeroTxt_33
+  - first:
+      213: 2251547665321494418
+    second: AgujeroTxt_34
+  - first:
+      213: -5612558840147956476
+    second: AgujeroTxt_35
+  - first:
+      213: 4085487204020728116
+    second: AgujeroTxt_36
+  - first:
+      213: 8035657238413701460
+    second: AgujeroTxt_37
+  - first:
+      213: 3552617574833947775
+    second: AgujeroTxt_38
+  - first:
+      213: 6145426776183683850
+    second: AgujeroTxt_39
+  - first:
+      213: -2346688039181263901
+    second: AgujeroTxt_40
+  - first:
+      213: -8111277157723668487
+    second: AgujeroTxt_41
+  - first:
+      213: 1031828414929603210
+    second: AgujeroTxt_42
+  - first:
+      213: -4792351843075425768
+    second: AgujeroTxt_43
+  - first:
+      213: 3822619663405941458
+    second: AgujeroTxt_44
+  - first:
+      213: 3319081563644009510
+    second: AgujeroTxt_45
+  - first:
+      213: 4486262363305970607
+    second: AgujeroTxt_46
+  - first:
+      213: -5075057549136746778
+    second: AgujeroTxt_47
+  - first:
+      213: 7120478654514052600
+    second: AgujeroTxt_48
+  - first:
+      213: -9181221015499590267
+    second: AgujeroTxt_49
+  - first:
+      213: -3214325820591899713
+    second: AgujeroTxt_50
+  - first:
+      213: -6057857599122150257
+    second: AgujeroTxt_51
+  - first:
+      213: -3865030956426800305
+    second: AgujeroTxt_52
+  - first:
+      213: 6736079459479966532
+    second: AgujeroTxt_53
+  - first:
+      213: 1177279645332487947
+    second: AgujeroTxt_54
+  - first:
+      213: -4207225088595876208
+    second: AgujeroTxt_55
+  - first:
+      213: -2687852081673440415
+    second: AgujeroTxt_56
+  - first:
+      213: 1837773721251598930
+    second: AgujeroTxt_57
+  - first:
+      213: 6146492459096895944
+    second: AgujeroTxt_58
+  - first:
+      213: -4199551189437078331
+    second: AgujeroTxt_59
+  - first:
+      213: -2684826228778798758
+    second: AgujeroTxt_60
+  - first:
+      213: 4190991539486156595
+    second: AgujeroTxt_61
+  - first:
+      213: -361345959936609670
+    second: AgujeroTxt_62
+  - first:
+      213: -7782480661235837414
+    second: AgujeroTxt_63
+  - first:
+      213: -6734545368543727206
+    second: AgujeroTxt_64
+  - first:
+      213: -4920996479068877778
+    second: AgujeroTxt_65
+  - first:
+      213: -2535360648045268747
+    second: AgujeroTxt_66
+  - first:
+      213: -8587583055985140444
+    second: AgujeroTxt_67
+  - first:
+      213: -7088877654096882359
+    second: AgujeroTxt_68
+  - first:
+      213: 1410184188719926477
+    second: AgujeroTxt_69
+  - first:
+      213: 2411800061274402862
+    second: AgujeroTxt_70
+  - first:
+      213: 4585163627627379386
+    second: AgujeroTxt_71
+  - first:
+      213: -7319285466827619926
+    second: AgujeroTxt_72
+  - first:
+      213: 8778564145604991603
+    second: AgujeroTxt_73
+  - first:
+      213: 3337419161431235175
+    second: AgujeroTxt_74
+  - first:
+      213: -1304551295045287220
+    second: AgujeroTxt_75
+  - first:
+      213: -7221938547980796387
+    second: AgujeroTxt_76
+  - first:
+      213: 1052196094132804970
+    second: AgujeroTxt_77
+  - first:
+      213: 1842006099875044902
+    second: AgujeroTxt_78
+  - first:
+      213: -3241938119655921968
+    second: AgujeroTxt_79
+  - first:
+      213: 7222884399778723259
+    second: AgujeroTxt_80
+  - first:
+      213: 3635896028722165736
+    second: AgujeroTxt_81
+  - first:
+      213: 8678661726507981719
+    second: AgujeroTxt_82
+  - first:
+      213: 2238377055490009887
+    second: AgujeroTxt_83
+  - first:
+      213: -1134744805675710205
+    second: AgujeroTxt_84
+  - first:
+      213: -7360638372188519475
+    second: AgujeroTxt_85
+  - first:
+      213: -2062059152883152908
+    second: AgujeroTxt_86
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AgujeroTxt_0
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 924
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618b87d1dc6810b30800000000000000
+      internalID: 4251827738735327254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_1
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 921
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3075f321bb6a7a50800000000000000
+      internalID: 6519641819128885307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_2
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 921
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58b103db5fa729d0800000000000000
+      internalID: -2799075834470483874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_3
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 815
+        width: 333
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a4330f41322ad10800000000000000
+      internalID: 2135307746163247729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_4
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 757
+        width: 158
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36be93fa2c1a5d30800000000000000
+      internalID: 4420876955019032123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_5
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 911
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b29e3c0782fd00c0800000000000000
+      internalID: -4607760181890215247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_6
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 897
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2dcd43383583080800000000000000
+      internalID: -9207517615166270804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_7
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 894
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a10cb4897071f20800000000000000
+      internalID: 3393189194934262304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_8
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 897
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919ec10b61816b860800000000000000
+      internalID: 7545244711428876569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_9
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 902
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ec567b9d84b98e0800000000000000
+      internalID: -1685673535598113251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_10
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 895
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4b806b82a9f2b40800000000000000
+      internalID: 5417718376393389262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_11
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 728
+        width: 149
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44774957661a4e350800000000000000
+      internalID: 6045134061269448516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_12
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 879
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9476edef37cae2ee0800000000000000
+      internalID: -1283899229556807863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_13
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 879
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fb986ffc12c2340800000000000000
+      internalID: 4840280876594609927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_14
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 878
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f669add69180e330800000000000000
+      internalID: 3738130175681455861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_15
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 876
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5fed94dc31f6d710800000000000000
+      internalID: 1717825551455874909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_16
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 879
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97840490ceb90cf30800000000000000
+      internalID: 4593843057987700857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_17
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 774
+        width: 108
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1fbd65cff5c7f80800000000000000
+      internalID: -8107499691780083248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_18
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 858
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5eb63b5aaf52ee0800000000000000
+      internalID: -1286346528957667841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_19
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 864
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5597fbf766f5bd0800000000000000
+      internalID: -2639278157756541446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_20
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 843
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c50d341193b5160800000000000000
+      internalID: 7015263590874635301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_21
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 853
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c37de5bd7a69d70800000000000000
+      internalID: 9049605061878430861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_22
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 852
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8febcf972201cc0800000000000000
+      internalID: -3742453383018121041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_23
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 813
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd17061e43335d240800000000000000
+      internalID: 4815811678755123679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_24
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 836
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af64abf033d466e80800000000000000
+      internalID: -8185770390996760838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_25
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 842
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f4e5cb651e36510800000000000000
+      internalID: 1541323260134576025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_26
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 738
+        width: 92
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76400c98a909df720800000000000000
+      internalID: 2881618329997411431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_27
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 833
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be2c6eb256359300800000000000000
+      internalID: 258172282653650615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_28
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 832
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c98c1bb0b4829d10800000000000000
+      internalID: 2130911468287986117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_29
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 819
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc0dd3d503a061b0800000000000000
+      internalID: -5665349085807440686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_30
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 792
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a65fdca3a2d88410800000000000000
+      internalID: 1479664078013028006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_31
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 794
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59908a50540d4270800000000000000
+      internalID: 8236244036692777311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_32
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 787
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3bdd5e4877ee42a0800000000000000
+      internalID: -6751204287484929222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_33
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 765
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4b52b1138a63b60800000000000000
+      internalID: 7725547139662984402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_34
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 766
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29709522caa1f3f10800000000000000
+      internalID: 2251547665321494418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_35
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 769
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40da004b87f2c12b0800000000000000
+      internalID: -5612558840147956476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_36
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 774
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4313f0a57f092b830800000000000000
+      internalID: 4085487204020728116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_37
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 773
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451f1700fa3648f60800000000000000
+      internalID: 8035657238413701460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_38
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 724
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7489ca9cde6d4130800000000000000
+      internalID: 3552617574833947775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_39
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 721
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b3a93d711f84550800000000000000
+      internalID: 6145426776183683850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_40
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 719
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb51f169a3ee6fd0800000000000000
+      internalID: -2346688039181263901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_41
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 704
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fff3238664fe6f80800000000000000
+      internalID: -8111277157723668487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_42
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 701
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a880df97ac15e00800000000000000
+      internalID: 1031828414929603210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_43
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 709
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81afcc2c3652e7db0800000000000000
+      internalID: -4792351843075425768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_44
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 687
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d20cbca45cac0530800000000000000
+      internalID: 3822619663405941458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_45
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 667
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c9c8dc81fbf0e20800000000000000
+      internalID: 3319081563644009510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_46
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 684
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab8e06a9d7624e30800000000000000
+      internalID: 4486262363305970607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_47
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 659
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e62a014c06c199b0800000000000000
+      internalID: -5075057549136746778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_48
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 660
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdbf014c9501d260800000000000000
+      internalID: 7120478654514052600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_49
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 686
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585bbce6120c59080800000000000000
+      internalID: -9181221015499590267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_50
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 659
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbf04742bb6463d0800000000000000
+      internalID: -3214325820591899713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_51
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 437
+        width: 189
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c6c680c9a2eeba0800000000000000
+      internalID: -6057857599122150257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_52
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 635
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43da4ca2d6ac5ac0800000000000000
+      internalID: -3865030956426800305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_53
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 633
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443db11449c5b7d50800000000000000
+      internalID: 6736079459479966532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_54
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 600
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f37559999865010800000000000000
+      internalID: 1177279645332487947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_55
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 655
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096a120a21fec95c0800000000000000
+      internalID: -4207225088595876208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_56
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 633
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1637f07c5c4d2bad0800000000000000
+      internalID: -2687852081673440415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_57
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 620
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252dfb86675118910800000000000000
+      internalID: 1837773721251598930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_58
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 605
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c17617735abc4550800000000000000
+      internalID: 6146492459096895944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_59
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 603
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4a881817238b5c0800000000000000
+      internalID: -4199551189437078331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_60
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 610
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51fcfd05c49dbad0800000000000000
+      internalID: -2684826228778798758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_61
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 553
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3376dbfa994692a30800000000000000
+      internalID: 4190991539486156595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_62
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 592
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72b4f093cd3cfaf0800000000000000
+      internalID: -361345959936609670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_63
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 588
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16d0bb62131ff390800000000000000
+      internalID: -7782480661235837414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_64
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 582
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91f2302ba61a82a0800000000000000
+      internalID: -6734545368543727206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_65
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 572
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2cc62c56cb15bbb0800000000000000
+      internalID: -4920996479068877778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_66
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 557
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0f1cb6ce690dcd0800000000000000
+      internalID: -2535360648045268747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_67
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 563
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d97d4a5b6c2d880800000000000000
+      internalID: -8587583055985140444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_68
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 574
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945d953055f3f9d90800000000000000
+      internalID: -7088877654096882359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_69
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 531
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc06845c0bf19310800000000000000
+      internalID: 1410184188719926477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_70
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 539
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20b681a06f687120800000000000000
+      internalID: 2411800061274402862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_71
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 527
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba75cda606c1af30800000000000000
+      internalID: 4585163627627379386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_72
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 535
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa18f0ca5acac6a90800000000000000
+      internalID: -7319285466827619926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_73
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 534
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a14c06499b3d970800000000000000
+      internalID: 8778564145604991603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_74
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 544
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ad0bf7b05e05e20800000000000000
+      internalID: 3337419161431235175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_75
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 503
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2cc8b428d45ede0800000000000000
+      internalID: -1304551295045287220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_76
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 521
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e77e1772586cb90800000000000000
+      internalID: -7221938547980796387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_77
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 508
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6dd6d8d5c62a9e00800000000000000
+      internalID: 1052196094132804970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_78
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 507
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e9729d9ce109910800000000000000
+      internalID: 1842006099875044902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_79
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 492
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d66c1ae4725203d0800000000000000
+      internalID: -3241938119655921968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_80
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 458
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb57586d717dc3460800000000000000
+      internalID: 7222884399778723259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_81
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 453
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7fc30ac2c457230800000000000000
+      internalID: 3635896028722165736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_82
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 476
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b5946dbdcc07870800000000000000
+      internalID: 8678661726507981719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_83
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 440
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bedd19210501f10800000000000000
+      internalID: 2238377055490009887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_84
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 368
+        width: 146
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309caf28c939040f0800000000000000
+      internalID: -1134744805675710205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_85
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 445
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc308991662c9d990800000000000000
+      internalID: -7360638372188519475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroTxt_86
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 323
+        width: 51
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f78e8e20281263e0800000000000000
+      internalID: -2062059152883152908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AgujeroTxt_0: 4251827738735327254
+      AgujeroTxt_1: 6519641819128885307
+      AgujeroTxt_10: 5417718376393389262
+      AgujeroTxt_11: 6045134061269448516
+      AgujeroTxt_12: -1283899229556807863
+      AgujeroTxt_13: 4840280876594609927
+      AgujeroTxt_14: 3738130175681455861
+      AgujeroTxt_15: 1717825551455874909
+      AgujeroTxt_16: 4593843057987700857
+      AgujeroTxt_17: -8107499691780083248
+      AgujeroTxt_18: -1286346528957667841
+      AgujeroTxt_19: -2639278157756541446
+      AgujeroTxt_2: -2799075834470483874
+      AgujeroTxt_20: 7015263590874635301
+      AgujeroTxt_21: 9049605061878430861
+      AgujeroTxt_22: -3742453383018121041
+      AgujeroTxt_23: 4815811678755123679
+      AgujeroTxt_24: -8185770390996760838
+      AgujeroTxt_25: 1541323260134576025
+      AgujeroTxt_26: 2881618329997411431
+      AgujeroTxt_27: 258172282653650615
+      AgujeroTxt_28: 2130911468287986117
+      AgujeroTxt_29: -5665349085807440686
+      AgujeroTxt_3: 2135307746163247729
+      AgujeroTxt_30: 1479664078013028006
+      AgujeroTxt_31: 8236244036692777311
+      AgujeroTxt_32: -6751204287484929222
+      AgujeroTxt_33: 7725547139662984402
+      AgujeroTxt_34: 2251547665321494418
+      AgujeroTxt_35: -5612558840147956476
+      AgujeroTxt_36: 4085487204020728116
+      AgujeroTxt_37: 8035657238413701460
+      AgujeroTxt_38: 3552617574833947775
+      AgujeroTxt_39: 6145426776183683850
+      AgujeroTxt_4: 4420876955019032123
+      AgujeroTxt_40: -2346688039181263901
+      AgujeroTxt_41: -8111277157723668487
+      AgujeroTxt_42: 1031828414929603210
+      AgujeroTxt_43: -4792351843075425768
+      AgujeroTxt_44: 3822619663405941458
+      AgujeroTxt_45: 3319081563644009510
+      AgujeroTxt_46: 4486262363305970607
+      AgujeroTxt_47: -5075057549136746778
+      AgujeroTxt_48: 7120478654514052600
+      AgujeroTxt_49: -9181221015499590267
+      AgujeroTxt_5: -4607760181890215247
+      AgujeroTxt_50: -3214325820591899713
+      AgujeroTxt_51: -6057857599122150257
+      AgujeroTxt_52: -3865030956426800305
+      AgujeroTxt_53: 6736079459479966532
+      AgujeroTxt_54: 1177279645332487947
+      AgujeroTxt_55: -4207225088595876208
+      AgujeroTxt_56: -2687852081673440415
+      AgujeroTxt_57: 1837773721251598930
+      AgujeroTxt_58: 6146492459096895944
+      AgujeroTxt_59: -4199551189437078331
+      AgujeroTxt_6: -9207517615166270804
+      AgujeroTxt_60: -2684826228778798758
+      AgujeroTxt_61: 4190991539486156595
+      AgujeroTxt_62: -361345959936609670
+      AgujeroTxt_63: -7782480661235837414
+      AgujeroTxt_64: -6734545368543727206
+      AgujeroTxt_65: -4920996479068877778
+      AgujeroTxt_66: -2535360648045268747
+      AgujeroTxt_67: -8587583055985140444
+      AgujeroTxt_68: -7088877654096882359
+      AgujeroTxt_69: 1410184188719926477
+      AgujeroTxt_7: 3393189194934262304
+      AgujeroTxt_70: 2411800061274402862
+      AgujeroTxt_71: 4585163627627379386
+      AgujeroTxt_72: -7319285466827619926
+      AgujeroTxt_73: 8778564145604991603
+      AgujeroTxt_74: 3337419161431235175
+      AgujeroTxt_75: -1304551295045287220
+      AgujeroTxt_76: -7221938547980796387
+      AgujeroTxt_77: 1052196094132804970
+      AgujeroTxt_78: 1842006099875044902
+      AgujeroTxt_79: -3241938119655921968
+      AgujeroTxt_8: 7545244711428876569
+      AgujeroTxt_80: 7222884399778723259
+      AgujeroTxt_81: 3635896028722165736
+      AgujeroTxt_82: 8678661726507981719
+      AgujeroTxt_83: 2238377055490009887
+      AgujeroTxt_84: -1134744805675710205
+      AgujeroTxt_85: -7360638372188519475
+      AgujeroTxt_86: -2062059152883152908
+      AgujeroTxt_9: -1685673535598113251
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

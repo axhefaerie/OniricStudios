@@ -14,10 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Gachas
   recipeSprite: {fileID: 21300000, guid: 458b1c75b6bb2a844a06138c96123027, type: 3}
+  recipeName: {fileID: 21300000, guid: 50de652433093c74e9e77d8ade0bdfab, type: 3}
+  bookSprite: {fileID: 0}
+  recipeCharacteristics: Que es eso que revolotea?
   baseIngredient: {fileID: 11400000, guid: fbdfed240e3fe084d92b19ab77cd2803, type: 2}
   sauceIngredients: []
   toppingIngredients:
   - {fileID: 11400000, guid: fd1906eff348d8844bbd184f7ef627b3, type: 2}
   - {fileID: 11400000, guid: 9511e958dc12b144390bfb8378475756, type: 2}
   - {fileID: 11400000, guid: 303bf8ad0b028fa4f89e1a45b8e2319c, type: 2}
-  flowerIngredient: {fileID: 11400000, guid: 159d743d2a361cb419256297df369ac6, type: 2}

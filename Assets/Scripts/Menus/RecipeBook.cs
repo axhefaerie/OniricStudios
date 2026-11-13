@@ -6,8 +6,9 @@ using System.Collections;
 public class RecipeBook : MonoBehaviour
 {
     public RecipeBookComponent recipeBook; // Referencia al libro de recetas
-    public TMP_Text recipeName; // NOmbre de la receta
+    public Image recipeName; // NOmbre de la receta
     public Image recipeImage; // Imagen receta
+    public TMP_Text recipeDescription; // Descripcion receta
     public GameObject recipeContent;
     public Transform ingredientsContainer; // Contenedor donde va a mostrarse
     public GameObject ingredientPrefab; // Prefab del nombre y el sprite de cada ingrediente
@@ -24,14 +25,14 @@ public class RecipeBook : MonoBehaviour
 
     public void NextPage() // Para pasar a la siguiente pag
     {
-        if (currentPage < recipeBook.recipes.Count - 1)
+        if (currentPage < recipeBook.recipes.Count)
         {
             currentPage++;
 
             if (!bookOpened) // Animacion de abrir libro
-            {
-                bookAnimator.Play("AbrirLibro", 0, 0f);
+            {             
                 bookOpened = true;
+                bookAnimator.Play("AbrirLibro", 0, 0f);
                 StartCoroutine(ShowRecipeAfterDelay());
             }
             else
@@ -64,6 +65,34 @@ public class RecipeBook : MonoBehaviour
         }
     }
 
+    public void ResetBook()
+    {
+        currentPage = 0;
+        bookOpened = false;
+
+        StopAllCoroutines();
+
+        // Ocultar el contenido
+        recipeContent.SetActive(false);
+
+        // Borrar los ingredientes de la última receta
+        foreach (Transform child in ingredientsContainer)
+        {
+            Destroy(child.gameObject);
+        }
+
+        // Borrar el texto y la imagen anteriores
+        recipeName.sprite = null;
+        recipeImage.sprite = null;
+        recipeDescription.text = "";
+
+        // Reiniciar completamente la animación
+        bookAnimator.Rebind();
+        bookAnimator.Update(0f);
+        bookAnimator.Play("Cerrado", 0, 0f);
+        bookAnimator.Update(0f);
+    }
+
     void ShowRecipe()
     {
         recipeContent.SetActive(currentPage > 0);
@@ -72,8 +101,9 @@ public class RecipeBook : MonoBehaviour
 
         RecipeComponent recipe = recipeBook.recipes[currentPage - 1];
 
-        recipeName.text = recipe.name;
+        recipeName.sprite = recipe.recipeName;
         recipeImage.sprite = recipe.bookSprite;
+        recipeDescription.text = recipe.recipeCharacteristics;
 
         foreach (Transform child in ingredientsContainer)
         {

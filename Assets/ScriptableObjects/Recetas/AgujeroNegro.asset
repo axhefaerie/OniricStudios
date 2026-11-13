@@ -14,9 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Agujero Negro
   recipeSprite: {fileID: 21300000, guid: 492ddf98d1a3b094bab3a2ee624e2141, type: 3}
+  recipeName: {fileID: 21300000, guid: 42432baef390d8441820bfd88f29ffd8, type: 3}
+  bookSprite: {fileID: 0}
+  recipeCharacteristics: ...
   baseIngredient: {fileID: 11400000, guid: d41876e64a749ca41b5e0736a70fae0c, type: 2}
   sauceIngredients:
   - {fileID: 11400000, guid: af92022e87c5d6b49be78b50aa35c974, type: 2}
   toppingIngredients:
   - {fileID: 11400000, guid: 23bb176812c16eb498bb80e19def6852, type: 2}
-  flowerIngredient: {fileID: 11400000, guid: 159d743d2a361cb419256297df369ac6, type: 2}

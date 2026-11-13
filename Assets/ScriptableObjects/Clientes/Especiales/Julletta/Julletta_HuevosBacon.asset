@@ -12,5 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dbc71b29c7d3c3b4591582952d2320bc, type: 3}
   m_Name: Julletta_HuevosBacon
   m_EditorClassIdentifier: 
-  preferenceText: Nada de dulce. Me gustan los ojos secos.
-  preferenceRecipe: {fileID: 11400000, guid: a3d307ce6ec1d6e4e93e0a79b8646788, type: 2}
+  preferenceText: "Cuando llegues a Madrid, chulona m\xEDa voy a hacerte emperatriz
+    de Lavapies y alfombrarte con claveles la Gran V\xEDa, y a ba\xF1arte con vinillo
+    de Jerez..."
+  preferenceRecipe: {fileID: 11400000, guid: 5578184d913b5674481019798e99a5f9, type: 2}

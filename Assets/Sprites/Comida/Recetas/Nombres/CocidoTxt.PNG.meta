@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 07ac6b355c73b804abe5491da7494137
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8893447968246485610
+    second: CocidoTxt_0
+  - first:
+      213: 7629811192336098158
+    second: CocidoTxt_1
+  - first:
+      213: -5175346652490808198
+    second: CocidoTxt_2
+  - first:
+      213: -7598238814369144496
+    second: CocidoTxt_3
+  - first:
+      213: -3534512652828586716
+    second: CocidoTxt_4
+  - first:
+      213: -7950954714841755193
+    second: CocidoTxt_5
+  - first:
+      213: 662896708108956713
+    second: CocidoTxt_6
+  - first:
+      213: 2057857349515808230
+    second: CocidoTxt_7
+  - first:
+      213: -8634635208926067244
+    second: CocidoTxt_8
+  - first:
+      213: 462914276334224419
+    second: CocidoTxt_9
+  - first:
+      213: 5645055285416298718
+    second: CocidoTxt_10
+  - first:
+      213: -1677656949587314164
+    second: CocidoTxt_11
+  - first:
+      213: -5279859960663574718
+    second: CocidoTxt_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CocidoTxt_0
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 865
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6250cfbecfdb6b70800000000000000
+      internalID: 8893447968246485610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoTxt_1
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 882
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e632e7edad882e960800000000000000
+      internalID: 7629811192336098158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoTxt_2
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 890
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7447c4c3a97d28b0800000000000000
+      internalID: -5175346652490808198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoTxt_3
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 909
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05121f63e02ad8690800000000000000
+      internalID: -7598238814369144496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoTxt_4
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 873
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d470a0873e2fec0800000000000000
+      internalID: -3534512652828586716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoTxt_5
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 838
+        width: 76
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1d3a410d888a190800000000000000
+      internalID: -7950954714841755193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoTxt_6
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 828
+        width: 82
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9243c993b05133900800000000000000
+      internalID: 662896708108956713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoTxt_7
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 858
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed015c3b5afe8c10800000000000000
+      internalID: 2057857349515808230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoTxt_8
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 887
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d581e6960d9b2880800000000000000
+      internalID: -8634635208926067244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoTxt_9
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 762
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324cb5ae41a9c6600800000000000000
+      internalID: 462914276334224419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoTxt_10
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 785
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed80ea09fd3475e40800000000000000
+      internalID: 5645055285416298718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoTxt_11
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 795
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0af1e894e3c7b8e0800000000000000
+      internalID: -1677656949587314164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoTxt_12
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 809
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247f6d4f65b2ab6b0800000000000000
+      internalID: -5279859960663574718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CocidoTxt_0: 8893447968246485610
+      CocidoTxt_1: 7629811192336098158
+      CocidoTxt_10: 5645055285416298718
+      CocidoTxt_11: -1677656949587314164
+      CocidoTxt_12: -5279859960663574718
+      CocidoTxt_2: -5175346652490808198
+      CocidoTxt_3: -7598238814369144496
+      CocidoTxt_4: -3534512652828586716
+      CocidoTxt_5: -7950954714841755193
+      CocidoTxt_6: 662896708108956713
+      CocidoTxt_7: 2057857349515808230
+      CocidoTxt_8: -8634635208926067244
+      CocidoTxt_9: 462914276334224419
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

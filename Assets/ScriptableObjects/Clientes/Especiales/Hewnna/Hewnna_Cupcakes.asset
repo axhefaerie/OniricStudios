@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dbc71b29c7d3c3b4591582952d2320bc, type: 3}
   m_Name: Hewnna_Cupcakes
   m_EditorClassIdentifier: 
-  preferenceText: "\xBFTen\xE9is algo muy muy dulce y mullido, por favpr?"
+  preferenceText: "\xBFTen\xE9is algo muy muy dulce y mullido, por favor?"
   preferenceRecipe: {fileID: 11400000, guid: 50aeacff77f0e4944afa406c09f5ff6d, type: 2}

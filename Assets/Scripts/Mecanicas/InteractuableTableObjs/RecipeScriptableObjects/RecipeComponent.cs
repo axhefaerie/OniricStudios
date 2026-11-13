@@ -2,6 +2,7 @@ using UnityEngine;
 using UnityEngine.Rendering;
 using System.Collections.Generic;
 using NUnit.Framework.Constraints;
+using TMPro;
 
 // Esta clase representa UNA receta del libro de recetas
 [CreateAssetMenu(fileName = "RecipeComponent", menuName = "Scriptable Objects/RecipeComponent")]
@@ -9,7 +10,9 @@ public class RecipeComponent : ScriptableObject
 {
     public string name;              // Nombre de la receta
     public Sprite recipeSprite;      // Sprite de la receta final
+    public Sprite recipeName;       // Sprite del nombre de la receta
     public Sprite bookSprite;      // Sprite de la receta final deformado para el libro
+    public string recipeCharacteristics; // Caracteristicas de la receta
 
     // Ingredientes que forman una receta
     // Una receta está compuesta por: 1 base, X salsas, X toppings

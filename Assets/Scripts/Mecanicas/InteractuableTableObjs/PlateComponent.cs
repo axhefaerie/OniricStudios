@@ -21,7 +21,6 @@ public class PlateComponent : MonoBehaviour
     private RecipeComponent currentRecipe;          // Receta actual
     private ClientComponent client;                // Cliente al que se le va a entregar el plato
 
-
     private bool hasBeenBaked = false;//para saber si un plato ha sido cocinado ya
     public bool HasBeenBaked
     {
@@ -34,6 +33,7 @@ public class PlateComponent : MonoBehaviour
         if (GameManager.Instance != null)
         {
             ingredients = new List<IngredientComponent>(GameManager.Instance.plateIngredients);
+            
             if (GameManager.Instance.isBaked)
             {
                 if (GameManager.Instance.bakedSprite != null)
@@ -109,11 +109,13 @@ public class PlateComponent : MonoBehaviour
             hasBeenBaked = true;
             GameManager.Instance.isBurnt = false;
             Debug.Log("No se puede hornear: ingredientes no forman una receta");
+
             // Borrar ingredientes y mostrar el sprite "pocho"
             for (int i = ingredientParent.childCount - 1; i >= 0; i--)
                 Destroy(ingredientParent.GetChild(i).gameObject);
 
             ShowSprite(susSprite, 0.3f);
+
             GameManager.Instance.bakedSprite = susSprite;
             GameManager.Instance.SavePlate(ingredients, true, null);
 
@@ -125,6 +127,7 @@ public class PlateComponent : MonoBehaviour
             Destroy(ingredientParent.GetChild(i).gameObject);
 
         ShowSprite(currentRecipe.recipeSprite, 0.3f);
+
         GameManager.Instance.bakedSprite = currentRecipe.recipeSprite;
         GameManager.Instance.SavePlate(ingredients, true, currentRecipe);
 
@@ -249,6 +252,7 @@ public class PlateComponent : MonoBehaviour
             Destroy(ingredientParent.GetChild(i).gameObject);
 
         ShowSprite(burntSprite, 0.3f);
+
         GameManager.Instance.bakedSprite = burntSprite;
         GameManager.Instance.SavePlate(ingredients, true, null);
 
