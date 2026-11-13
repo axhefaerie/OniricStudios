@@ -12,6 +12,7 @@ public class GameButtons : MonoBehaviour
     public GameObject menuContactos;
     public GameObject menuAjustes;
     public GameObject panelLibroRecetas;
+    public GameObject panelCreditos;
     public string cookingScene = "CookingScene";
     public string gameScene = "Game";
 
@@ -42,6 +43,16 @@ public class GameButtons : MonoBehaviour
         menuPausa.SetActive(true);
         Time.timeScale = 0; //Esto pausaria luego el juego (tipo, el tiempo) cuando tengamos algo xd osea pone la velocidad al 0
         isPaused = true;
+    }
+
+    public void AbrirCreditos()
+    {
+        panelCreditos.SetActive(true);
+    }
+
+    public void CerrarCreditos()
+    {
+        panelCreditos.SetActive(false);
     }
 
     public void Options()
