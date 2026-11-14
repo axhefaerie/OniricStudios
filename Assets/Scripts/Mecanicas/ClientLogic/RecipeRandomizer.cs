@@ -14,7 +14,8 @@ public class RecipeRandomizer : MonoBehaviour
 {
     public RecipeBookComponent recipeBook;
     public GameObject balloon;
-    public TextMeshProUGUI recipeText; //Esto será para en el futuro configurar dialogos y esas cosas(?
+    public TextMeshProUGUI recipeText;
+    public TextMeshProUGUI clientName;
 
     public CustomerType customerType;
 
@@ -31,6 +32,9 @@ public class RecipeRandomizer : MonoBehaviour
 
     private void Start()
     {
+        if (customerType != null && clientName != null)
+            clientName.text = customerType.customerName;
+
         if (GameManager.Instance != null &&
         GameManager.Instance.requestedRecipe != null &&
         GameManager.Instance.requestedFlower != null)

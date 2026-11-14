@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: a2a86f0e72dde8f429a247b0a6ee0eef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1098661945827557541
+    second: BocadilloCuadrao_0
+  - first:
+      213: -3049898862436622314
+    second: BocadilloCuadrao_1
+  - first:
+      213: -185078771698425441
+    second: BocadilloCuadrao_2
+  - first:
+      213: 2091038760817801311
+    second: BocadilloCuadrao_3
+  - first:
+      213: -1300159158560315973
+    second: BocadilloCuadrao_4
+  - first:
+      213: 2111999693530951256
+    second: BocadilloCuadrao_5
+  - first:
+      213: -7564798906618330617
+    second: BocadilloCuadrao_6
+  - first:
+      213: 2390077113373864249
+    second: BocadilloCuadrao_7
+  - first:
+      213: -2336216218047953981
+    second: BocadilloCuadrao_8
+  - first:
+      213: 8961726703410755595
+    second: BocadilloCuadrao_9
+  - first:
+      213: 8579706012389288336
+    second: BocadilloCuadrao_10
+  - first:
+      213: -1316720910401436241
+    second: BocadilloCuadrao_11
+  - first:
+      213: 9162907885704448466
+    second: BocadilloCuadrao_12
+  - first:
+      213: -5685602129852608334
+    second: BocadilloCuadrao_13
+  - first:
+      213: 9023512935573960820
+    second: BocadilloCuadrao_14
+  - first:
+      213: 5484097623562077668
+    second: BocadilloCuadrao_15
+  - first:
+      213: 41884439030493606
+    second: BocadilloCuadrao_16
+  - first:
+      213: 4312292288127955754
+    second: BocadilloCuadrao_17
+  - first:
+      213: -8584844556561695026
+    second: BocadilloCuadrao_18
+  - first:
+      213: 1542287202073762461
+    second: BocadilloCuadrao_19
+  - first:
+      213: -384445269715079112
+    second: BocadilloCuadrao_20
+  - first:
+      213: 7113591842595468255
+    second: BocadilloCuadrao_21
+  - first:
+      213: 1869775808816359440
+    second: BocadilloCuadrao_22
+  - first:
+      213: -4655034883096106630
+    second: BocadilloCuadrao_23
+  - first:
+      213: 2527770585457655849
+    second: BocadilloCuadrao_24
+  - first:
+      213: -5253873380808067121
+    second: BocadilloCuadrao_25
+  - first:
+      213: -5418238592958333786
+    second: BocadilloCuadrao_26
+  - first:
+      213: 495520473404244387
+    second: BocadilloCuadrao_27
+  - first:
+      213: 1366617809437136155
+    second: BocadilloCuadrao_28
+  - first:
+      213: -4947670934703444413
+    second: BocadilloCuadrao_29
+  - first:
+      213: -1295743720199380296
+    second: BocadilloCuadrao_30
+  - first:
+      213: -6599147339078322977
+    second: BocadilloCuadrao_31
+  - first:
+      213: -8497502077546691051
+    second: BocadilloCuadrao_32
+  - first:
+      213: -3298564212676382362
+    second: BocadilloCuadrao_33
+  - first:
+      213: -6655265723162928139
+    second: BocadilloCuadrao_34
+  - first:
+      213: 1226105758978806432
+    second: BocadilloCuadrao_35
+  - first:
+      213: 7120162711347115240
+    second: BocadilloCuadrao_36
+  - first:
+      213: 5711656877876277794
+    second: BocadilloCuadrao_37
+  - first:
+      213: -2379928875422892708
+    second: BocadilloCuadrao_38
+  - first:
+      213: 8827723189269377026
+    second: BocadilloCuadrao_39
+  - first:
+      213: 4154375820200286067
+    second: BocadilloCuadrao_40
+  - first:
+      213: -4478892196649636183
+    second: BocadilloCuadrao_41
+  - first:
+      213: -3842091585478510547
+    second: BocadilloCuadrao_42
+  - first:
+      213: 1369232760047302375
+    second: BocadilloCuadrao_43
+  - first:
+      213: 6429055362520278442
+    second: BocadilloCuadrao_44
+  - first:
+      213: -3593466500006532706
+    second: BocadilloCuadrao_45
+  - first:
+      213: -998908905297453505
+    second: BocadilloCuadrao_46
+  - first:
+      213: 3687780734948956519
+    second: BocadilloCuadrao_47
+  - first:
+      213: -4303877615284361709
+    second: BocadilloCuadrao_48
+  - first:
+      213: 6499237110659229234
+    second: BocadilloCuadrao_49
+  - first:
+      213: -4967233306765676783
+    second: BocadilloCuadrao_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BocadilloCuadrao_0
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 333
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a08a41083b3f3f00800000000000000
+      internalID: 1098661945827557541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_1
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 341
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610e897c4259ca5d0800000000000000
+      internalID: -3049898862436622314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_2
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 338
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91237576d77e6df0800000000000000
+      internalID: -185078771698425441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 323
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f583e169cacd40d10800000000000000
+      internalID: 2091038760817801311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_4
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 320
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5aa824228e4fde0800000000000000
+      internalID: -1300159158560315973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_5
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 322
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e65aa08845f4d10800000000000000
+      internalID: 2111999693530951256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_6
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 325
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70240c5797f640790800000000000000
+      internalID: -7564798906618330617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_7
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 320
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931b070b8724b2120800000000000000
+      internalID: 2390077113373864249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_8
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 329
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3cebc3ab7149fd0800000000000000
+      internalID: -2336216218047953981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_9
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 317
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b083eea94f27e5c70800000000000000
+      internalID: 8961726703410755595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_10
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 312
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0992fb9392d311770800000000000000
+      internalID: 8579706012389288336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_11
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 309
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5813bee411abde0800000000000000
+      internalID: -1316720910401436241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_12
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 316
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d90a05cc20392f70800000000000000
+      internalID: 9162907885704448466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_13
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 317
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b05eeb8cfea811b0800000000000000
+      internalID: -5685602129852608334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_14
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 313
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478370fc435f93d70800000000000000
+      internalID: 9023512935573960820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_15
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 319
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e54bfd8bbd6b1c40800000000000000
+      internalID: 5484097623562077668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_16
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 310
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a17706ecadc49000800000000000000
+      internalID: 41884439030493606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_17
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 311
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23f5811df658db30800000000000000
+      internalID: 4312292288127955754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_18
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 316
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eceb13a3c518cd880800000000000000
+      internalID: -8584844556561695026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_19
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 309
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9adc35f90e476510800000000000000
+      internalID: 1542287202073762461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_20
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 76
+        width: 628
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830bd07601d2aaaf0800000000000000
+      internalID: -384445269715079112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_21
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 298
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3f407671e88b260800000000000000
+      internalID: 7113591842595468255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_22
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 263
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0182e1e0137c2f910800000000000000
+      internalID: 1869775808816359440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_23
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 237
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a792100ff6ef56fb0800000000000000
+      internalID: -4655034883096106630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_24
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 225
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92082eb64f1741320800000000000000
+      internalID: 2527770585457655849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_25
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 209
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7fd021ffd7617b0800000000000000
+      internalID: -5253873380808067121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_26
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 193
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acf76ee4bc8ec4b0800000000000000
+      internalID: -5418238592958333786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_27
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 191
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a18134ce3170e600800000000000000
+      internalID: 495520473404244387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_28
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 181
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15193338a337f210800000000000000
+      internalID: 1366617809437136155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_29
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 160
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ee97faf77565bb0800000000000000
+      internalID: -4947670934703444413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_30
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 120
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2a29d93f7940ee0800000000000000
+      internalID: -1295743720199380296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_31
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 66
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4b5c9757e1b64a0800000000000000
+      internalID: -6599147339078322977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_32
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 68
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5168fa5d1eec21a80800000000000000
+      internalID: -8497502077546691051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_33
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 72
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661bb9a33552932d0800000000000000
+      internalID: -3298564212676382362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_34
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 72
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb5a0df51fb3a3a0800000000000000
+      internalID: -6655265723162928139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_35
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 73
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a21efc01b0040110800000000000000
+      internalID: 1226105758978806432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 73
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4b3d00346efc260800000000000000
+      internalID: 7120162711347115240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_37
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 70
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2227bb43ba1e34f40800000000000000
+      internalID: 5711656877876277794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_38
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 60
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d39b51c4bc8fed0800000000000000
+      internalID: -2379928875422892708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_39
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20031e7287f528a70800000000000000
+      internalID: 8827723189269377026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_40
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 59
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37792823cce47a930800000000000000
+      internalID: 4154375820200286067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_41
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 56
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aeed6ff647c7d1c0800000000000000
+      internalID: -4478892196649636183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_42
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 61
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28390d2f062eaac0800000000000000
+      internalID: -3842091585478510547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_43
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 57
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e67275d0fd700310800000000000000
+      internalID: 1369232760047302375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 41
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa567542ac7983950800000000000000
+      internalID: 6429055362520278442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_45
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 50
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9928dad141712ec0800000000000000
+      internalID: -3593466500006532706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_46
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 45
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e55c0a4a92322f0800000000000000
+      internalID: -998908905297453505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_47
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 29
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769592c2a01ad2330800000000000000
+      internalID: 3687780734948956519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_48
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 35
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3166830ac1e8544c0800000000000000
+      internalID: -4303877615284361709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_49
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23621ebb7bde13a50800000000000000
+      internalID: 6499237110659229234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloCuadrao_50
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 8
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f2eb100a7d01bb0800000000000000
+      internalID: -4967233306765676783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BocadilloCuadrao_0: 1098661945827557541
+      BocadilloCuadrao_1: -3049898862436622314
+      BocadilloCuadrao_10: 8579706012389288336
+      BocadilloCuadrao_11: -1316720910401436241
+      BocadilloCuadrao_12: 9162907885704448466
+      BocadilloCuadrao_13: -5685602129852608334
+      BocadilloCuadrao_14: 9023512935573960820
+      BocadilloCuadrao_15: 5484097623562077668
+      BocadilloCuadrao_16: 41884439030493606
+      BocadilloCuadrao_17: 4312292288127955754
+      BocadilloCuadrao_18: -8584844556561695026
+      BocadilloCuadrao_19: 1542287202073762461
+      BocadilloCuadrao_2: -185078771698425441
+      BocadilloCuadrao_20: -384445269715079112
+      BocadilloCuadrao_21: 7113591842595468255
+      BocadilloCuadrao_22: 1869775808816359440
+      BocadilloCuadrao_23: -4655034883096106630
+      BocadilloCuadrao_24: 2527770585457655849
+      BocadilloCuadrao_25: -5253873380808067121
+      BocadilloCuadrao_26: -5418238592958333786
+      BocadilloCuadrao_27: 495520473404244387
+      BocadilloCuadrao_28: 1366617809437136155
+      BocadilloCuadrao_29: -4947670934703444413
+      BocadilloCuadrao_3: 2091038760817801311
+      BocadilloCuadrao_30: -1295743720199380296
+      BocadilloCuadrao_31: -6599147339078322977
+      BocadilloCuadrao_32: -8497502077546691051
+      BocadilloCuadrao_33: -3298564212676382362
+      BocadilloCuadrao_34: -6655265723162928139
+      BocadilloCuadrao_35: 1226105758978806432
+      BocadilloCuadrao_36: 7120162711347115240
+      BocadilloCuadrao_37: 5711656877876277794
+      BocadilloCuadrao_38: -2379928875422892708
+      BocadilloCuadrao_39: 8827723189269377026
+      BocadilloCuadrao_4: -1300159158560315973
+      BocadilloCuadrao_40: 4154375820200286067
+      BocadilloCuadrao_41: -4478892196649636183
+      BocadilloCuadrao_42: -3842091585478510547
+      BocadilloCuadrao_43: 1369232760047302375
+      BocadilloCuadrao_44: 6429055362520278442
+      BocadilloCuadrao_45: -3593466500006532706
+      BocadilloCuadrao_46: -998908905297453505
+      BocadilloCuadrao_47: 3687780734948956519
+      BocadilloCuadrao_48: -4303877615284361709
+      BocadilloCuadrao_49: 6499237110659229234
+      BocadilloCuadrao_5: 2111999693530951256
+      BocadilloCuadrao_50: -4967233306765676783
+      BocadilloCuadrao_6: -7564798906618330617
+      BocadilloCuadrao_7: 2390077113373864249
+      BocadilloCuadrao_8: -2336216218047953981
+      BocadilloCuadrao_9: 8961726703410755595
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1495 @@
+fileFormatVersion: 2
+guid: 900533d19e011894aade0f12fabda6f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3644383617959351872
+    second: BocadilloSinPico_0
+  - first:
+      213: -8628951350954465176
+    second: BocadilloSinPico_1
+  - first:
+      213: 6261541262213498158
+    second: BocadilloSinPico_2
+  - first:
+      213: 3424755458489802967
+    second: BocadilloSinPico_3
+  - first:
+      213: 6291050115224088140
+    second: BocadilloSinPico_4
+  - first:
+      213: -2257318317347116361
+    second: BocadilloSinPico_5
+  - first:
+      213: -5528295334383357385
+    second: BocadilloSinPico_6
+  - first:
+      213: -6112461790357109303
+    second: BocadilloSinPico_7
+  - first:
+      213: 7902140377225462690
+    second: BocadilloSinPico_8
+  - first:
+      213: 4062435865072104741
+    second: BocadilloSinPico_9
+  - first:
+      213: 8553297023541438116
+    second: BocadilloSinPico_10
+  - first:
+      213: -3511964692687366360
+    second: BocadilloSinPico_11
+  - first:
+      213: -6972902520591049081
+    second: BocadilloSinPico_12
+  - first:
+      213: -7376831477056778870
+    second: BocadilloSinPico_13
+  - first:
+      213: 329210359076300875
+    second: BocadilloSinPico_14
+  - first:
+      213: 3667963842230922291
+    second: BocadilloSinPico_15
+  - first:
+      213: -2673787981457858130
+    second: BocadilloSinPico_16
+  - first:
+      213: 3047553239044196027
+    second: BocadilloSinPico_17
+  - first:
+      213: 7466362770727878219
+    second: BocadilloSinPico_18
+  - first:
+      213: 4601972300447482037
+    second: BocadilloSinPico_19
+  - first:
+      213: 3038681295883807175
+    second: BocadilloSinPico_20
+  - first:
+      213: -4918107059232628410
+    second: BocadilloSinPico_21
+  - first:
+      213: 2334911628343399911
+    second: BocadilloSinPico_22
+  - first:
+      213: -6571784479698163645
+    second: BocadilloSinPico_23
+  - first:
+      213: 3232856801330115761
+    second: BocadilloSinPico_24
+  - first:
+      213: 4396584443200051288
+    second: BocadilloSinPico_25
+  - first:
+      213: -4502730376451659709
+    second: BocadilloSinPico_26
+  - first:
+      213: -3897322487956416285
+    second: BocadilloSinPico_27
+  - first:
+      213: -7963754379532004677
+    second: BocadilloSinPico_28
+  - first:
+      213: -3235371681346603705
+    second: BocadilloSinPico_29
+  - first:
+      213: -5486407076535229173
+    second: BocadilloSinPico_30
+  - first:
+      213: 601124075631309802
+    second: BocadilloSinPico_31
+  - first:
+      213: -376133092146211841
+    second: BocadilloSinPico_32
+  - first:
+      213: -5426975911611716670
+    second: BocadilloSinPico_33
+  - first:
+      213: -6248713735839793630
+    second: BocadilloSinPico_34
+  - first:
+      213: -741650796357302039
+    second: BocadilloSinPico_35
+  - first:
+      213: -6761130934713314736
+    second: BocadilloSinPico_36
+  - first:
+      213: -4819445909877988825
+    second: BocadilloSinPico_37
+  - first:
+      213: -3687800791869221045
+    second: BocadilloSinPico_38
+  - first:
+      213: -4133725444991364640
+    second: BocadilloSinPico_39
+  - first:
+      213: -6825873686920269672
+    second: BocadilloSinPico_40
+  - first:
+      213: 7920039576490131100
+    second: BocadilloSinPico_41
+  - first:
+      213: 9174517506282382551
+    second: BocadilloSinPico_42
+  - first:
+      213: 3270812185262884243
+    second: BocadilloSinPico_43
+  - first:
+      213: -7602098828614066743
+    second: BocadilloSinPico_44
+  - first:
+      213: 2515282812833327788
+    second: BocadilloSinPico_45
+  - first:
+      213: -8170463658160751567
+    second: BocadilloSinPico_46
+  - first:
+      213: -5541083119715764004
+    second: BocadilloSinPico_47
+  - first:
+      213: -7904118770762978989
+    second: BocadilloSinPico_48
+  - first:
+      213: -2538290502495186221
+    second: BocadilloSinPico_49
+  - first:
+      213: 268682012304692353
+    second: BocadilloSinPico_50
+  - first:
+      213: -8420748816250831358
+    second: BocadilloSinPico_51
+  - first:
+      213: -40038088592674824
+    second: BocadilloSinPico_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BocadilloSinPico_0
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 328
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04658bd7793739230800000000000000
+      internalID: 3644383617959351872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 336
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8686b36e67ecf3880800000000000000
+      internalID: -8628951350954465176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_2
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 333
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25cfa85a9675e650800000000000000
+      internalID: 6261541262213498158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 318
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d06dd1c1fc278f20800000000000000
+      internalID: 3424755458489802967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 315
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4eac169fbc4e4750800000000000000
+      internalID: 6291050115224088140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_5
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 317
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7baea8d33f46ca0e0800000000000000
+      internalID: -2257318317347116361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_6
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 320
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73271acfeac8743b0800000000000000
+      internalID: -5528295334383357385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_7
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 315
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5cd9a036c2c2ba0800000000000000
+      internalID: -6112461790357109303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_8
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 324
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a38bc54eca0aad60800000000000000
+      internalID: 7902140377225462690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_9
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 312
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525fd6445eba06830800000000000000
+      internalID: 4062435865072104741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_10
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 307
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6e79a535a63b670800000000000000
+      internalID: 8553297023541438116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_11
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 304
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827d7ac18bef24fc0800000000000000
+      internalID: -3511964692687366360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_12
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 311
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e9ebef9164b3f90800000000000000
+      internalID: -6972902520591049081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_13
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 312
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d4c121bda30a990800000000000000
+      internalID: -7376831477056778870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_14
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 308
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b482f1dc317919400800000000000000
+      internalID: 329210359076300875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_15
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 314
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ca6294ea937e230800000000000000
+      internalID: 3667963842230922291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_16
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 305
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1ee784ffbc4ead0800000000000000
+      internalID: -2673787981457858130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_17
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 306
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6025736851b4a20800000000000000
+      internalID: 3047553239044196027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_18
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 311
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ebf69a169dd9760800000000000000
+      internalID: 7466362770727878219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_19
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 304
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b00c5acc6d7ddf30800000000000000
+      internalID: 4601972300447482037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 71
+        width: 562
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c927caf9809b2a20800000000000000
+      internalID: 3038681295883807175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_21
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 293
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6412917dfaf5fbbb0800000000000000
+      internalID: -4918107059232628410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_22
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 268
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5565d41c5476020800000000000000
+      internalID: 2334911628343399911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_23
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 257
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3486a23a5d45cc4a0800000000000000
+      internalID: -6571784479698163645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_24
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 258
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4bcf4e12a6ddc20800000000000000
+      internalID: 3232856801330115761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_25
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 232
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85892f9c14ec30d30800000000000000
+      internalID: 4396584443200051288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_26
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 220
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348ec3044961381c0800000000000000
+      internalID: -4502730376451659709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_27
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 204
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8573a98dde9e9c0800000000000000
+      internalID: -3897322487956416285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_28
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 188
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb29889e59f0b7190800000000000000
+      internalID: -7963754379532004677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_29
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 186
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7453af8f896a913d0800000000000000
+      internalID: -3235371681346603705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_30
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 176
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05ade505dd5cd3b0800000000000000
+      internalID: -5486407076535229173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_31
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 155
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae370f1792f975800800000000000000
+      internalID: 601124075631309802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_32
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 115
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff31b5e02f4b7caf0800000000000000
+      internalID: -376133092146211841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_33
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 61
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb28c769228fa4b0800000000000000
+      internalID: -5426975911611716670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_34
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e3a20e6fb1849a0800000000000000
+      internalID: -6248713735839793630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_35
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 67
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8ccb7b78025b5f0800000000000000
+      internalID: -741650796357302039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_36
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 67
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0521284ac33ab22a0800000000000000
+      internalID: -6761130934713314736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_37
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 68
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722638fba73ed1db0800000000000000
+      internalID: -4819445909877988825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_38
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 68
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b471b36f7bc42dcc0800000000000000
+      internalID: -3687800791869221045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_39
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 65
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1db44fb9e02a6c0800000000000000
+      internalID: -4133725444991364640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_40
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 55
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8907e69fb00a541a0800000000000000
+      internalID: -6825873686920269672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_41
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 51
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ebabb5802a9ed60800000000000000
+      internalID: 7920039576490131100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_42
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 54
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d46093301f625f70800000000000000
+      internalID: 9174517506282382551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_43
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 51
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3950d9d5a52446d20800000000000000
+      internalID: 3270812185262884243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 56
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd9b0d946bef7690800000000000000
+      internalID: -7602098828614066743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_45
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 52
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa6398446418e220800000000000000
+      internalID: 2515282812833327788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_46
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 36
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13cf615879eac9e80800000000000000
+      internalID: -8170463658160751567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_47
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8bd62b24e1a13b0800000000000000
+      internalID: -5541083119715764004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_48
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 40
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359ec261bddee4290800000000000000
+      internalID: -7904118770762978989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_49
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 24
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2d6068c3e26ccd0800000000000000
+      internalID: -2538290502495186221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_50
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 30
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18455fcdddc8ab300800000000000000
+      internalID: 268682012304692353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_51
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 26
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ef390119d732b80800000000000000
+      internalID: -8420748816250831358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloSinPico_52
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 3
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ffa2ff0291c17ff0800000000000000
+      internalID: -40038088592674824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BocadilloSinPico_0: 3644383617959351872
+      BocadilloSinPico_1: -8628951350954465176
+      BocadilloSinPico_10: 8553297023541438116
+      BocadilloSinPico_11: -3511964692687366360
+      BocadilloSinPico_12: -6972902520591049081
+      BocadilloSinPico_13: -7376831477056778870
+      BocadilloSinPico_14: 329210359076300875
+      BocadilloSinPico_15: 3667963842230922291
+      BocadilloSinPico_16: -2673787981457858130
+      BocadilloSinPico_17: 3047553239044196027
+      BocadilloSinPico_18: 7466362770727878219
+      BocadilloSinPico_19: 4601972300447482037
+      BocadilloSinPico_2: 6261541262213498158
+      BocadilloSinPico_20: 3038681295883807175
+      BocadilloSinPico_21: -4918107059232628410
+      BocadilloSinPico_22: 2334911628343399911
+      BocadilloSinPico_23: -6571784479698163645
+      BocadilloSinPico_24: 3232856801330115761
+      BocadilloSinPico_25: 4396584443200051288
+      BocadilloSinPico_26: -4502730376451659709
+      BocadilloSinPico_27: -3897322487956416285
+      BocadilloSinPico_28: -7963754379532004677
+      BocadilloSinPico_29: -3235371681346603705
+      BocadilloSinPico_3: 3424755458489802967
+      BocadilloSinPico_30: -5486407076535229173
+      BocadilloSinPico_31: 601124075631309802
+      BocadilloSinPico_32: -376133092146211841
+      BocadilloSinPico_33: -5426975911611716670
+      BocadilloSinPico_34: -6248713735839793630
+      BocadilloSinPico_35: -741650796357302039
+      BocadilloSinPico_36: -6761130934713314736
+      BocadilloSinPico_37: -4819445909877988825
+      BocadilloSinPico_38: -3687800791869221045
+      BocadilloSinPico_39: -4133725444991364640
+      BocadilloSinPico_4: 6291050115224088140
+      BocadilloSinPico_40: -6825873686920269672
+      BocadilloSinPico_41: 7920039576490131100
+      BocadilloSinPico_42: 9174517506282382551
+      BocadilloSinPico_43: 3270812185262884243
+      BocadilloSinPico_44: -7602098828614066743
+      BocadilloSinPico_45: 2515282812833327788
+      BocadilloSinPico_46: -8170463658160751567
+      BocadilloSinPico_47: -5541083119715764004
+      BocadilloSinPico_48: -7904118770762978989
+      BocadilloSinPico_49: -2538290502495186221
+      BocadilloSinPico_5: -2257318317347116361
+      BocadilloSinPico_50: 268682012304692353
+      BocadilloSinPico_51: -8420748816250831358
+      BocadilloSinPico_52: -40038088592674824
+      BocadilloSinPico_6: -5528295334383357385
+      BocadilloSinPico_7: -6112461790357109303
+      BocadilloSinPico_8: 7902140377225462690
+      BocadilloSinPico_9: 4062435865072104741
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

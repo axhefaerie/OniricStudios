@@ -438,8 +438,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 222069809}
-        m_TargetAssemblyTypeName: Buttons, Assembly-CSharp
-        m_MethodName: startGame_Btn
+        m_TargetAssemblyTypeName: GameButtons, Assembly-CSharp
+        m_MethodName: startTutorial_Btn
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -506,6 +506,7 @@ MonoBehaviour:
   panelCreditos: {fileID: 0}
   cookingScene: CookingScene
   gameScene: Game
+  tutorialScene: Tutorial
   recipeBook: {fileID: 0}
   isPaused: 0
 --- !u!1 &243256751
@@ -1124,6 +1125,7 @@ MonoBehaviour:
   panelCreditos: {fileID: 736114209}
   cookingScene: CookingScene
   gameScene: Game
+  tutorialScene: Tutorial
   recipeBook: {fileID: 0}
   isPaused: 0
 --- !u!114 &505002143
@@ -1932,6 +1934,7 @@ MonoBehaviour:
   panelCreditos: {fileID: 736114209}
   cookingScene: CookingScene
   gameScene: Game
+  tutorialScene: Tutorial
   recipeBook: {fileID: 0}
   isPaused: 0
 --- !u!1 &1111637296

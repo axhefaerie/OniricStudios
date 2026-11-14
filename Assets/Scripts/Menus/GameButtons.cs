@@ -15,6 +15,7 @@ public class GameButtons : MonoBehaviour
     public GameObject panelCreditos;
     public string cookingScene = "CookingScene";
     public string gameScene = "Game";
+    public string tutorialScene = "Tutorial";
 
     public RecipeBook recipeBook;
 
@@ -24,6 +25,11 @@ public class GameButtons : MonoBehaviour
     public void startGame_Btn()
     { 
         SceneManager.LoadScene("Game");
+    }
+
+    public void startTutorial_Btn()
+    {
+        SceneManager.LoadScene(tutorialScene);
     }
 
     public void titleScreen_Btn()

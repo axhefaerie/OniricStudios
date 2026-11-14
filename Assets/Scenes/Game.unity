@@ -955,7 +955,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -446, y: 73}
+  m_AnchoredPosition: {x: -462, y: 66}
   m_SizeDelta: {x: 132.2318, y: 126.9819}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &321455247
@@ -9176,17 +9176,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1513303706}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0.082642145, w: 0.9965793}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1834585200}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -9.481}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 582, y: 420}
-  m_SizeDelta: {x: 206.17, y: 218.66}
+  m_AnchoredPosition: {x: 866, y: 445}
+  m_SizeDelta: {x: 172.86, y: 183.33}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1513303708
 MonoBehaviour:
@@ -10736,7 +10736,7 @@ Transform:
   m_GameObject: {fileID: 1680314694}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.8770318, y: 1.334144, z: 89.8}
+  m_LocalPosition: {x: 1.04, y: 1.12, z: 89.8}
   m_LocalScale: {x: 0.8465, y: 0.8465, z: 0.8465}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -11769,6 +11769,7 @@ MonoBehaviour:
   panelCreditos: {fileID: 0}
   cookingScene: CookingScene
   gameScene: Game
+  tutorialScene: Tutorial
   recipeBook: {fileID: 749757780}
   isPaused: 0
 --- !u!1 &1834629009
@@ -13476,8 +13477,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -7.087}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 815, y: 420}
-  m_SizeDelta: {x: 284.9191, y: 89.9611}
+  m_AnchoredPosition: {x: 854, y: 277}
+  m_SizeDelta: {x: 239.72, y: 75.69}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2063474421
 MonoBehaviour:
