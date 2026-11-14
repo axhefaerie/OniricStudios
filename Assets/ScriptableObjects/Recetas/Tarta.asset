@@ -13,10 +13,11 @@ MonoBehaviour:
   m_Name: Tarta
   m_EditorClassIdentifier: 
   name: Tarta
-  recipeSprite: {fileID: 21300000, guid: 2e2e9c52742e99d46ace1a0ee7f7830c, type: 3}
+  recipeSprite: {fileID: 21300000, guid: 0843b6f5201ba6842873893bd88d13ab, type: 3}
   recipeName: {fileID: 21300000, guid: 8d07958385c2531438097d9cafd36b58, type: 3}
-  bookSprite: {fileID: 0}
+  bookSprite: {fileID: 21300000, guid: 781d8c25a568b2f4aa47d783498d2903, type: 3}
   recipeCharacteristics: Una sabrosa y jugosa tarta.
+  ingredientsSprite: {fileID: 21300000, guid: ac1d3eaa14bce2341b8a4dcc23b1b9cd, type: 3}
   baseIngredient: {fileID: 11400000, guid: b26c6699952953247b554fc72110de89, type: 2}
   sauceIngredients:
   - {fileID: 11400000, guid: 190d5163515e0f9428fd75b359844384, type: 2}

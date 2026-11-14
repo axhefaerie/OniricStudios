@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: e3a4ef36d001c18458e8101d4548741d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5400446736285172977
+    second: CupcakeReceta_0
+  - first:
+      213: 7651175354936132623
+    second: CupcakeReceta_1
+  - first:
+      213: -8540646897504750717
+    second: CupcakeReceta_2
+  - first:
+      213: 9176597309800155147
+    second: CupcakeReceta_3
+  - first:
+      213: -2361882621972348223
+    second: CupcakeReceta_4
+  - first:
+      213: 5042887104301202690
+    second: CupcakeReceta_5
+  - first:
+      213: 8323851263616351876
+    second: CupcakeReceta_6
+  - first:
+      213: -1283659723225445820
+    second: CupcakeReceta_7
+  - first:
+      213: 5960764754489711397
+    second: CupcakeReceta_8
+  - first:
+      213: 5217978897248994628
+    second: CupcakeReceta_9
+  - first:
+      213: -8778516212003359889
+    second: CupcakeReceta_10
+  - first:
+      213: -5887267724192154917
+    second: CupcakeReceta_11
+  - first:
+      213: -7735776405521992874
+    second: CupcakeReceta_12
+  - first:
+      213: -3442688250464122899
+    second: CupcakeReceta_13
+  - first:
+      213: -1034439829027466410
+    second: CupcakeReceta_14
+  - first:
+      213: -4303695358440292124
+    second: CupcakeReceta_15
+  - first:
+      213: 6795797030447784746
+    second: CupcakeReceta_16
+  - first:
+      213: -3766378597274517668
+    second: CupcakeReceta_17
+  - first:
+      213: -7714892834218784691
+    second: CupcakeReceta_18
+  - first:
+      213: 7103068057886430283
+    second: CupcakeReceta_19
+  - first:
+      213: 904814459682057513
+    second: CupcakeReceta_20
+  - first:
+      213: -1372423132225675447
+    second: CupcakeReceta_21
+  - first:
+      213: 5331028363311570539
+    second: CupcakeReceta_22
+  - first:
+      213: 8581509484870632099
+    second: CupcakeReceta_23
+  - first:
+      213: -2058474416239653330
+    second: CupcakeReceta_24
+  - first:
+      213: -424251905912423018
+    second: CupcakeReceta_25
+  - first:
+      213: 4768752860036948178
+    second: CupcakeReceta_26
+  - first:
+      213: 4899434067090479121
+    second: CupcakeReceta_27
+  - first:
+      213: -5211004600636771978
+    second: CupcakeReceta_28
+  - first:
+      213: -1516317148398075529
+    second: CupcakeReceta_29
+  - first:
+      213: -848987077169423950
+    second: CupcakeReceta_30
+  - first:
+      213: 6634281622488897495
+    second: CupcakeReceta_31
+  - first:
+      213: 662194767225605371
+    second: CupcakeReceta_32
+  - first:
+      213: 1441376863174098962
+    second: CupcakeReceta_33
+  - first:
+      213: -6199267381943385151
+    second: CupcakeReceta_34
+  - first:
+      213: -3262193855494258662
+    second: CupcakeReceta_35
+  - first:
+      213: -5116726149827530448
+    second: CupcakeReceta_36
+  - first:
+      213: -7402895348051891658
+    second: CupcakeReceta_37
+  - first:
+      213: -1202049629763169818
+    second: CupcakeReceta_38
+  - first:
+      213: -4458863856523425668
+    second: CupcakeReceta_39
+  - first:
+      213: 2778311447133180331
+    second: CupcakeReceta_40
+  - first:
+      213: -1390796539797174547
+    second: CupcakeReceta_41
+  - first:
+      213: 3334107993978148249
+    second: CupcakeReceta_42
+  - first:
+      213: -1975388796844221331
+    second: CupcakeReceta_43
+  - first:
+      213: -9077937035230018582
+    second: CupcakeReceta_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CupcakeReceta_0
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 794
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f402b0a1bd32fa40800000000000000
+      internalID: 5400446736285172977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_1
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 818
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f040139927f6e2a60800000000000000
+      internalID: 7651175354936132623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_2
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 825
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383ff22a5e6897980800000000000000
+      internalID: -8540646897504750717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_3
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 818
+        width: 84
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08817132a2d95f70800000000000000
+      internalID: 9176597309800155147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_4
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 777
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c28b24e448e83fd0800000000000000
+      internalID: -2361882621972348223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_5
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 728
+        width: 94
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d754e5a1febf540800000000000000
+      internalID: 5042887104301202690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_6
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 803
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ef9036f92448370800000000000000
+      internalID: 8323851263616351876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_7
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 797
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44acba868468f2ee0800000000000000
+      internalID: -1283659723225445820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_8
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 731
+        width: 103
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b170576f3e8b250800000000000000
+      internalID: 5960764754489711397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_9
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 757
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445c208392cf96840800000000000000
+      internalID: 5217978897248994628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_10
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 733
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63388804027c2680800000000000000
+      internalID: -8778516212003359889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_11
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 739
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda77e962393c4ea0800000000000000
+      internalID: -5887267724192154917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_12
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 732
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6537307585005a490800000000000000
+      internalID: -7735776405521992874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_13
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 688
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7ccaeb64d1930d0800000000000000
+      internalID: -3442688250464122899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_14
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 721
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6535d49c47ee4a1f0800000000000000
+      internalID: -1034439829027466410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_15
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 729
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e04baa9fd33644c0800000000000000
+      internalID: -4303695358440292124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_16
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 681
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23ae7db4658f4e50800000000000000
+      internalID: 6795797030447784746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_17
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 689
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f71d3fe922bbbc0800000000000000
+      internalID: -3766378597274517668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_18
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 696
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48ce20b7d13fe490800000000000000
+      internalID: -7714892834218784691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_19
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 650
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b449eb5d3ca239260800000000000000
+      internalID: 7103068057886430283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_20
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 680
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d6cf805fb8e8c00800000000000000
+      internalID: 904814459682057513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_21
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 652
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fd822ce6c24fce0800000000000000
+      internalID: -1372423132225675447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_22
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 591
+        width: 109
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ed7ba2d0e9bf940800000000000000
+      internalID: 5331028363311570539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_23
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 621
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a20c52e865a71770800000000000000
+      internalID: 8581509484870632099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_24
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 628
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e4ec8bc64de63e0800000000000000
+      internalID: -2058474416239653330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_25
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 638
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69dbecca321cc1af0800000000000000
+      internalID: -424251905912423018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_26
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 645
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d06124d5730e2240800000000000000
+      internalID: 4768752860036948178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_27
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 621
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118106163594ef340800000000000000
+      internalID: 4899434067090479121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_28
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 614
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6717e10cceacea7b0800000000000000
+      internalID: -5211004600636771978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_29
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 592
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77146ea5695f4fae0800000000000000
+      internalID: -1516317148398075529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_30
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 592
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b95b6e50cac734f0800000000000000
+      internalID: -848987077169423950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_31
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 598
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d75a585cf3b11c50800000000000000
+      internalID: 6634281622488897495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_32
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 561
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfcca90e1a6903900800000000000000
+      internalID: 662194767225605371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_33
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 568
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21085fcce9cc00410800000000000000
+      internalID: 1441376863174098962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_34
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 581
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c349974927c7f9a0800000000000000
+      internalID: -6199267381943385151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_35
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 585
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a108dc6e8fb5ab2d0800000000000000
+      internalID: -3262193855494258662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_36
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 508
+        width: 99
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031f3922dacbdf8b0800000000000000
+      internalID: -5116726149827530448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_37
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 550
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63aa9f537e1a34990800000000000000
+      internalID: -7402895348051891658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_38
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 544
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1939ffa36715fe0800000000000000
+      internalID: -1202049629763169818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_39
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 553
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78c71252feee12c0800000000000000
+      internalID: -4458863856523425668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_40
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 473
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba156c18a8b8e8620800000000000000
+      internalID: 2778311447133180331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_41
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 498
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de60c827ae5e2bce0800000000000000
+      internalID: -1390796539797174547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_42
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 506
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9959bdf3e81254e20800000000000000
+      internalID: 3334107993978148249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_43
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 513
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c50d6fa520694e0800000000000000
+      internalID: -1975388796844221331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupcakeReceta_44
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 478
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae380c90d50b40280800000000000000
+      internalID: -9077937035230018582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CupcakeReceta_0: 5400446736285172977
+      CupcakeReceta_1: 7651175354936132623
+      CupcakeReceta_10: -8778516212003359889
+      CupcakeReceta_11: -5887267724192154917
+      CupcakeReceta_12: -7735776405521992874
+      CupcakeReceta_13: -3442688250464122899
+      CupcakeReceta_14: -1034439829027466410
+      CupcakeReceta_15: -4303695358440292124
+      CupcakeReceta_16: 6795797030447784746
+      CupcakeReceta_17: -3766378597274517668
+      CupcakeReceta_18: -7714892834218784691
+      CupcakeReceta_19: 7103068057886430283
+      CupcakeReceta_2: -8540646897504750717
+      CupcakeReceta_20: 904814459682057513
+      CupcakeReceta_21: -1372423132225675447
+      CupcakeReceta_22: 5331028363311570539
+      CupcakeReceta_23: 8581509484870632099
+      CupcakeReceta_24: -2058474416239653330
+      CupcakeReceta_25: -424251905912423018
+      CupcakeReceta_26: 4768752860036948178
+      CupcakeReceta_27: 4899434067090479121
+      CupcakeReceta_28: -5211004600636771978
+      CupcakeReceta_29: -1516317148398075529
+      CupcakeReceta_3: 9176597309800155147
+      CupcakeReceta_30: -848987077169423950
+      CupcakeReceta_31: 6634281622488897495
+      CupcakeReceta_32: 662194767225605371
+      CupcakeReceta_33: 1441376863174098962
+      CupcakeReceta_34: -6199267381943385151
+      CupcakeReceta_35: -3262193855494258662
+      CupcakeReceta_36: -5116726149827530448
+      CupcakeReceta_37: -7402895348051891658
+      CupcakeReceta_38: -1202049629763169818
+      CupcakeReceta_39: -4458863856523425668
+      CupcakeReceta_4: -2361882621972348223
+      CupcakeReceta_40: 2778311447133180331
+      CupcakeReceta_41: -1390796539797174547
+      CupcakeReceta_42: 3334107993978148249
+      CupcakeReceta_43: -1975388796844221331
+      CupcakeReceta_44: -9077937035230018582
+      CupcakeReceta_5: 5042887104301202690
+      CupcakeReceta_6: 8323851263616351876
+      CupcakeReceta_7: -1283659723225445820
+      CupcakeReceta_8: 5960764754489711397
+      CupcakeReceta_9: 5217978897248994628
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

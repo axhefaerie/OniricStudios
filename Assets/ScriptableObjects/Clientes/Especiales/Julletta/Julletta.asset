@@ -18,15 +18,15 @@ MonoBehaviour:
   isSpecial: 1
   spawnPosition: {x: -1, y: -0.3450264, z: 0}
   preferences:
-  - {fileID: 11400000, guid: 228a2d86645509544abe9ab6f1bd6101, type: 2}
+  - {fileID: 11400000, guid: 06f2c7c29f85aed4b8d2f82f1ce61d98, type: 2}
   assignedFlower: {fileID: 11400000, guid: 8d26a136a2bf33e44be754c98469b265, type: 2}
   enterLines:
-  - hoooola
+  - Hoooola
   correctLines:
-  - "\xF1am\xF1am\xF1am eres turbobuiena"
+  - "\xD1am\xF1am\xF1am eres turbobuena!"
   wrongLines:
-  - estoy turboenfadada esto no es lo que he pedido
+  - Estoy turboenfadada, esto no es lo que he pedido.
   timeoutLines:
-  - fuckfuck
+  - Fuckfuck
   wrongDeliveryLines:
-  - "muchos fallos veo yo aqu\xED"
+  - "Muchos fallos veo yo aqu\xED..."

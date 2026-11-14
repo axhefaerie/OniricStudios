@@ -9,9 +9,11 @@ public class RecipeBook : MonoBehaviour
     public Image recipeName; // NOmbre de la receta
     public Image recipeImage; // Imagen receta
     public TMP_Text recipeDescription; // Descripcion receta
+    public Image recipeIngredientsImage;
+
     public GameObject recipeContent;
-    public Transform ingredientsContainer; // Contenedor donde va a mostrarse
-    public GameObject ingredientPrefab; // Prefab del nombre y el sprite de cada ingrediente
+    //public Transform ingredientsContainer; // Contenedor donde va a mostrarse
+    //public GameObject ingredientPrefab; // Prefab del nombre y el sprite de cada ingrediente
     public Animator bookAnimator; // Animator del libro
 
     private int currentPage = 0;
@@ -76,15 +78,19 @@ public class RecipeBook : MonoBehaviour
         recipeContent.SetActive(false);
 
         // Borrar los ingredientes de la última receta
+        /*
         foreach (Transform child in ingredientsContainer)
         {
             Destroy(child.gameObject);
         }
+        */
 
         // Borrar el texto y la imagen anteriores
         recipeName.sprite = null;
         recipeImage.sprite = null;
         recipeDescription.text = "";
+
+        recipeIngredientsImage.sprite = null;
 
         // Reiniciar completamente la animación
         bookAnimator.Rebind();
@@ -105,6 +111,10 @@ public class RecipeBook : MonoBehaviour
         recipeImage.sprite = recipe.bookSprite;
         recipeDescription.text = recipe.recipeCharacteristics;
 
+        recipeIngredientsImage.sprite = recipe.ingredientsSprite;
+        recipeIngredientsImage.preserveAspect = true;
+
+        /*
         foreach (Transform child in ingredientsContainer)
         {
             Destroy(child.gameObject);
@@ -121,10 +131,11 @@ public class RecipeBook : MonoBehaviour
         {
             AddIngredient(ingredient);
         }
-
+        */
         //AddIngredient(recipe.flowerIngredient);
     }
 
+    /*
     void AddIngredient(IngredientComponent ingredient)
     {
         if (ingredient == null) return;
@@ -137,4 +148,5 @@ public class RecipeBook : MonoBehaviour
         newIngredient.GetComponent<IngredientEntry>()
             .SetIngredient(ingredient);
     }
+    */
 }

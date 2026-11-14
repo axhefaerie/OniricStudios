@@ -17,6 +17,7 @@ MonoBehaviour:
   recipeName: {fileID: 21300000, guid: 42432baef390d8441820bfd88f29ffd8, type: 3}
   bookSprite: {fileID: 0}
   recipeCharacteristics: ...
+  ingredientsSprite: {fileID: 21300000, guid: a93cdc33488f5184cbc7137ea694d890, type: 3}
   baseIngredient: {fileID: 11400000, guid: d41876e64a749ca41b5e0736a70fae0c, type: 2}
   sauceIngredients:
   - {fileID: 11400000, guid: af92022e87c5d6b49be78b50aa35c974, type: 2}

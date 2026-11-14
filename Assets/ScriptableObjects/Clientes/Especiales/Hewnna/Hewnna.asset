@@ -18,7 +18,7 @@ MonoBehaviour:
   isSpecial: 1
   spawnPosition: {x: -1, y: -0.3450264, z: 0}
   preferences:
-  - {fileID: 11400000, guid: 228a2d86645509544abe9ab6f1bd6101, type: 2}
+  - {fileID: 11400000, guid: 10669712279180c4d863938a97490c25, type: 2}
   assignedFlower: {fileID: 11400000, guid: 159d743d2a361cb419256297df369ac6, type: 2}
   enterLines:
   - 'Hola... '
@@ -27,6 +27,6 @@ MonoBehaviour:
   wrongLines:
   - "No es lo que hab\xEDa pedido... waaawaaa"
   timeoutLines:
-  - "Lo siento.. tengo prisa, ya otro d\xEDa me paso"
+  - "Lo siento.. tengo prisa, ya otro d\xEDa me paso..."
   wrongDeliveryLines:
   - "Perd\xF3n, me voy, has fallado mucho.."

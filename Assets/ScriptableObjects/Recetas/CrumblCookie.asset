@@ -17,6 +17,7 @@ MonoBehaviour:
   recipeName: {fileID: 21300000, guid: 5d85e59840ee73949a015d5c6009bd16, type: 3}
   bookSprite: {fileID: 21300000, guid: 458b1c75b6bb2a844a06138c96123027, type: 3}
   recipeCharacteristics: Una galleta muy dulce, no se aconseja repartirla en halloween.
+  ingredientsSprite: {fileID: 21300000, guid: d860cd3923b27714299f54b1e38db619, type: 3}
   baseIngredient: {fileID: 11400000, guid: b26c6699952953247b554fc72110de89, type: 2}
   sauceIngredients:
   - {fileID: 11400000, guid: 48bbe54a0c6b89846a7d95bad72cf3cf, type: 2}

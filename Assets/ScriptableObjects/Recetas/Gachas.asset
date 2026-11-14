@@ -17,6 +17,7 @@ MonoBehaviour:
   recipeName: {fileID: 21300000, guid: 50de652433093c74e9e77d8ade0bdfab, type: 3}
   bookSprite: {fileID: 0}
   recipeCharacteristics: Que es eso que revolotea?
+  ingredientsSprite: {fileID: 21300000, guid: 9e5d529eaca2dad41a4e1b497fa01a90, type: 3}
   baseIngredient: {fileID: 11400000, guid: fbdfed240e3fe084d92b19ab77cd2803, type: 2}
   sauceIngredients: []
   toppingIngredients:

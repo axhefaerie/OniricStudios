@@ -18,15 +18,15 @@ MonoBehaviour:
   isSpecial: 1
   spawnPosition: {x: -1, y: -1.4, z: 0}
   preferences:
-  - {fileID: 11400000, guid: 228a2d86645509544abe9ab6f1bd6101, type: 2}
+  - {fileID: 11400000, guid: b644d4db0b7d4f2408ea1d84ecc25a96, type: 2}
   assignedFlower: {fileID: 11400000, guid: 8d26a136a2bf33e44be754c98469b265, type: 2}
   enterLines:
-  - por las precarias
+  - Por las precarias!
   correctLines:
-  - te doy 1 pabo por esto
+  - Te doy 1 pabo por esto
   wrongLines:
-  - no es lo que he pedido, pues te robo
+  - No es lo que he pedido, pues te robo.
   timeoutLines:
-  - por tardar me llevo tu dinero
+  - Por tardar me llevo tu dinero...
   wrongDeliveryLines:
-  - pff que pesado, a ver si aprendes
+  - Pff que pesado, a ver si aprendes...

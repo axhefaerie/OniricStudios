@@ -1,0 +1,1599 @@
+fileFormatVersion: 2
+guid: 5c6859daea78be54982b10d3a0ffb8db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8372758191859034613
+    second: CocidoReceta_0
+  - first:
+      213: 8734261359003977169
+    second: CocidoReceta_1
+  - first:
+      213: 4079935751951187057
+    second: CocidoReceta_2
+  - first:
+      213: -2253177940281071963
+    second: CocidoReceta_3
+  - first:
+      213: -4604770683580852743
+    second: CocidoReceta_4
+  - first:
+      213: 3707683269654212385
+    second: CocidoReceta_5
+  - first:
+      213: -9160469095242792377
+    second: CocidoReceta_6
+  - first:
+      213: -4303931913645094448
+    second: CocidoReceta_7
+  - first:
+      213: -5404699724117949117
+    second: CocidoReceta_8
+  - first:
+      213: 5543545916883357481
+    second: CocidoReceta_9
+  - first:
+      213: -5049339453342083392
+    second: CocidoReceta_10
+  - first:
+      213: -1580160764180580956
+    second: CocidoReceta_11
+  - first:
+      213: -292372447542023436
+    second: CocidoReceta_12
+  - first:
+      213: 3790864389635448674
+    second: CocidoReceta_13
+  - first:
+      213: -1387699154739933607
+    second: CocidoReceta_14
+  - first:
+      213: -1171101122625192375
+    second: CocidoReceta_15
+  - first:
+      213: 7139207521704278014
+    second: CocidoReceta_16
+  - first:
+      213: 7678674652647377842
+    second: CocidoReceta_17
+  - first:
+      213: -447439871802206036
+    second: CocidoReceta_18
+  - first:
+      213: -6149977257658063069
+    second: CocidoReceta_19
+  - first:
+      213: 3890086277111905567
+    second: CocidoReceta_20
+  - first:
+      213: 5399216112836199919
+    second: CocidoReceta_21
+  - first:
+      213: -6230372510638022385
+    second: CocidoReceta_22
+  - first:
+      213: -4649625411833763238
+    second: CocidoReceta_23
+  - first:
+      213: -7886008891068327228
+    second: CocidoReceta_24
+  - first:
+      213: -1220669021306078922
+    second: CocidoReceta_25
+  - first:
+      213: 8571750354128983621
+    second: CocidoReceta_26
+  - first:
+      213: 9069527626972497236
+    second: CocidoReceta_27
+  - first:
+      213: -2205790180701853620
+    second: CocidoReceta_28
+  - first:
+      213: 418433654781913069
+    second: CocidoReceta_29
+  - first:
+      213: 7206236401630030925
+    second: CocidoReceta_30
+  - first:
+      213: 6448650507074302057
+    second: CocidoReceta_31
+  - first:
+      213: -2676092913933379113
+    second: CocidoReceta_32
+  - first:
+      213: -1386233823962842699
+    second: CocidoReceta_33
+  - first:
+      213: 4850639326180909767
+    second: CocidoReceta_34
+  - first:
+      213: -1095450140040695330
+    second: CocidoReceta_35
+  - first:
+      213: 62325747317007879
+    second: CocidoReceta_36
+  - first:
+      213: -7682653723145798514
+    second: CocidoReceta_37
+  - first:
+      213: -5222239794582805483
+    second: CocidoReceta_38
+  - first:
+      213: 3274494453802190734
+    second: CocidoReceta_39
+  - first:
+      213: 6048342585399283223
+    second: CocidoReceta_40
+  - first:
+      213: -4749540160753075167
+    second: CocidoReceta_41
+  - first:
+      213: -3357015354296110925
+    second: CocidoReceta_42
+  - first:
+      213: -4605174028738942880
+    second: CocidoReceta_43
+  - first:
+      213: -2794377913424574653
+    second: CocidoReceta_44
+  - first:
+      213: 6348646718783078668
+    second: CocidoReceta_45
+  - first:
+      213: 3274110886306219425
+    second: CocidoReceta_46
+  - first:
+      213: 7962588029066152849
+    second: CocidoReceta_47
+  - first:
+      213: -9147792973596667669
+    second: CocidoReceta_48
+  - first:
+      213: 4705239263859840714
+    second: CocidoReceta_49
+  - first:
+      213: 7287538102242091149
+    second: CocidoReceta_50
+  - first:
+      213: 6925978212643217846
+    second: CocidoReceta_51
+  - first:
+      213: -2570619049676667728
+    second: CocidoReceta_52
+  - first:
+      213: -4994528738951416629
+    second: CocidoReceta_53
+  - first:
+      213: -4482766236877179748
+    second: CocidoReceta_54
+  - first:
+      213: 4272793330853701162
+    second: CocidoReceta_55
+  - first:
+      213: 10917097746886236
+    second: CocidoReceta_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CocidoReceta_0
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 762
+        width: 88
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06100809ccfdcb80800000000000000
+      internalID: -8372758191859034613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_1
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 788
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d54ade0e64563970800000000000000
+      internalID: 8734261359003977169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_2
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 768
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c777133f7de9830800000000000000
+      internalID: 4079935751951187057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_3
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 775
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6ecc5e99a1bb0e0800000000000000
+      internalID: -2253177940281071963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_4
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 780
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5d70dd5719810c0800000000000000
+      internalID: -4604770683580852743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_5
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 764
+        width: 72
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12fe5632a46547330800000000000000
+      internalID: 3707683269654212385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_6
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 747
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7420c1264e97fd080800000000000000
+      internalID: -9160469095242792377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_7
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 777
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d987bd4abc5544c0800000000000000
+      internalID: -4303931913645094448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_8
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 759
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3454c4a7c36aef4b0800000000000000
+      internalID: -5404699724117949117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_9
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 768
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f46e3f3a1aeec40800000000000000
+      internalID: 5543545916883357481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_10
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 723
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c61e2d05842de9b0800000000000000
+      internalID: -5049339453342083392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_11
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 725
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5b1033824221ae0800000000000000
+      internalID: -1580160764180580956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_12
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 730
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa652adec841fbf0800000000000000
+      internalID: -292372447542023436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_13
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 695
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f16e7d31bdb9430800000000000000
+      internalID: 3790864389635448674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_14
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 704
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ecd9a98f6edbce0800000000000000
+      internalID: -1387699154739933607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_15
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 719
+        width: 92
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e3dd5dbb96fbfe0800000000000000
+      internalID: -1171101122625192375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_16
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 668
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7faf47a6f831360800000000000000
+      internalID: 7139207521704278014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_17
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 664
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbc7d8c9e1209a60800000000000000
+      internalID: 7678674652647377842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_18
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 677
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca812e6aecf5ac9f0800000000000000
+      internalID: -447439871802206036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_19
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 699
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3276f84a444e6aaa0800000000000000
+      internalID: -6149977257658063069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_20
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 672
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d70e4cbdc5cf530800000000000000
+      internalID: 3890086277111905567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_21
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 674
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5ca27c27eddea40800000000000000
+      internalID: 5399216112836199919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_22
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 680
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01ef0526354989a0800000000000000
+      internalID: -6230372510638022385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_23
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 657
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ae40d9256397fb0800000000000000
+      internalID: -4649625411833763238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_24
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 666
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cadc4802b44f8290800000000000000
+      internalID: -7886008891068327228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_25
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 652
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6393ab41eff4f0fe0800000000000000
+      internalID: -1220669021306078922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_26
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 646
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546df213889f4f670800000000000000
+      internalID: 8571750354128983621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_27
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 624
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4558946035f6ddd70800000000000000
+      internalID: 9069527626972497236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_28
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 634
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48a83674857361e0800000000000000
+      internalID: -2205790180701853620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_29
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 641
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7285b21339ec500800000000000000
+      internalID: 418433654781913069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_30
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 647
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ca5a6b3d1b10460800000000000000
+      internalID: 7206236401630030925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_31
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 612
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9607ec248753e7950800000000000000
+      internalID: 6448650507074302057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_32
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 623
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d99f0f5cab9cdad0800000000000000
+      internalID: -2676092913933379113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_33
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 639
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b930138eab13cce0800000000000000
+      internalID: -1386233823962842699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_34
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 624
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2ad8274cee05340800000000000000
+      internalID: 4850639326180909767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_35
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 625
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1f8bdc6ed2cc0f0800000000000000
+      internalID: -1095450140040695330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_36
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 606
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706e03ddfec6dd000800000000000000
+      internalID: 62325747317007879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_37
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 602
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cff8ba42bb16590800000000000000
+      internalID: -7682653723145798514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_38
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 614
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514abff4390e687b0800000000000000
+      internalID: -5222239794582805483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_39
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 572
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87cdd15b57517d20800000000000000
+      internalID: 3274494453802190734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_40
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 582
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e8792398700f350800000000000000
+      internalID: 6048342585399283223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_41
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 591
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c7cdf436e361eb0800000000000000
+      internalID: -4749540160753075167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_42
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 597
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0f5ad425c7961d0800000000000000
+      internalID: -3357015354296110925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_43
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 550
+        width: 92
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0682920ce922710c0800000000000000
+      internalID: -4605174028738942880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_44
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 571
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347812ec7106839d0800000000000000
+      internalID: -2794377913424574653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_45
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 536
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01c38ddd8cea1850800000000000000
+      internalID: 6348646718783078668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_46
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 548
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5858d018aff6d20800000000000000
+      internalID: 3274110886306219425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_47
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 517
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b0445ff9bc08e60800000000000000
+      internalID: 7962588029066152849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_48
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 512
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0d4f1f1c28c0180800000000000000
+      internalID: -9147792973596667669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_49
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 524
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac616995e2e5c4140800000000000000
+      internalID: 4705239263859840714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_50
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 480
+        width: 84
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80a34ffa49822560800000000000000
+      internalID: 7287538102242091149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_51
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 461
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1a1be2d740e1060800000000000000
+      internalID: 6925978212643217846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_52
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 495
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b48b231893535cd0800000000000000
+      internalID: -2570619049676667728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_53
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 476
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc43256f29edfaab0800000000000000
+      internalID: -4994528738951416629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_54
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 482
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9432d7bbd30ac1c0800000000000000
+      internalID: -4482766236877179748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_55
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 460
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26613c65e20c4b30800000000000000
+      internalID: 4272793330853701162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocidoReceta_56
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 453
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e6e25ea09c62000800000000000000
+      internalID: 10917097746886236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CocidoReceta_0: -8372758191859034613
+      CocidoReceta_1: 8734261359003977169
+      CocidoReceta_10: -5049339453342083392
+      CocidoReceta_11: -1580160764180580956
+      CocidoReceta_12: -292372447542023436
+      CocidoReceta_13: 3790864389635448674
+      CocidoReceta_14: -1387699154739933607
+      CocidoReceta_15: -1171101122625192375
+      CocidoReceta_16: 7139207521704278014
+      CocidoReceta_17: 7678674652647377842
+      CocidoReceta_18: -447439871802206036
+      CocidoReceta_19: -6149977257658063069
+      CocidoReceta_2: 4079935751951187057
+      CocidoReceta_20: 3890086277111905567
+      CocidoReceta_21: 5399216112836199919
+      CocidoReceta_22: -6230372510638022385
+      CocidoReceta_23: -4649625411833763238
+      CocidoReceta_24: -7886008891068327228
+      CocidoReceta_25: -1220669021306078922
+      CocidoReceta_26: 8571750354128983621
+      CocidoReceta_27: 9069527626972497236
+      CocidoReceta_28: -2205790180701853620
+      CocidoReceta_29: 418433654781913069
+      CocidoReceta_3: -2253177940281071963
+      CocidoReceta_30: 7206236401630030925
+      CocidoReceta_31: 6448650507074302057
+      CocidoReceta_32: -2676092913933379113
+      CocidoReceta_33: -1386233823962842699
+      CocidoReceta_34: 4850639326180909767
+      CocidoReceta_35: -1095450140040695330
+      CocidoReceta_36: 62325747317007879
+      CocidoReceta_37: -7682653723145798514
+      CocidoReceta_38: -5222239794582805483
+      CocidoReceta_39: 3274494453802190734
+      CocidoReceta_4: -4604770683580852743
+      CocidoReceta_40: 6048342585399283223
+      CocidoReceta_41: -4749540160753075167
+      CocidoReceta_42: -3357015354296110925
+      CocidoReceta_43: -4605174028738942880
+      CocidoReceta_44: -2794377913424574653
+      CocidoReceta_45: 6348646718783078668
+      CocidoReceta_46: 3274110886306219425
+      CocidoReceta_47: 7962588029066152849
+      CocidoReceta_48: -9147792973596667669
+      CocidoReceta_49: 4705239263859840714
+      CocidoReceta_5: 3707683269654212385
+      CocidoReceta_50: 7287538102242091149
+      CocidoReceta_51: 6925978212643217846
+      CocidoReceta_52: -2570619049676667728
+      CocidoReceta_53: -4994528738951416629
+      CocidoReceta_54: -4482766236877179748
+      CocidoReceta_55: 4272793330853701162
+      CocidoReceta_56: 10917097746886236
+      CocidoReceta_6: -9160469095242792377
+      CocidoReceta_7: -4303931913645094448
+      CocidoReceta_8: -5404699724117949117
+      CocidoReceta_9: 5543545916883357481
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

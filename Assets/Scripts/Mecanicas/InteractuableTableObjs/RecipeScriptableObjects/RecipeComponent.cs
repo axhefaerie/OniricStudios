@@ -13,6 +13,7 @@ public class RecipeComponent : ScriptableObject
     public Sprite recipeName;       // Sprite del nombre de la receta
     public Sprite bookSprite;      // Sprite de la receta final deformado para el libro
     public string recipeCharacteristics; // Caracteristicas de la receta
+    public Sprite ingredientsSprite; // Imagen con la lista de ingredientes
 
     // Ingredientes que forman una receta
     // Una receta está compuesta por: 1 base, X salsas, X toppings

@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: ac1d3eaa14bce2341b8a4dcc23b1b9cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7171396140949099728
+    second: TartaReceta_0
+  - first:
+      213: 3953538669734481918
+    second: TartaReceta_1
+  - first:
+      213: 474482966844875736
+    second: TartaReceta_2
+  - first:
+      213: 2928331943139305668
+    second: TartaReceta_3
+  - first:
+      213: 2271193098759515741
+    second: TartaReceta_4
+  - first:
+      213: -969223192259602485
+    second: TartaReceta_5
+  - first:
+      213: 273409107909799157
+    second: TartaReceta_6
+  - first:
+      213: 4108502859658422255
+    second: TartaReceta_7
+  - first:
+      213: -8447463846522323571
+    second: TartaReceta_8
+  - first:
+      213: -4033625774332469485
+    second: TartaReceta_9
+  - first:
+      213: -3990213037057685053
+    second: TartaReceta_10
+  - first:
+      213: -3258170675537257477
+    second: TartaReceta_11
+  - first:
+      213: -8812878515912681169
+    second: TartaReceta_12
+  - first:
+      213: 7814373259404714670
+    second: TartaReceta_13
+  - first:
+      213: 8910531725498469207
+    second: TartaReceta_14
+  - first:
+      213: -1662110853276881096
+    second: TartaReceta_15
+  - first:
+      213: -8127438483595155311
+    second: TartaReceta_16
+  - first:
+      213: 8476823243080807495
+    second: TartaReceta_17
+  - first:
+      213: -249057237234772960
+    second: TartaReceta_18
+  - first:
+      213: -3849265868241114283
+    second: TartaReceta_19
+  - first:
+      213: 458947727676521363
+    second: TartaReceta_20
+  - first:
+      213: -6343366135030278199
+    second: TartaReceta_21
+  - first:
+      213: -8052188737885722398
+    second: TartaReceta_22
+  - first:
+      213: -3788062047611782198
+    second: TartaReceta_23
+  - first:
+      213: 549076053465496029
+    second: TartaReceta_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TartaReceta_0
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 782
+        width: 65
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b2f1b94351a7c90800000000000000
+      internalID: -7171396140949099728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TartaReceta_1
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 802
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff4b4f297acdd630800000000000000
+      internalID: 3953538669734481918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TartaReceta_2
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 814
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d323c29eb3b59600800000000000000
+      internalID: 474482966844875736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TartaReceta_3
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 746
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c86f37236683a820800000000000000
+      internalID: 2928331943139305668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TartaReceta_4
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 745
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e21eb0716e48f10800000000000000
+      internalID: 2271193098759515741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TartaReceta_5
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 756
+        width: 68
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7db4d44a0ac82f0800000000000000
+      internalID: -969223192259602485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TartaReceta_6
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 730
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fce15392285bc300800000000000000
+      internalID: 273409107909799157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TartaReceta_7
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 727
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7ed944595540930800000000000000
+      internalID: 4108502859658422255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TartaReceta_8
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 696
+        width: 58
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8df41f536494ca80800000000000000
+      internalID: -8447463846522323571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TartaReceta_9
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 720
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f9d04babea508c0800000000000000
+      internalID: -4033625774332469485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TartaReceta_10
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 704
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c94b04426aef98c0800000000000000
+      internalID: -3990213037057685053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TartaReceta_11
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 703
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbd10b7807a8c2d0800000000000000
+      internalID: -3258170675537257477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TartaReceta_12
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 659
+        width: 79
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f295a52bead52b580800000000000000
+      internalID: -8812878515912681169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TartaReceta_13
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 644
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2212db31b327c60800000000000000
+      internalID: 7814373259404714670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TartaReceta_14
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 674
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b4f22f46198ab70800000000000000
+      internalID: 8910531725498469207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TartaReceta_15
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 656
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f2c153cfefee8e0800000000000000
+      internalID: -1662110853276881096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TartaReceta_16
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 659
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198a87b92c9853f80800000000000000
+      internalID: -8127438483595155311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TartaReceta_17
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 646
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7443b93d3d9b3a570800000000000000
+      internalID: 8476823243080807495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TartaReceta_18
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 633
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02491e523cb2b8cf0800000000000000
+      internalID: -249057237234772960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TartaReceta_19
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 609
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55be37d4619a49ac0800000000000000
+      internalID: -3849265868241114283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TartaReceta_20
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 603
+        width: 78
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bb1a6d6828e5600800000000000000
+      internalID: 458947727676521363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TartaReceta_21
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 593
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c71749db16d7f7a0800000000000000
+      internalID: -6343366135030278199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TartaReceta_22
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 588
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8abe55101e04090800000000000000
+      internalID: -8052188737885722398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TartaReceta_23
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 593
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbf5f043a91e6bc0800000000000000
+      internalID: -3788062047611782198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TartaReceta_24
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 603
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9fb71f2c5be9700800000000000000
+      internalID: 549076053465496029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TartaReceta_0: -7171396140949099728
+      TartaReceta_1: 3953538669734481918
+      TartaReceta_10: -3990213037057685053
+      TartaReceta_11: -3258170675537257477
+      TartaReceta_12: -8812878515912681169
+      TartaReceta_13: 7814373259404714670
+      TartaReceta_14: 8910531725498469207
+      TartaReceta_15: -1662110853276881096
+      TartaReceta_16: -8127438483595155311
+      TartaReceta_17: 8476823243080807495
+      TartaReceta_18: -249057237234772960
+      TartaReceta_19: -3849265868241114283
+      TartaReceta_2: 474482966844875736
+      TartaReceta_20: 458947727676521363
+      TartaReceta_21: -6343366135030278199
+      TartaReceta_22: -8052188737885722398
+      TartaReceta_23: -3788062047611782198
+      TartaReceta_24: 549076053465496029
+      TartaReceta_3: 2928331943139305668
+      TartaReceta_4: 2271193098759515741
+      TartaReceta_5: -969223192259602485
+      TartaReceta_6: 273409107909799157
+      TartaReceta_7: 4108502859658422255
+      TartaReceta_8: -8447463846522323571
+      TartaReceta_9: -4033625774332469485
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

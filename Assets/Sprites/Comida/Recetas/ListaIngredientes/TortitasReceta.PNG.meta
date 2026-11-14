@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 5f33b8fbbdf77c04f909f5eedaf9daf4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8169824568383581615
+    second: TortitasReceta_0
+  - first:
+      213: 6909531443208262094
+    second: TortitasReceta_1
+  - first:
+      213: -5534528670202641384
+    second: TortitasReceta_2
+  - first:
+      213: 7812165562566260206
+    second: TortitasReceta_3
+  - first:
+      213: -7185319959954694805
+    second: TortitasReceta_4
+  - first:
+      213: 8605309834530564804
+    second: TortitasReceta_5
+  - first:
+      213: 6220715091228468866
+    second: TortitasReceta_6
+  - first:
+      213: 5438159901850717116
+    second: TortitasReceta_7
+  - first:
+      213: -971427085135623502
+    second: TortitasReceta_8
+  - first:
+      213: -6287166105027649786
+    second: TortitasReceta_9
+  - first:
+      213: -5702067336699121532
+    second: TortitasReceta_10
+  - first:
+      213: 7629631243795544552
+    second: TortitasReceta_11
+  - first:
+      213: 2227762269580038254
+    second: TortitasReceta_12
+  - first:
+      213: 7299723098810475868
+    second: TortitasReceta_13
+  - first:
+      213: -7537150310762478986
+    second: TortitasReceta_14
+  - first:
+      213: 2195068298690935857
+    second: TortitasReceta_15
+  - first:
+      213: 5401428268097482634
+    second: TortitasReceta_16
+  - first:
+      213: 1657544208173394778
+    second: TortitasReceta_17
+  - first:
+      213: -4191794479615556721
+    second: TortitasReceta_18
+  - first:
+      213: -5714571496509445186
+    second: TortitasReceta_19
+  - first:
+      213: 8728478377271541457
+    second: TortitasReceta_20
+  - first:
+      213: 6626105337585686676
+    second: TortitasReceta_21
+  - first:
+      213: -1930326680413230096
+    second: TortitasReceta_22
+  - first:
+      213: -6974427696009915669
+    second: TortitasReceta_23
+  - first:
+      213: -2794980594806317321
+    second: TortitasReceta_24
+  - first:
+      213: -4788637087810051823
+    second: TortitasReceta_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TortitasReceta_0
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 773
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152dc3437d3fe9e80800000000000000
+      internalID: -8169824568383581615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TortitasReceta_1
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 792
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec112d44d3693ef50800000000000000
+      internalID: 6909531443208262094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TortitasReceta_2
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 803
+        width: 84
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8144b556f776133b0800000000000000
+      internalID: -5534528670202641384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TortitasReceta_3
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 716
+        width: 97
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee53d4340336a6c60800000000000000
+      internalID: 7812165562566260206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TortitasReceta_4
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 755
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d506dd09d984c90800000000000000
+      internalID: -7185319959954694805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TortitasReceta_5
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 715
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4caae5d93b33c6770800000000000000
+      internalID: 8605309834530564804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TortitasReceta_6
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 679
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286a59daa6b645650800000000000000
+      internalID: 6220715091228468866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TortitasReceta_7
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 541
+        width: 110
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbc59d3e99387b40800000000000000
+      internalID: 5438159901850717116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TortitasReceta_8
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 652
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba4c41863cc482f0800000000000000
+      internalID: -971427085135623502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TortitasReceta_9
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 696
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f53f10dbf7fb8a0800000000000000
+      internalID: -6287166105027649786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TortitasReceta_10
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 666
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480f0b6d7ff2ed0b0800000000000000
+      internalID: -5702067336699121532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TortitasReceta_11
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 656
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9b7a55135e1e960800000000000000
+      internalID: 7629631243795544552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TortitasReceta_12
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 664
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6016522bf99aee10800000000000000
+      internalID: 2227762269580038254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TortitasReceta_13
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 574
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55ef479b73dd4560800000000000000
+      internalID: 7299723098810475868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TortitasReceta_14
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 567
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6720744d9b9a66790800000000000000
+      internalID: -7537150310762478986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TortitasReceta_15
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 580
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13cb139dcf2767e10800000000000000
+      internalID: 2195068298690935857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TortitasReceta_16
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 538
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f24bf446ab5fa40800000000000000
+      internalID: 5401428268097482634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TortitasReceta_17
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 546
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b6eafdca7c00710800000000000000
+      internalID: 1657544208173394778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TortitasReceta_18
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 553
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83421f3121c3d5c0800000000000000
+      internalID: -4191794479615556721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TortitasReceta_19
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 559
+        width: 94
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb6bf24083c1b0b0800000000000000
+      internalID: -5714571496509445186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TortitasReceta_20
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 486
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1deb2f2b6d8c12970800000000000000
+      internalID: 8728478377271541457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TortitasReceta_21
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 521
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4985d1ba2b7a4fb50800000000000000
+      internalID: 6626105337585686676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TortitasReceta_22
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 523
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fba2898c1a1635e0800000000000000
+      internalID: -1930326680413230096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TortitasReceta_23
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 532
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2deab66fad53f90800000000000000
+      internalID: -6974427696009915669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TortitasReceta_24
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 488
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe957c15fb3639d0800000000000000
+      internalID: -2794980594806317321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TortitasReceta_25
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 491
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11122de90f75b8db0800000000000000
+      internalID: -4788637087810051823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TortitasReceta_0: -8169824568383581615
+      TortitasReceta_1: 6909531443208262094
+      TortitasReceta_10: -5702067336699121532
+      TortitasReceta_11: 7629631243795544552
+      TortitasReceta_12: 2227762269580038254
+      TortitasReceta_13: 7299723098810475868
+      TortitasReceta_14: -7537150310762478986
+      TortitasReceta_15: 2195068298690935857
+      TortitasReceta_16: 5401428268097482634
+      TortitasReceta_17: 1657544208173394778
+      TortitasReceta_18: -4191794479615556721
+      TortitasReceta_19: -5714571496509445186
+      TortitasReceta_2: -5534528670202641384
+      TortitasReceta_20: 8728478377271541457
+      TortitasReceta_21: 6626105337585686676
+      TortitasReceta_22: -1930326680413230096
+      TortitasReceta_23: -6974427696009915669
+      TortitasReceta_24: -2794980594806317321
+      TortitasReceta_25: -4788637087810051823
+      TortitasReceta_3: 7812165562566260206
+      TortitasReceta_4: -7185319959954694805
+      TortitasReceta_5: 8605309834530564804
+      TortitasReceta_6: 6220715091228468866
+      TortitasReceta_7: 5438159901850717116
+      TortitasReceta_8: -971427085135623502
+      TortitasReceta_9: -6287166105027649786
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

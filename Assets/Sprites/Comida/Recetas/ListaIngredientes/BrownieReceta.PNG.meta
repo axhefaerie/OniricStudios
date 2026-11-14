@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: a4360e57267e737498448c6b25e91870
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8331489810492716452
+    second: BrownieReceta_0
+  - first:
+      213: 4042576344828149049
+    second: BrownieReceta_1
+  - first:
+      213: -6991807399435539991
+    second: BrownieReceta_2
+  - first:
+      213: 4413006862698351438
+    second: BrownieReceta_3
+  - first:
+      213: 748425068380337894
+    second: BrownieReceta_4
+  - first:
+      213: -5136576011312729577
+    second: BrownieReceta_5
+  - first:
+      213: 8352810990820297900
+    second: BrownieReceta_6
+  - first:
+      213: 2593984439275141086
+    second: BrownieReceta_7
+  - first:
+      213: -6778544283977554332
+    second: BrownieReceta_8
+  - first:
+      213: 3737690853861014762
+    second: BrownieReceta_9
+  - first:
+      213: 320812775877003196
+    second: BrownieReceta_10
+  - first:
+      213: -4856746600514728137
+    second: BrownieReceta_11
+  - first:
+      213: -8394790045505073431
+    second: BrownieReceta_12
+  - first:
+      213: 4414977521735234711
+    second: BrownieReceta_13
+  - first:
+      213: 5523597921565973685
+    second: BrownieReceta_14
+  - first:
+      213: 7666068954685086280
+    second: BrownieReceta_15
+  - first:
+      213: -5817118654758649259
+    second: BrownieReceta_16
+  - first:
+      213: 3248760976051379022
+    second: BrownieReceta_17
+  - first:
+      213: 7892395577492544369
+    second: BrownieReceta_18
+  - first:
+      213: -5609911184879539378
+    second: BrownieReceta_19
+  - first:
+      213: -7601174443652979307
+    second: BrownieReceta_20
+  - first:
+      213: 734671081745149873
+    second: BrownieReceta_21
+  - first:
+      213: 6213333433219286735
+    second: BrownieReceta_22
+  - first:
+      213: -8335268761503894925
+    second: BrownieReceta_23
+  - first:
+      213: -5424436014631580540
+    second: BrownieReceta_24
+  - first:
+      213: 6589767739915077180
+    second: BrownieReceta_25
+  - first:
+      213: 3704426380731389006
+    second: BrownieReceta_26
+  - first:
+      213: -4119331815039037248
+    second: BrownieReceta_27
+  - first:
+      213: 6158025517734122003
+    second: BrownieReceta_28
+  - first:
+      213: 2688905675167430861
+    second: BrownieReceta_29
+  - first:
+      213: -7574090099171956346
+    second: BrownieReceta_30
+  - first:
+      213: -5153592726359830256
+    second: BrownieReceta_31
+  - first:
+      213: 3850149451236783190
+    second: BrownieReceta_32
+  - first:
+      213: -288187019529668523
+    second: BrownieReceta_33
+  - first:
+      213: 1830090705930007769
+    second: BrownieReceta_34
+  - first:
+      213: 5598621676764894915
+    second: BrownieReceta_35
+  - first:
+      213: 1967028982695567255
+    second: BrownieReceta_36
+  - first:
+      213: -4270676355006200381
+    second: BrownieReceta_37
+  - first:
+      213: -3418960223356846548
+    second: BrownieReceta_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BrownieReceta_0
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 795
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a8bc3d82a906c80800000000000000
+      internalID: -8331489810492716452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownieReceta_1
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 866
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93df0e264cd1a1830800000000000000
+      internalID: 4042576344828149049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownieReceta_2
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 730
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e962b2e63c18fe90800000000000000
+      internalID: -6991807399435539991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownieReceta_3
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 752
+        width: 126
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b0f7a4c562e3d30800000000000000
+      internalID: 4413006862698351438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownieReceta_4
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 739
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6bec562a0f26a00800000000000000
+      internalID: 748425068380337894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownieReceta_5
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 749
+        width: 65
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71279eb155737b8b0800000000000000
+      internalID: -5136576011312729577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownieReceta_6
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 759
+        width: 59
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac82df47552be370800000000000000
+      internalID: 8352810990820297900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownieReceta_7
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 713
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7b2ef9a1faff320800000000000000
+      internalID: 2593984439275141086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownieReceta_8
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 714
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466634353e5cde1a0800000000000000
+      internalID: -6778544283977554332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownieReceta_9
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 700
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecbc984702fed330800000000000000
+      internalID: 3737690853861014762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownieReceta_10
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 716
+        width: 61
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb74e891581c37400800000000000000
+      internalID: 320812775877003196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownieReceta_11
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 626
+        width: 108
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73fcb30f2be599cb0800000000000000
+      internalID: -4856746600514728137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownieReceta_12
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 663
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee4fad5ee6bf7b80800000000000000
+      internalID: -8394790045505073431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownieReceta_13
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 690
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794fc5a1aa6254d30800000000000000
+      internalID: 4414977521735234711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownieReceta_14
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 666
+        width: 79
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc960d5b03c7ac40800000000000000
+      internalID: 5523597921565973685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownieReceta_15
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 639
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a97a30919536a60800000000000000
+      internalID: 7666068954685086280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownieReceta_16
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 662
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55200d66761754fa0800000000000000
+      internalID: -5817118654758649259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownieReceta_17
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 635
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b91b125eae51d20800000000000000
+      internalID: 3248760976051379022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownieReceta_18
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 601
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b9e4746fb678d60800000000000000
+      internalID: 7892395577492544369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownieReceta_19
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 606
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ba3cbff779522b0800000000000000
+      internalID: -5609911184879539378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownieReceta_20
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 609
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5956942cd14338690800000000000000
+      internalID: -7601174443652979307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownieReceta_21
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 625
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfeb26d473123a00800000000000000
+      internalID: 734671081745149873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownieReceta_22
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 495
+        width: 165
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6081e76d13a3650800000000000000
+      internalID: 6213333433219286735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownieReceta_23
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 599
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372762b393d235c80800000000000000
+      internalID: -8335268761503894925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownieReceta_24
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 572
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c8c014f2888b4b0800000000000000
+      internalID: -5424436014631580540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownieReceta_25
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 545
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3687f968de837b50800000000000000
+      internalID: 6589767739915077180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownieReceta_26
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 580
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4494189a24c86330800000000000000
+      internalID: 3704426380731389006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownieReceta_27
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 558
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c012a41a8135d6c0800000000000000
+      internalID: -4119331815039037248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownieReceta_28
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 562
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312555ee493b57550800000000000000
+      internalID: 6158025517734122003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownieReceta_29
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 544
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8f2e21779e05520800000000000000
+      internalID: 2688905675167430861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownieReceta_30
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 554
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6896d0e1f2d63e690800000000000000
+      internalID: -7574090099171956346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownieReceta_31
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 516
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011194468b2ca78b0800000000000000
+      internalID: -5153592726359830256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownieReceta_32
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 508
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6543225e68a7e6530800000000000000
+      internalID: 3850149451236783190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownieReceta_33
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 541
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5583e00ce67200cf0800000000000000
+      internalID: -288187019529668523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownieReceta_34
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 491
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4b3b10dc9c56910800000000000000
+      internalID: 1830090705930007769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownieReceta_35
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 495
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c69f5390cc42bd40800000000000000
+      internalID: 5598621676764894915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownieReceta_36
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 513
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f9770207a4c4b10800000000000000
+      internalID: 1967028982695567255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownieReceta_37
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 477
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5023d6b728bb4c0800000000000000
+      internalID: -4270676355006200381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownieReceta_38
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 473
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2eff919ac96d80d0800000000000000
+      internalID: -3418960223356846548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BrownieReceta_0: -8331489810492716452
+      BrownieReceta_1: 4042576344828149049
+      BrownieReceta_10: 320812775877003196
+      BrownieReceta_11: -4856746600514728137
+      BrownieReceta_12: -8394790045505073431
+      BrownieReceta_13: 4414977521735234711
+      BrownieReceta_14: 5523597921565973685
+      BrownieReceta_15: 7666068954685086280
+      BrownieReceta_16: -5817118654758649259
+      BrownieReceta_17: 3248760976051379022
+      BrownieReceta_18: 7892395577492544369
+      BrownieReceta_19: -5609911184879539378
+      BrownieReceta_2: -6991807399435539991
+      BrownieReceta_20: -7601174443652979307
+      BrownieReceta_21: 734671081745149873
+      BrownieReceta_22: 6213333433219286735
+      BrownieReceta_23: -8335268761503894925
+      BrownieReceta_24: -5424436014631580540
+      BrownieReceta_25: 6589767739915077180
+      BrownieReceta_26: 3704426380731389006
+      BrownieReceta_27: -4119331815039037248
+      BrownieReceta_28: 6158025517734122003
+      BrownieReceta_29: 2688905675167430861
+      BrownieReceta_3: 4413006862698351438
+      BrownieReceta_30: -7574090099171956346
+      BrownieReceta_31: -5153592726359830256
+      BrownieReceta_32: 3850149451236783190
+      BrownieReceta_33: -288187019529668523
+      BrownieReceta_34: 1830090705930007769
+      BrownieReceta_35: 5598621676764894915
+      BrownieReceta_36: 1967028982695567255
+      BrownieReceta_37: -4270676355006200381
+      BrownieReceta_38: -3418960223356846548
+      BrownieReceta_4: 748425068380337894
+      BrownieReceta_5: -5136576011312729577
+      BrownieReceta_6: 8352810990820297900
+      BrownieReceta_7: 2593984439275141086
+      BrownieReceta_8: -6778544283977554332
+      BrownieReceta_9: 3737690853861014762
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

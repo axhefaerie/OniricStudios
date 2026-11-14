@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: be2fe05db8a29864ab3edfaef6e064c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1096575366987560990
+    second: SantiReceta_0
+  - first:
+      213: 5529069628149679391
+    second: SantiReceta_1
+  - first:
+      213: -180848603666360432
+    second: SantiReceta_2
+  - first:
+      213: -8314689908474326609
+    second: SantiReceta_3
+  - first:
+      213: 6776296372887043617
+    second: SantiReceta_4
+  - first:
+      213: 8219192991009540829
+    second: SantiReceta_5
+  - first:
+      213: 5124855630476636582
+    second: SantiReceta_6
+  - first:
+      213: 3847971117406759647
+    second: SantiReceta_7
+  - first:
+      213: 5194516564721543121
+    second: SantiReceta_8
+  - first:
+      213: 7874482997504387791
+    second: SantiReceta_9
+  - first:
+      213: 5125439195777813670
+    second: SantiReceta_10
+  - first:
+      213: 6100111328781456043
+    second: SantiReceta_11
+  - first:
+      213: -6449949767814951117
+    second: SantiReceta_12
+  - first:
+      213: -8962343662460880113
+    second: SantiReceta_13
+  - first:
+      213: 3130766786349435658
+    second: SantiReceta_14
+  - first:
+      213: -4437591614211424297
+    second: SantiReceta_15
+  - first:
+      213: 7714423853153361293
+    second: SantiReceta_16
+  - first:
+      213: -1115514131683557612
+    second: SantiReceta_17
+  - first:
+      213: 2722571186544989325
+    second: SantiReceta_18
+  - first:
+      213: 4411997147763179933
+    second: SantiReceta_19
+  - first:
+      213: 4374183438174441087
+    second: SantiReceta_20
+  - first:
+      213: -7652348116222084323
+    second: SantiReceta_21
+  - first:
+      213: 1761821903753463174
+    second: SantiReceta_22
+  - first:
+      213: 2501395687666255936
+    second: SantiReceta_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SantiReceta_0
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 771
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18bcb28c71d73f00800000000000000
+      internalID: 1096575366987560990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantiReceta_1
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 786
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15434458833bbc40800000000000000
+      internalID: 5529069628149679391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantiReceta_2
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 794
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0975754372f7d7df0800000000000000
+      internalID: -180848603666360432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantiReceta_3
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 797
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1dcd3d4994c9c80800000000000000
+      internalID: -8314689908474326609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantiReceta_4
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 728
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e33b616ad3a0e50800000000000000
+      internalID: 6776296372887043617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantiReceta_5
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 749
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda01896a70701270800000000000000
+      internalID: 8219192991009540829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantiReceta_6
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 677
+        width: 105
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a178b31b052f1740800000000000000
+      internalID: 5124855630476636582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantiReceta_7
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 708
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda2ef6085db66530800000000000000
+      internalID: 3847971117406759647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantiReceta_8
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 710
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d72c1c3b41a61840800000000000000
+      internalID: 5194516564721543121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantiReceta_9
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 719
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca2a10c098c74d60800000000000000
+      internalID: 7874482997504387791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantiReceta_10
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 638
+        width: 79
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac4336fac7312740800000000000000
+      internalID: 5125439195777813670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantiReceta_11
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 668
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2da5a0fe2f7a450800000000000000
+      internalID: 6100111328781456043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantiReceta_12
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 673
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fc6460cdc2d76a0800000000000000
+      internalID: -6449949767814951117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantiReceta_13
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 673
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bbb0c6ceb5f9380800000000000000
+      internalID: -8962343662460880113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantiReceta_14
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 667
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b03fefdc7b27b20800000000000000
+      internalID: 3130766786349435658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantiReceta_15
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 614
+        width: 105
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dffca030f18a62c0800000000000000
+      internalID: -4437591614211424297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantiReceta_16
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 640
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d91062f932f0b60800000000000000
+      internalID: 7714423853153361293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantiReceta_17
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 619
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fb217bec5e480f0800000000000000
+      internalID: -1115514131683557612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantiReceta_18
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 590
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d845ab1c11488c520800000000000000
+      internalID: 2722571186544989325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantiReceta_19
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 601
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d910676b7009a3d30800000000000000
+      internalID: 4411997147763179933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantiReceta_20
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 611
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ec8ce59a834bc30800000000000000
+      internalID: 4374183438174441087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantiReceta_21
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 559
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bf3f2aee56dc590800000000000000
+      internalID: -7652348116222084323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantiReceta_22
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 571
+        width: 75
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6854abadfaf337810800000000000000
+      internalID: 1761821903753463174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantiReceta_23
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 559
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0488a0eff1eb6b220800000000000000
+      internalID: 2501395687666255936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SantiReceta_0: 1096575366987560990
+      SantiReceta_1: 5529069628149679391
+      SantiReceta_10: 5125439195777813670
+      SantiReceta_11: 6100111328781456043
+      SantiReceta_12: -6449949767814951117
+      SantiReceta_13: -8962343662460880113
+      SantiReceta_14: 3130766786349435658
+      SantiReceta_15: -4437591614211424297
+      SantiReceta_16: 7714423853153361293
+      SantiReceta_17: -1115514131683557612
+      SantiReceta_18: 2722571186544989325
+      SantiReceta_19: 4411997147763179933
+      SantiReceta_2: -180848603666360432
+      SantiReceta_20: 4374183438174441087
+      SantiReceta_21: -7652348116222084323
+      SantiReceta_22: 1761821903753463174
+      SantiReceta_23: 2501395687666255936
+      SantiReceta_3: -8314689908474326609
+      SantiReceta_4: 6776296372887043617
+      SantiReceta_5: 8219192991009540829
+      SantiReceta_6: 5124855630476636582
+      SantiReceta_7: 3847971117406759647
+      SantiReceta_8: 5194516564721543121
+      SantiReceta_9: 7874482997504387791
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

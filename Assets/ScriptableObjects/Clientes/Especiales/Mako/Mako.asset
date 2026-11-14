@@ -18,15 +18,15 @@ MonoBehaviour:
   isSpecial: 1
   spawnPosition: {x: -1, y: -0.3450264, z: 0}
   preferences:
-  - {fileID: 11400000, guid: 228a2d86645509544abe9ab6f1bd6101, type: 2}
+  - {fileID: 11400000, guid: b7ab83e6fc8e0d24088eb79edac90180, type: 2}
   assignedFlower: {fileID: 11400000, guid: 8d26a136a2bf33e44be754c98469b265, type: 2}
   enterLines:
-  - buenobuenos dias. la imagen de hoy...
+  - Buenooo diaaa... la imagen de hoy...
   correctLines:
-  - "\xF1am \xF1am a mi tripita que va, qeu rico"
+  - "\xD1am \xF1am a mi tripita que va, que rico!"
   wrongLines:
-  - puaj que asco, esto no lo he pedido
+  - Puaj que asco, esto no lo he pedido.
   timeoutLines:
-  - me tengo que pirar, baibai
+  - Me tengo que pirar, baibai.
   wrongDeliveryLines:
-  - me voy, no aguanto incompetentes
+  - Me voy, no aguanto incompetentes.

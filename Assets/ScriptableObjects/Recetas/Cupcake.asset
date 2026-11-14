@@ -18,6 +18,7 @@ MonoBehaviour:
   bookSprite: {fileID: 0}
   recipeCharacteristics: "Una brillandte y mullida combinaci\xF3n de nuestros ingredientes
     mas dulces."
+  ingredientsSprite: {fileID: 21300000, guid: e3a4ef36d001c18458e8101d4548741d, type: 3}
   baseIngredient: {fileID: 11400000, guid: b26c6699952953247b554fc72110de89, type: 2}
   sauceIngredients:
   - {fileID: 11400000, guid: 056841b2723a6b64782cef1e5494f6f5, type: 2}

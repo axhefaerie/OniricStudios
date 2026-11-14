@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: a77f7a5579556124da90ec04eaa66781
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6609807834478264489
+    second: BorgerReceta_0
+  - first:
+      213: 5933706097843772189
+    second: BorgerReceta_1
+  - first:
+      213: 5110848236831669358
+    second: BorgerReceta_2
+  - first:
+      213: -2636848996653149516
+    second: BorgerReceta_3
+  - first:
+      213: 7599773983102460600
+    second: BorgerReceta_4
+  - first:
+      213: -7836600071628781804
+    second: BorgerReceta_5
+  - first:
+      213: -3884471820588154774
+    second: BorgerReceta_6
+  - first:
+      213: -4891192965874209989
+    second: BorgerReceta_7
+  - first:
+      213: -7553056473482751955
+    second: BorgerReceta_8
+  - first:
+      213: -2906036327826651900
+    second: BorgerReceta_9
+  - first:
+      213: -8532283121364341120
+    second: BorgerReceta_10
+  - first:
+      213: -7229270993666029229
+    second: BorgerReceta_11
+  - first:
+      213: -1193236724983323249
+    second: BorgerReceta_12
+  - first:
+      213: 1977545947188680664
+    second: BorgerReceta_13
+  - first:
+      213: -7416011352196195973
+    second: BorgerReceta_14
+  - first:
+      213: 3312188076732340975
+    second: BorgerReceta_15
+  - first:
+      213: 608340688629618879
+    second: BorgerReceta_16
+  - first:
+      213: 6332861365838129784
+    second: BorgerReceta_17
+  - first:
+      213: 3734435910284563186
+    second: BorgerReceta_18
+  - first:
+      213: 5484531422029274807
+    second: BorgerReceta_19
+  - first:
+      213: -1241063793379829629
+    second: BorgerReceta_20
+  - first:
+      213: -4267048580748852723
+    second: BorgerReceta_21
+  - first:
+      213: 6390556253335382379
+    second: BorgerReceta_22
+  - first:
+      213: 5688016760774925725
+    second: BorgerReceta_23
+  - first:
+      213: 5129915947737102430
+    second: BorgerReceta_24
+  - first:
+      213: 47108507065832342
+    second: BorgerReceta_25
+  - first:
+      213: -8531171568707927615
+    second: BorgerReceta_26
+  - first:
+      213: 1207322911470710663
+    second: BorgerReceta_27
+  - first:
+      213: -8274895301600999519
+    second: BorgerReceta_28
+  - first:
+      213: -1521718786910608225
+    second: BorgerReceta_29
+  - first:
+      213: -8049622008280424222
+    second: BorgerReceta_30
+  - first:
+      213: -343518299325477394
+    second: BorgerReceta_31
+  - first:
+      213: 3059856788258014241
+    second: BorgerReceta_32
+  - first:
+      213: 4122343656924378811
+    second: BorgerReceta_33
+  - first:
+      213: -5508054802839177380
+    second: BorgerReceta_34
+  - first:
+      213: -5153359431048820366
+    second: BorgerReceta_35
+  - first:
+      213: 970741286392055909
+    second: BorgerReceta_36
+  - first:
+      213: 9142126095109562342
+    second: BorgerReceta_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BorgerReceta_0
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 719
+        width: 95
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f34587bce3544a0800000000000000
+      internalID: -6609807834478264489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorgerReceta_1
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 747
+        width: 93
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b1c830242c85250800000000000000
+      internalID: 5933706097843772189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorgerReceta_2
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 769
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c784994616de640800000000000000
+      internalID: 5110848236831669358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorgerReceta_3
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 747
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2d424eec7086bd0800000000000000
+      internalID: -2636848996653149516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorgerReceta_4
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 751
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2e31c1c22d77960800000000000000
+      internalID: 7599773983102460600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorgerReceta_5
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 755
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41704c341cdce3390800000000000000
+      internalID: -7836600071628781804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorgerReceta_6
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 727
+        width: 76
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6004d1c575971ac0800000000000000
+      internalID: -3884471820588154774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorgerReceta_7
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 711
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bad2589edfe1cb0800000000000000
+      internalID: -4891192965874209989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorgerReceta_8
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 700
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d209899b7272e2790800000000000000
+      internalID: -7553056473482751955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorgerReceta_9
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 734
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405038f4b5faba7d0800000000000000
+      internalID: -2906036327826651900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorgerReceta_10
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 743
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e640405bd379980800000000000000
+      internalID: -8532283121364341120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorgerReceta_11
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 698
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359408565587cab90800000000000000
+      internalID: -7229270993666029229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorgerReceta_12
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 712
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f852b6a4585c07fe0800000000000000
+      internalID: -1193236724983323249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorgerReceta_13
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 656
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7d13dbf87a17b10800000000000000
+      internalID: 1977545947188680664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorgerReceta_14
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 673
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79d41687f8051990800000000000000
+      internalID: -7416011352196195973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorgerReceta_15
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 675
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea5aeec18147fd20800000000000000
+      internalID: 3312188076732340975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorgerReceta_16
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 684
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb85f2812a2417800800000000000000
+      internalID: 608340688629618879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorgerReceta_17
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 636
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87aa39afbd7d2e750800000000000000
+      internalID: 6332861365838129784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorgerReceta_18
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 656
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f259fcaca163d330800000000000000
+      internalID: 3734435910284563186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorgerReceta_19
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 632
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bed5812548fc1c40800000000000000
+      internalID: 5484531422029274807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorgerReceta_20
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 599
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3881ffb2e0bd6cee0800000000000000
+      internalID: -1241063793379829629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorgerReceta_21
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 595
+        width: 75
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0241217ce568c4c0800000000000000
+      internalID: -4267048580748852723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorgerReceta_22
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 602
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69e435cd01dfa850800000000000000
+      internalID: 6390556253335382379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorgerReceta_23
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 559
+        width: 112
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d15768b15efee40800000000000000
+      internalID: 5688016760774925725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorgerReceta_24
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 536
+        width: 95
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e583b70006f113740800000000000000
+      internalID: 5129915947737102430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorgerReceta_25
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 534
+        width: 57
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693de8500fc57a000800000000000000
+      internalID: 47108507065832342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorgerReceta_26
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 553
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1804988a03b9980800000000000000
+      internalID: -8531171568707927615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorgerReceta_27
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 559
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fe6639ac541c010800000000000000
+      internalID: 1207322911470710663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorgerReceta_28
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 516
+        width: 82
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a70682c09aa92d80800000000000000
+      internalID: -8274895301600999519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorgerReceta_29
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 555
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94a72263d4c1eae0800000000000000
+      internalID: -1521718786910608225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorgerReceta_30
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 543
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e06744ae6ff94090800000000000000
+      internalID: -8049622008280424222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorgerReceta_31
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 535
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedcbd24de39b3bf0800000000000000
+      internalID: -343518299325477394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorgerReceta_32
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 496
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124cfaf798bc67a20800000000000000
+      internalID: 3059856788258014241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorgerReceta_33
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 475
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6ff0107b1853930800000000000000
+      internalID: 4122343656924378811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorgerReceta_34
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 510
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57f269f6557f83b0800000000000000
+      internalID: -5508054802839177380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorgerReceta_35
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 486
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2790d60b6e69b78b0800000000000000
+      internalID: -5153359431048820366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorgerReceta_36
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 490
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56844388e04c87d00800000000000000
+      internalID: 970741286392055909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorgerReceta_37
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 475
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef95d61f3b5fde70800000000000000
+      internalID: 9142126095109562342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BorgerReceta_0: -6609807834478264489
+      BorgerReceta_1: 5933706097843772189
+      BorgerReceta_10: -8532283121364341120
+      BorgerReceta_11: -7229270993666029229
+      BorgerReceta_12: -1193236724983323249
+      BorgerReceta_13: 1977545947188680664
+      BorgerReceta_14: -7416011352196195973
+      BorgerReceta_15: 3312188076732340975
+      BorgerReceta_16: 608340688629618879
+      BorgerReceta_17: 6332861365838129784
+      BorgerReceta_18: 3734435910284563186
+      BorgerReceta_19: 5484531422029274807
+      BorgerReceta_2: 5110848236831669358
+      BorgerReceta_20: -1241063793379829629
+      BorgerReceta_21: -4267048580748852723
+      BorgerReceta_22: 6390556253335382379
+      BorgerReceta_23: 5688016760774925725
+      BorgerReceta_24: 5129915947737102430
+      BorgerReceta_25: 47108507065832342
+      BorgerReceta_26: -8531171568707927615
+      BorgerReceta_27: 1207322911470710663
+      BorgerReceta_28: -8274895301600999519
+      BorgerReceta_29: -1521718786910608225
+      BorgerReceta_3: -2636848996653149516
+      BorgerReceta_30: -8049622008280424222
+      BorgerReceta_31: -343518299325477394
+      BorgerReceta_32: 3059856788258014241
+      BorgerReceta_33: 4122343656924378811
+      BorgerReceta_34: -5508054802839177380
+      BorgerReceta_35: -5153359431048820366
+      BorgerReceta_36: 970741286392055909
+      BorgerReceta_37: 9142126095109562342
+      BorgerReceta_4: 7599773983102460600
+      BorgerReceta_5: -7836600071628781804
+      BorgerReceta_6: -3884471820588154774
+      BorgerReceta_7: -4891192965874209989
+      BorgerReceta_8: -7553056473482751955
+      BorgerReceta_9: -2906036327826651900
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

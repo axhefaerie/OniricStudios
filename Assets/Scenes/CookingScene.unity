@@ -2937,6 +2937,53 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 562747486}
   m_CullTransparentMesh: 1
+--- !u!1 &571341542
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 571341544}
+  - component: {fileID: 571341543}
+  m_Layer: 0
+  m_Name: captur
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &571341543
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 571341542}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6a106c19afce6d47bfcbfdedee905e9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  captureCamera: {fileID: 182980207}
+  width: 1920
+  height: 1080
+--- !u!4 &571341544
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 571341542}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.4534806, y: -0.22331876, z: -1.5773941}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &574022398
 GameObject:
   m_ObjectHideFlags: 0
@@ -5778,9 +5825,8 @@ MonoBehaviour:
   recipeName: {fileID: 0}
   recipeImage: {fileID: 964070188}
   recipeDescription: {fileID: 0}
+  recipeIngredientsImage: {fileID: 0}
   recipeContent: {fileID: 1098924530}
-  ingredientsContainer: {fileID: 100443184}
-  ingredientPrefab: {fileID: 719483065025236489, guid: b954b27882ab45042bb10727e211fda1, type: 3}
   bookAnimator: {fileID: 94255060}
   animationDelay: 0.3
 --- !u!1 &1277437489
@@ -5819,6 +5865,7 @@ MonoBehaviour:
   menuContactos: {fileID: 1447226524}
   menuAjustes: {fileID: 542929032}
   panelLibroRecetas: {fileID: 1234281791}
+  panelCreditos: {fileID: 0}
   cookingScene: CookingScene
   gameScene: Game
   recipeBook: {fileID: 0}
@@ -8709,3 +8756,4 @@ SceneRoots:
   - {fileID: 254166481}
   - {fileID: 1273575376}
   - {fileID: 1663104279}
+  - {fileID: 571341544}

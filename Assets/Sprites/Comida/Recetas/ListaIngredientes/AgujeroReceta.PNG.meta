@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: a93cdc33488f5184cbc7137ea694d890
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2593435543069628725
+    second: AgujeroReceta_0
+  - first:
+      213: -5146121481074930666
+    second: AgujeroReceta_1
+  - first:
+      213: -1478841011939621514
+    second: AgujeroReceta_2
+  - first:
+      213: -9059634927375770335
+    second: AgujeroReceta_3
+  - first:
+      213: -5788466606758105779
+    second: AgujeroReceta_4
+  - first:
+      213: -5073208317917294324
+    second: AgujeroReceta_5
+  - first:
+      213: -5106765358555986258
+    second: AgujeroReceta_6
+  - first:
+      213: 8964932682463787256
+    second: AgujeroReceta_7
+  - first:
+      213: 268806340331222461
+    second: AgujeroReceta_8
+  - first:
+      213: 8345887623249543701
+    second: AgujeroReceta_9
+  - first:
+      213: 5144080104177718454
+    second: AgujeroReceta_10
+  - first:
+      213: -8221464434844092948
+    second: AgujeroReceta_11
+  - first:
+      213: -8483742122382994986
+    second: AgujeroReceta_12
+  - first:
+      213: 4198963135742525146
+    second: AgujeroReceta_13
+  - first:
+      213: -8894780626012597789
+    second: AgujeroReceta_14
+  - first:
+      213: 7930949016986653213
+    second: AgujeroReceta_15
+  - first:
+      213: -7186233143354790444
+    second: AgujeroReceta_16
+  - first:
+      213: 4371082907035526091
+    second: AgujeroReceta_17
+  - first:
+      213: 7508937589286303763
+    second: AgujeroReceta_18
+  - first:
+      213: -5694810345956291379
+    second: AgujeroReceta_19
+  - first:
+      213: 4297409673913015785
+    second: AgujeroReceta_20
+  - first:
+      213: -1012674131703285823
+    second: AgujeroReceta_21
+  - first:
+      213: -7140669329086668816
+    second: AgujeroReceta_22
+  - first:
+      213: -615531797433845741
+    second: AgujeroReceta_23
+  - first:
+      213: 2367324932711649146
+    second: AgujeroReceta_24
+  - first:
+      213: -514584718503854941
+    second: AgujeroReceta_25
+  - first:
+      213: -1898288014459962578
+    second: AgujeroReceta_26
+  - first:
+      213: 6481345810891613126
+    second: AgujeroReceta_27
+  - first:
+      213: -1795424604985220021
+    second: AgujeroReceta_28
+  - first:
+      213: 4252284464476439441
+    second: AgujeroReceta_29
+  - first:
+      213: -1703232952971537221
+    second: AgujeroReceta_30
+  - first:
+      213: -523836012347131318
+    second: AgujeroReceta_31
+  - first:
+      213: -80055385894846516
+    second: AgujeroReceta_32
+  - first:
+      213: 4150601492948723117
+    second: AgujeroReceta_33
+  - first:
+      213: -4986697866593654725
+    second: AgujeroReceta_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AgujeroReceta_0
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 763
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5399984c2ebbdf320800000000000000
+      internalID: 2593435543069628725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroReceta_1
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 794
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c858d37cd4598b0800000000000000
+      internalID: -5146121481074930666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroReceta_2
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 805
+        width: 98
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6754f045fe91a7be0800000000000000
+      internalID: -1478841011939621514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroReceta_3
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 708
+        width: 68
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d9b079806b54280800000000000000
+      internalID: -9059634927375770335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroReceta_4
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 743
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4de8fd2a4c3bafa0800000000000000
+      internalID: -5788466606758105779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroReceta_5
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 766
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c019bf2f9e75899b0800000000000000
+      internalID: -5073208317917294324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroReceta_6
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 742
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6000496ff1129b0800000000000000
+      internalID: -5106765358555986258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroReceta_7
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 746
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f83b85c6c6d96c70800000000000000
+      internalID: 8964932682463787256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroReceta_8
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 728
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5b0dc31fdfab300800000000000000
+      internalID: 268806340331222461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroReceta_9
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 735
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5124e1f239c82d370800000000000000
+      internalID: 8345887623249543701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroReceta_10
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 700
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4daa9a991736740800000000000000
+      internalID: 5144080104177718454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroReceta_11
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 747
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce53c9bd7ad77ed80800000000000000
+      internalID: -8221464434844092948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroReceta_12
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 728
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1d75d0d71b34a80800000000000000
+      internalID: -8483742122382994986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroReceta_13
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 737
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adeb4e299b6b54a30800000000000000
+      internalID: 4198963135742525146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroReceta_14
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 735
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e11e7fa5246f8480800000000000000
+      internalID: -8894780626012597789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroReceta_15
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 723
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1219396c14601e60800000000000000
+      internalID: 7930949016986653213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroReceta_16
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 694
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dde239c70f554c90800000000000000
+      internalID: -7186233143354790444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroReceta_17
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 701
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc362a5beb439ac30800000000000000
+      internalID: 4371082907035526091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroReceta_18
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 617
+        width: 110
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318fcf114fa153860800000000000000
+      internalID: 7508937589286303763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroReceta_19
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 652
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc4e0aa928f7f0b0800000000000000
+      internalID: -5694810345956291379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroReceta_20
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 672
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed99eb645773ab30800000000000000
+      internalID: 4297409673913015785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroReceta_21
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 676
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7399a1e3242f1f0800000000000000
+      internalID: -1012674131703285823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroReceta_22
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 683
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff134df31f37ec90800000000000000
+      internalID: -7140669329086668816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroReceta_23
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 651
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3187ff967113577f0800000000000000
+      internalID: -615531797433845741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroReceta_24
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 619
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f0432db7d6ad020800000000000000
+      internalID: 2367324932711649146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroReceta_25
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 624
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acbbb6cce3dbd8f0800000000000000
+      internalID: -514584718503854941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroReceta_26
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 626
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b7bb0cb1de7a5e0800000000000000
+      internalID: -1898288014459962578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroReceta_27
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 635
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c329a4ecad52f950800000000000000
+      internalID: 6481345810891613126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroReceta_28
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 614
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b442cd695de5517e0800000000000000
+      internalID: -1795424604985220021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroReceta_29
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 642
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193c70dd036230b30800000000000000
+      internalID: 4252284464476439441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroReceta_30
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 618
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4546447a6ec58e0800000000000000
+      internalID: -1703232952971537221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroReceta_31
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 581
+        width: 51
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4afd731ce5fab8f0800000000000000
+      internalID: -523836012347131318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroReceta_32
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 595
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf7169fc0693eef0800000000000000
+      internalID: -80055385894846516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroReceta_33
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 599
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da52a672116e99930800000000000000
+      internalID: 4150601492948723117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgujeroReceta_34
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 576
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38ac7306b0bbcab0800000000000000
+      internalID: -4986697866593654725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AgujeroReceta_0: 2593435543069628725
+      AgujeroReceta_1: -5146121481074930666
+      AgujeroReceta_10: 5144080104177718454
+      AgujeroReceta_11: -8221464434844092948
+      AgujeroReceta_12: -8483742122382994986
+      AgujeroReceta_13: 4198963135742525146
+      AgujeroReceta_14: -8894780626012597789
+      AgujeroReceta_15: 7930949016986653213
+      AgujeroReceta_16: -7186233143354790444
+      AgujeroReceta_17: 4371082907035526091
+      AgujeroReceta_18: 7508937589286303763
+      AgujeroReceta_19: -5694810345956291379
+      AgujeroReceta_2: -1478841011939621514
+      AgujeroReceta_20: 4297409673913015785
+      AgujeroReceta_21: -1012674131703285823
+      AgujeroReceta_22: -7140669329086668816
+      AgujeroReceta_23: -615531797433845741
+      AgujeroReceta_24: 2367324932711649146
+      AgujeroReceta_25: -514584718503854941
+      AgujeroReceta_26: -1898288014459962578
+      AgujeroReceta_27: 6481345810891613126
+      AgujeroReceta_28: -1795424604985220021
+      AgujeroReceta_29: 4252284464476439441
+      AgujeroReceta_3: -9059634927375770335
+      AgujeroReceta_30: -1703232952971537221
+      AgujeroReceta_31: -523836012347131318
+      AgujeroReceta_32: -80055385894846516
+      AgujeroReceta_33: 4150601492948723117
+      AgujeroReceta_34: -4986697866593654725
+      AgujeroReceta_4: -5788466606758105779
+      AgujeroReceta_5: -5073208317917294324
+      AgujeroReceta_6: -5106765358555986258
+      AgujeroReceta_7: 8964932682463787256
+      AgujeroReceta_8: 268806340331222461
+      AgujeroReceta_9: 8345887623249543701
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

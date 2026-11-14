@@ -18,7 +18,7 @@ MonoBehaviour:
   isSpecial: 0
   spawnPosition: {x: -0.5, y: -0.2, z: 0}
   preferences:
-  - {fileID: 11400000, guid: 228a2d86645509544abe9ab6f1bd6101, type: 2}
+  - {fileID: 11400000, guid: 31e621febc484cb4b82f0b3b53c0f37c, type: 2}
   assignedFlower: {fileID: 11400000, guid: 8d26a136a2bf33e44be754c98469b265, type: 2}
   enterLines:
   - "Buenas tardes, se\xF1orita."

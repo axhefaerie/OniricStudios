@@ -19,14 +19,17 @@ MonoBehaviour:
   spawnPosition: {x: -1, y: -0.3450264, z: 0}
   preferences:
   - {fileID: 11400000, guid: 228a2d86645509544abe9ab6f1bd6101, type: 2}
+  - {fileID: 11400000, guid: 00c89881e725eef40ad0b996ab739ccf, type: 2}
+  - {fileID: 11400000, guid: 77cd37cfd0284fc49b5c9ab2dd70222d, type: 2}
+  - {fileID: 11400000, guid: 0c6360bc43f342b4883d43169b81f39f, type: 2}
   assignedFlower: {fileID: 11400000, guid: 159d743d2a361cb419256297df369ac6, type: 2}
   enterLines:
-  - grr....
+  - Grr....
   correctLines:
   - ...brr.. bie..een
   wrongLines:
-  - noo..
+  - Noo..
   timeoutLines:
-  - me..voy...tard..e
+  - Me..voy...tard..e
   wrongDeliveryLines:
-  - todo..mal..
+  - Todo..mal..

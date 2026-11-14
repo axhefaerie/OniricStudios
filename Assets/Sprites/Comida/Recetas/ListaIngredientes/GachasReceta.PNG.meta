@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 9e5d529eaca2dad41a4e1b497fa01a90
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1866151996509207910
+    second: GachasReceta_0
+  - first:
+      213: -201834821399641040
+    second: GachasReceta_1
+  - first:
+      213: 4607266146512684992
+    second: GachasReceta_2
+  - first:
+      213: -1771153669799316234
+    second: GachasReceta_3
+  - first:
+      213: 4796024691029643001
+    second: GachasReceta_4
+  - first:
+      213: 4614347668206027650
+    second: GachasReceta_5
+  - first:
+      213: 5850020777292462520
+    second: GachasReceta_6
+  - first:
+      213: 5185885862953622198
+    second: GachasReceta_7
+  - first:
+      213: -6697916517924403139
+    second: GachasReceta_8
+  - first:
+      213: -6889756284254159274
+    second: GachasReceta_9
+  - first:
+      213: -3165229883480601282
+    second: GachasReceta_10
+  - first:
+      213: -704093595117983649
+    second: GachasReceta_11
+  - first:
+      213: -256444923101717882
+    second: GachasReceta_12
+  - first:
+      213: 584751408387976174
+    second: GachasReceta_13
+  - first:
+      213: -466850911327530956
+    second: GachasReceta_14
+  - first:
+      213: -4963470249538901221
+    second: GachasReceta_15
+  - first:
+      213: -7876764211624441563
+    second: GachasReceta_16
+  - first:
+      213: 4015408503006334232
+    second: GachasReceta_17
+  - first:
+      213: 1209243641322109251
+    second: GachasReceta_18
+  - first:
+      213: -8177153381963337155
+    second: GachasReceta_19
+  - first:
+      213: -8954494951219591237
+    second: GachasReceta_20
+  - first:
+      213: -6726478790919398612
+    second: GachasReceta_21
+  - first:
+      213: -4784826276647946406
+    second: GachasReceta_22
+  - first:
+      213: 6483960058306480460
+    second: GachasReceta_23
+  - first:
+      213: -160595400359804610
+    second: GachasReceta_24
+  - first:
+      213: 6363097036989695779
+    second: GachasReceta_25
+  - first:
+      213: 1510157585709566383
+    second: GachasReceta_26
+  - first:
+      213: 7970289354957731204
+    second: GachasReceta_27
+  - first:
+      213: -2649697150148194585
+    second: GachasReceta_28
+  - first:
+      213: 4435237784997833653
+    second: GachasReceta_29
+  - first:
+      213: -5581489611345013642
+    second: GachasReceta_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GachasReceta_0
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 748
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d31d08a57e5e910800000000000000
+      internalID: 1866151996509207910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachasReceta_1
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 769
+        width: 85
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0348b2f9c40f23df0800000000000000
+      internalID: -201834821399641040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachasReceta_2
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 710
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c74290662c40ff30800000000000000
+      internalID: 4607266146512684992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachasReceta_3
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 782
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f47bfc0f199b67e0800000000000000
+      internalID: -1771153669799316234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachasReceta_4
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 741
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe03dacb07ee8240800000000000000
+      internalID: 4796024691029643001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachasReceta_5
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 765
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2838291a1c4790040800000000000000
+      internalID: 4614347668206027650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachasReceta_6
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 725
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9fb27f6e27f2150800000000000000
+      internalID: 5850020777292462520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachasReceta_7
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 732
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba121367b7f7f740800000000000000
+      internalID: 5185885862953622198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachasReceta_8
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 749
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3805edf9683c03a0800000000000000
+      internalID: -6697916517924403139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachasReceta_9
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 689
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ef308b92ba260a0800000000000000
+      internalID: -6889756284254159274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachasReceta_10
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 721
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d00bae038d214d0800000000000000
+      internalID: -3165229883480601282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachasReceta_11
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 679
+        width: 72
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f586d5e0b9e8a36f0800000000000000
+      internalID: -704093595117983649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachasReceta_12
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 707
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ad11e73bce07cf0800000000000000
+      internalID: -256444923101717882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachasReceta_13
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 699
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebefdace447d1800800000000000000
+      internalID: 584751408387976174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachasReceta_14
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 658
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4305143d1996589f0800000000000000
+      internalID: -466850911327530956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachasReceta_15
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 659
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ba30b0b163e1bb0800000000000000
+      internalID: -4963470249538901221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachasReceta_16
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 634
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5298d92beac10b290800000000000000
+      internalID: -7876764211624441563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachasReceta_17
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 638
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d86c942c899b730800000000000000
+      internalID: 4015408503006334232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachasReceta_18
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 648
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34977e75fa818c010800000000000000
+      internalID: 1209243641322109251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachasReceta_19
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 665
+        width: 104
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32f032d25ae48e80800000000000000
+      internalID: -8177153381963337155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachasReceta_20
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 655
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb70789e84e3bb380800000000000000
+      internalID: -8954494951219591237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachasReceta_21
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 595
+        width: 94
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2bdc069d2fb6a2a0800000000000000
+      internalID: -6726478790919398612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachasReceta_22
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 634
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57b17c3ad1e89db0800000000000000
+      internalID: -4784826276647946406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachasReceta_23
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 593
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49cd2dc157abf950800000000000000
+      internalID: 6483960058306480460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachasReceta_24
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 554
+        width: 82
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e310ef0955375cdf0800000000000000
+      internalID: -160595400359804610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachasReceta_25
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 526
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3278c11ca034e4850800000000000000
+      internalID: 6363097036989695779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachasReceta_26
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 560
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa98413b25825f410800000000000000
+      internalID: 1510157585709566383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachasReceta_27
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 545
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485355f90f72c9e60800000000000000
+      internalID: 7970289354957731204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachasReceta_28
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 548
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee4d0b0b726a3bd0800000000000000
+      internalID: -2649697150148194585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachasReceta_29
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 522
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbaf2d34412d8d30800000000000000
+      internalID: 4435237784997833653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachasReceta_30
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 517
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6745f3e35c09a82b0800000000000000
+      internalID: -5581489611345013642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GachasReceta_0: 1866151996509207910
+      GachasReceta_1: -201834821399641040
+      GachasReceta_10: -3165229883480601282
+      GachasReceta_11: -704093595117983649
+      GachasReceta_12: -256444923101717882
+      GachasReceta_13: 584751408387976174
+      GachasReceta_14: -466850911327530956
+      GachasReceta_15: -4963470249538901221
+      GachasReceta_16: -7876764211624441563
+      GachasReceta_17: 4015408503006334232
+      GachasReceta_18: 1209243641322109251
+      GachasReceta_19: -8177153381963337155
+      GachasReceta_2: 4607266146512684992
+      GachasReceta_20: -8954494951219591237
+      GachasReceta_21: -6726478790919398612
+      GachasReceta_22: -4784826276647946406
+      GachasReceta_23: 6483960058306480460
+      GachasReceta_24: -160595400359804610
+      GachasReceta_25: 6363097036989695779
+      GachasReceta_26: 1510157585709566383
+      GachasReceta_27: 7970289354957731204
+      GachasReceta_28: -2649697150148194585
+      GachasReceta_29: 4435237784997833653
+      GachasReceta_3: -1771153669799316234
+      GachasReceta_30: -5581489611345013642
+      GachasReceta_4: 4796024691029643001
+      GachasReceta_5: 4614347668206027650
+      GachasReceta_6: 5850020777292462520
+      GachasReceta_7: 5185885862953622198
+      GachasReceta_8: -6697916517924403139
+      GachasReceta_9: -6889756284254159274
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

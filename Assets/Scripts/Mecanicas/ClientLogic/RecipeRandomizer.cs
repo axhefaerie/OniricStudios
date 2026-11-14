@@ -84,8 +84,18 @@ public class RecipeRandomizer : MonoBehaviour
         }
 
         // Construir el texto del pedido
-        orderText = chosen.preferenceText + requestedRecipe.name;
+        if (customerType.isSpecial)
+        {
+            // Los especiales solo dicen su preferencia
+            orderText = chosen.preferenceText;
+        }
+        else
+        {
+            // Los normales dicen el nombre de la receta
+            orderText = chosen.preferenceText + requestedRecipe.name;
+        }
 
+        // Añadir la flor si el cliente tiene una asignada
         if (requestedFlower != null)
             orderText += " y " + requestedFlower.name;
 

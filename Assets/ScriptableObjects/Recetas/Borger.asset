@@ -17,6 +17,7 @@ MonoBehaviour:
   recipeName: {fileID: 21300000, guid: 3461b77072302794ebbcc586456ffdeb, type: 3}
   bookSprite: {fileID: 0}
   recipeCharacteristics: "Una m\xE1gica hamburguesa... con los t\xEDpicos ingredientes...?"
+  ingredientsSprite: {fileID: 21300000, guid: a77f7a5579556124da90ec04eaa66781, type: 3}
   baseIngredient: {fileID: 11400000, guid: fbdfed240e3fe084d92b19ab77cd2803, type: 2}
   sauceIngredients:
   - {fileID: 11400000, guid: af92022e87c5d6b49be78b50aa35c974, type: 2}

@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 7bb3f1ab7e5d29940ba2794f0082b70b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7097150633048104736
+    second: MacaronsReceta_0
+  - first:
+      213: 7198433635873308308
+    second: MacaronsReceta_1
+  - first:
+      213: 1644501272833014473
+    second: MacaronsReceta_2
+  - first:
+      213: -3490492919783796566
+    second: MacaronsReceta_3
+  - first:
+      213: -2393254301758435627
+    second: MacaronsReceta_4
+  - first:
+      213: -4031183504485355213
+    second: MacaronsReceta_5
+  - first:
+      213: 3788359088020587456
+    second: MacaronsReceta_6
+  - first:
+      213: 4718156264449581917
+    second: MacaronsReceta_7
+  - first:
+      213: -8972527100642012572
+    second: MacaronsReceta_8
+  - first:
+      213: -8852383627549825142
+    second: MacaronsReceta_9
+  - first:
+      213: -6257615781316552482
+    second: MacaronsReceta_10
+  - first:
+      213: -4490463117235266297
+    second: MacaronsReceta_11
+  - first:
+      213: -182523269019572512
+    second: MacaronsReceta_12
+  - first:
+      213: -952692999595806781
+    second: MacaronsReceta_13
+  - first:
+      213: 995177405058353246
+    second: MacaronsReceta_14
+  - first:
+      213: -8687636349519644921
+    second: MacaronsReceta_15
+  - first:
+      213: 8398243215516689026
+    second: MacaronsReceta_16
+  - first:
+      213: 4908290571509555666
+    second: MacaronsReceta_17
+  - first:
+      213: -5632086867775779294
+    second: MacaronsReceta_18
+  - first:
+      213: -7996323728247993307
+    second: MacaronsReceta_19
+  - first:
+      213: 7131623774005152839
+    second: MacaronsReceta_20
+  - first:
+      213: 6204618218614951904
+    second: MacaronsReceta_21
+  - first:
+      213: 3882215907169032735
+    second: MacaronsReceta_22
+  - first:
+      213: -3826712224018799057
+    second: MacaronsReceta_23
+  - first:
+      213: -402222642719465521
+    second: MacaronsReceta_24
+  - first:
+      213: 326857320263065192
+    second: MacaronsReceta_25
+  - first:
+      213: 6559584408040248793
+    second: MacaronsReceta_26
+  - first:
+      213: 2969213001615501789
+    second: MacaronsReceta_27
+  - first:
+      213: 2725796476004505527
+    second: MacaronsReceta_28
+  - first:
+      213: 810830323156025764
+    second: MacaronsReceta_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MacaronsReceta_0
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 742
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f554006e42e7260800000000000000
+      internalID: 7097150633048104736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MacaronsReceta_1
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 750
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49eb37db049f5e360800000000000000
+      internalID: 7198433635873308308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MacaronsReceta_2
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 757
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cab3e7d13172d610800000000000000
+      internalID: 1644501272833014473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MacaronsReceta_3
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 764
+        width: 72
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa05541de274f8fc0800000000000000
+      internalID: -3490492919783796566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MacaronsReceta_4
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 704
+        width: 86
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de438e74e379ced0800000000000000
+      internalID: -2393254301758435627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MacaronsReceta_5
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 724
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3317cb6f5fb5e08c0800000000000000
+      internalID: -4031183504485355213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MacaronsReceta_6
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 728
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3071bd484f29430800000000000000
+      internalID: 3788359088020587456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MacaronsReceta_7
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 703
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d532d49ef124a7140800000000000000
+      internalID: 4718156264449581917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MacaronsReceta_8
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 680
+        width: 78
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462daa4f32e2b7380800000000000000
+      internalID: -8972527100642012572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MacaronsReceta_9
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 679
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87a8602ef3062580800000000000000
+      internalID: -8852383627549825142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MacaronsReceta_10
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 673
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed89fb5e99b7829a0800000000000000
+      internalID: -6257615781316552482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MacaronsReceta_11
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 699
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70dd23c169baea1c0800000000000000
+      internalID: -4490463117235266297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MacaronsReceta_12
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 681
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e668dacd0c877df0800000000000000
+      internalID: -182523269019572512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MacaronsReceta_13
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 685
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf2713b3ca57c2f0800000000000000
+      internalID: -952692999595806781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MacaronsReceta_14
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 659
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e588ff4c3949fcd00800000000000000
+      internalID: 995177405058353246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MacaronsReceta_15
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 658
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7073c19e4c05f6780800000000000000
+      internalID: -8687636349519644921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MacaronsReceta_16
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 670
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282e43e65bd8c8470800000000000000
+      internalID: 8398243215516689026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MacaronsReceta_17
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 641
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1e9310540cd1440800000000000000
+      internalID: 4908290571509555666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MacaronsReceta_18
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 655
+        width: 60
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e051675dec6d1b0800000000000000
+      internalID: -5632086867775779294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MacaronsReceta_19
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 658
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c40cc7fe9570190800000000000000
+      internalID: -7996323728247993307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MacaronsReceta_20
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 640
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74cce49990e98f260800000000000000
+      internalID: 7131623774005152839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MacaronsReceta_21
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 624
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef0677756b3b1650800000000000000
+      internalID: 6204618218614951904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MacaronsReceta_22
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 630
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a5e287cc660e530800000000000000
+      internalID: 3882215907169032735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MacaronsReceta_23
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 631
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26e6bdc189c4eac0800000000000000
+      internalID: -3826712224018799057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MacaronsReceta_24
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 629
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf561433a40b6af0800000000000000
+      internalID: -402222642719465521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MacaronsReceta_25
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 588
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e1482400b398400800000000000000
+      internalID: 326857320263065192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MacaronsReceta_26
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 599
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d51e63d343580b50800000000000000
+      internalID: 6559584408040248793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MacaronsReceta_27
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 606
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd963cf4e73c43920800000000000000
+      internalID: 2969213001615501789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MacaronsReceta_28
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 615
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7924af379f3d520800000000000000
+      internalID: 2725796476004505527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MacaronsReceta_29
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 589
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a184d802e5a04b00800000000000000
+      internalID: 810830323156025764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MacaronsReceta_0: 7097150633048104736
+      MacaronsReceta_1: 7198433635873308308
+      MacaronsReceta_10: -6257615781316552482
+      MacaronsReceta_11: -4490463117235266297
+      MacaronsReceta_12: -182523269019572512
+      MacaronsReceta_13: -952692999595806781
+      MacaronsReceta_14: 995177405058353246
+      MacaronsReceta_15: -8687636349519644921
+      MacaronsReceta_16: 8398243215516689026
+      MacaronsReceta_17: 4908290571509555666
+      MacaronsReceta_18: -5632086867775779294
+      MacaronsReceta_19: -7996323728247993307
+      MacaronsReceta_2: 1644501272833014473
+      MacaronsReceta_20: 7131623774005152839
+      MacaronsReceta_21: 6204618218614951904
+      MacaronsReceta_22: 3882215907169032735
+      MacaronsReceta_23: -3826712224018799057
+      MacaronsReceta_24: -402222642719465521
+      MacaronsReceta_25: 326857320263065192
+      MacaronsReceta_26: 6559584408040248793
+      MacaronsReceta_27: 2969213001615501789
+      MacaronsReceta_28: 2725796476004505527
+      MacaronsReceta_29: 810830323156025764
+      MacaronsReceta_3: -3490492919783796566
+      MacaronsReceta_4: -2393254301758435627
+      MacaronsReceta_5: -4031183504485355213
+      MacaronsReceta_6: 3788359088020587456
+      MacaronsReceta_7: 4718156264449581917
+      MacaronsReceta_8: -8972527100642012572
+      MacaronsReceta_9: -8852383627549825142
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

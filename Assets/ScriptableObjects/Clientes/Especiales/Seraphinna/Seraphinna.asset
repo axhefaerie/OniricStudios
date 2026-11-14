@@ -18,15 +18,15 @@ MonoBehaviour:
   isSpecial: 1
   spawnPosition: {x: -1, y: -0.3450264, z: 0}
   preferences:
-  - {fileID: 11400000, guid: 228a2d86645509544abe9ab6f1bd6101, type: 2}
+  - {fileID: 11400000, guid: 12694f4af66830349bd2c8b1c287bb88, type: 2}
   assignedFlower: {fileID: 11400000, guid: 159d743d2a361cb419256297df369ac6, type: 2}
   enterLines:
-  - HOLI
+  - Hola chat!
   correctLines:
-  - eres buena
+  - Eres buena.
   wrongLines:
-  - no eres buena
+  - No eres buena.
   timeoutLines:
-  - tardona
+  - Tardona.
   wrongDeliveryLines:
-  - "ya vendr\xE9 otro d\xEDa, que hoy no aciertas"
+  - "Ya vendr\xE9 otro d\xEDa, que hoy no aciertas..."

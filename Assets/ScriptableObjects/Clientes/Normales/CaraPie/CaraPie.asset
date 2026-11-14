@@ -18,15 +18,18 @@ MonoBehaviour:
   isSpecial: 0
   spawnPosition: {x: -1, y: -0.3450264, z: 0}
   preferences:
-  - {fileID: 11400000, guid: 228a2d86645509544abe9ab6f1bd6101, type: 2}
+  - {fileID: 11400000, guid: 3baf5c856f417c64088ebefa991ace82, type: 2}
+  - {fileID: 11400000, guid: 6385981166f03714584355ab65e8c079, type: 2}
+  - {fileID: 11400000, guid: 7b0daaecb3288ef48b669a43ab7e8608, type: 2}
+  - {fileID: 11400000, guid: 2b532a01404848a44bc7759af810ff09, type: 2}
   assignedFlower: {fileID: 11400000, guid: 8d26a136a2bf33e44be754c98469b265, type: 2}
   enterLines:
-  - snifff
+  - Snifff
   correctLines:
-  - mmmmmm que rico
+  - Mmmmmm que rico!!
   wrongLines:
-  - a que te chupo los pies :(
+  - A que te chupo los pies :(
   timeoutLines:
-  - me piro vampiro
+  - Me piro vampiro.
   wrongDeliveryLines:
-  - todo mal
+  - Todo mal.

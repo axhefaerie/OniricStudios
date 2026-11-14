@@ -18,15 +18,19 @@ MonoBehaviour:
   isSpecial: 0
   spawnPosition: {x: -1, y: -0.2, z: 0}
   preferences:
-  - {fileID: 11400000, guid: 228a2d86645509544abe9ab6f1bd6101, type: 2}
+  - {fileID: 11400000, guid: 17cd7ab2cac3bf24aaf6630b352a7a85, type: 2}
+  - {fileID: 11400000, guid: c2ee773f6c9a63544b17087f58d12aa2, type: 2}
+  - {fileID: 11400000, guid: ddf25cc48ed4c9441a93a356605a9795, type: 2}
+  - {fileID: 11400000, guid: 1931f9dcffffc2a429f62b1e770b08b1, type: 2}
+  - {fileID: 11400000, guid: 7177bcddd633fa548ad60d88e3666ebf, type: 2}
   assignedFlower: {fileID: 11400000, guid: 159d743d2a361cb419256297df369ac6, type: 2}
   enterLines:
-  - PUMPAM HE APARECIDO
+  - PUMPAM HE APARECIDO!
   correctLines:
-  - TILIN ESTOY FELIZ
+  - TILIN ESTOY FELIZ !!
   wrongLines:
-  - MEEEK MAL
+  - MEEEK MAL !
   timeoutLines:
-  - SE HA ACABADO EL TIEMPO
+  - SE HA ACABADO EL TIEMPO.
   wrongDeliveryLines:
-  - MUCHOS FALLOS MEEEK
+  - MUCHOS FALLOS MEEEK!

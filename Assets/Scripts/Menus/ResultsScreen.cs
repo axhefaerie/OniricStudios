@@ -16,7 +16,7 @@ public class ResultsScreen : MonoBehaviour
         resultText.text = victory ? "¡VICTORIA!" : "DERROTA...";
         descriptionText.text = victory ? "Los clientes han quedados muy satisfechos con tu trabajo" : "No has conseguido preparar correctamente los platos.";
         historyText.text = victory ? "Tras atenderlos correctamente, te ayudaron a volver a tu mundo." 
-            : "Tu torpeza con los pedidos hicieron que los clientes se enfadaran, y como no pudieron comer los platos que querían al final te han comido a ti.";
+            : "Tu torpeza con los pedidos hizo que los clientes se enfadaran, y como no pudieron comer los platos que querían al final te han comido a ti.";
         //starsText.text = $"{GameManager.Instance.finalStars} / {GameManager.Instance.maxStars} estrellas";
     }
 
