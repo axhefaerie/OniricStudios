@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: HuevosBacon
   m_EditorClassIdentifier: 
   name: Huevos con bacon
-  recipeSprite: {fileID: 21300000, guid: c0c7f7f18ae06de41b26f89ef5552cb7, type: 3}
+  recipeSprite: {fileID: 21300000, guid: 1e235ba524e80df47941ceadf98ee32e, type: 3}
   recipeName: {fileID: 21300000, guid: 1f1119edaa6b4ef428b2f900310c245c, type: 3}
-  bookSprite: {fileID: 0}
+  bookSprite: {fileID: 21300000, guid: 78700122437845244b8ad908cad52fed, type: 3}
   recipeCharacteristics: El mejor desayuno salado.
   ingredientsSprite: {fileID: 21300000, guid: 60d7d50d10d2b4642a88fc1e544f32f8, type: 3}
   baseIngredient: {fileID: 11400000, guid: fbdfed240e3fe084d92b19ab77cd2803, type: 2}

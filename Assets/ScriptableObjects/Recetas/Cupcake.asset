@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: Cupcake
   m_EditorClassIdentifier: 
   name: Cupcake
-  recipeSprite: {fileID: 21300000, guid: 2728f9418174b104c8a58e6fe3d5a216, type: 3}
+  recipeSprite: {fileID: 21300000, guid: 17bb930cae2e95a4c946e35a5b8e9187, type: 3}
   recipeName: {fileID: 21300000, guid: 8085ba78398b3ce41bdf467bbeaa709d, type: 3}
-  bookSprite: {fileID: 0}
+  bookSprite: {fileID: 21300000, guid: 110cd89f882e07642a93e960412c1b5e, type: 3}
   recipeCharacteristics: "Una brillandte y mullida combinaci\xF3n de nuestros ingredientes
     mas dulces."
   ingredientsSprite: {fileID: 21300000, guid: e3a4ef36d001c18458e8101d4548741d, type: 3}

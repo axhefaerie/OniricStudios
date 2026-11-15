@@ -3,23 +3,11 @@ guid: 0ee72e987bf0dbd449f64e47331bd652
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1072984123533679153
-    second: CocidoLibro 1_0
+      213: -9066213023336361356
+    second: CocidoLibro_0
   - first:
-      213: -2446350121316489945
-    second: CocidoLibro 1_1
-  - first:
-      213: -7515017101237901993
-    second: CocidoLibro 1_2
-  - first:
-      213: 7283380549151804460
-    second: CocidoLibro 1_3
-  - first:
-      213: -6401919735510626792
-    second: CocidoLibro 1_4
-  - first:
-      213: 184809890455711692
-    second: CocidoLibro 1_5
+      213: -1979647933203740304
+    second: CocidoLibro_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -115,13 +103,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: CocidoLibro 1_0
+      name: CocidoLibro_0
       rect:
         serializedVersion: 2
-        x: 102
-        y: 336
-        width: 42
-        height: 35
+        x: 59
+        y: 60
+        width: 308
+        height: 224
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -130,20 +118,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fc52423ef9efb11f0800000000000000
-      internalID: -1072984123533679153
+      spriteID: 47214064a475e2280800000000000000
+      internalID: -9066213023336361356
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CocidoLibro 1_1
+      name: CocidoLibro_1
       rect:
         serializedVersion: 2
-        x: 154
-        y: 369
-        width: 42
-        height: 50
+        x: 175
+        y: 283
+        width: 10
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,96 +140,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 72562b6a681dc0ed0800000000000000
-      internalID: -2446350121316489945
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: CocidoLibro 1_2
-      rect:
-        serializedVersion: 2
-        x: 165
-        y: 329
-        width: 11
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 755aabf33cb45b790800000000000000
-      internalID: -7515017101237901993
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: CocidoLibro 1_3
-      rect:
-        serializedVersion: 2
-        x: 188
-        y: 334
-        width: 43
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c2cce2c3504c31560800000000000000
-      internalID: 7283380549151804460
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: CocidoLibro 1_4
-      rect:
-        serializedVersion: 2
-        x: 49
-        y: 68
-        width: 291
-        height: 261
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 81e835c5befc727a0800000000000000
-      internalID: -6401919735510626792
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: CocidoLibro 1_5
-      rect:
-        serializedVersion: 2
-        x: 244
-        y: 298
-        width: 31
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ccf679fbd93909200800000000000000
-      internalID: 184809890455711692
+      spriteID: 0790e0181b0e684e0800000000000000
+      internalID: -1979647933203740304
       vertices: []
       indices: 
       edges: []
@@ -260,12 +160,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      CocidoLibro 1_0: -1072984123533679153
-      CocidoLibro 1_1: -2446350121316489945
-      CocidoLibro 1_2: -7515017101237901993
-      CocidoLibro 1_3: 7283380549151804460
-      CocidoLibro 1_4: -6401919735510626792
-      CocidoLibro 1_5: 184809890455711692
+      CocidoLibro_0: -9066213023336361356
+      CocidoLibro_1: -1979647933203740304
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

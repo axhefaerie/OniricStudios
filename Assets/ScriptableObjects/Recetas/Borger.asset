@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: Borger
   m_EditorClassIdentifier: 
   name: Borger
-  recipeSprite: {fileID: 21300000, guid: 116b9f9c33e5d0447824390ce81c14a6, type: 3}
+  recipeSprite: {fileID: 21300000, guid: 51d5e6c37f5ffd645979cc455450b46c, type: 3}
   recipeName: {fileID: 21300000, guid: 3461b77072302794ebbcc586456ffdeb, type: 3}
-  bookSprite: {fileID: 0}
+  bookSprite: {fileID: 21300000, guid: a925684ae98dd254d9dc44e239273bcb, type: 3}
   recipeCharacteristics: "Una m\xE1gica hamburguesa... con los t\xEDpicos ingredientes...?"
   ingredientsSprite: {fileID: 21300000, guid: a77f7a5579556124da90ec04eaa66781, type: 3}
   baseIngredient: {fileID: 11400000, guid: fbdfed240e3fe084d92b19ab77cd2803, type: 2}

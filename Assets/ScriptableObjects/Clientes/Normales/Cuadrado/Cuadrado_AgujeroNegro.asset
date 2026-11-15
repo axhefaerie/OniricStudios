@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dbc71b29c7d3c3b4591582952d2320bc, type: 3}
   m_Name: Cuadrado_AgujeroNegro
   m_EditorClassIdentifier: 
-  preferenceText: WAAAA PONME UN
+  preferenceText: 'WAAAA PONME UN '
   preferenceRecipe: {fileID: 11400000, guid: 2e23f035422bbf744917ca23bd08cd44, type: 2}

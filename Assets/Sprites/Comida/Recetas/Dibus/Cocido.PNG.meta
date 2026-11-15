@@ -3,26 +3,11 @@ guid: 18549ea7398e8cd49bdbce61deca25b5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8883538336337233808
-    second: Cocido (2)_0
+      213: 6588667429280845504
+    second: Cocido_0
   - first:
-      213: 6711225221911844532
-    second: Cocido (2)_1
-  - first:
-      213: 7746289055311267267
-    second: Cocido (2)_2
-  - first:
-      213: -2818367677227685815
-    second: Cocido (2)_3
-  - first:
-      213: -8009657776315862571
-    second: Cocido (2)_4
-  - first:
-      213: 5322609912050462640
-    second: Cocido (2)_5
-  - first:
-      213: 2915236569548639536
-    second: Cocido (2)_6
+      213: -136149443305796626
+    second: Cocido_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -55,7 +40,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -118,13 +103,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Cocido (2)_0
+      name: Cocido_0
       rect:
         serializedVersion: 2
-        x: 280
-        y: 556
-        width: 75
-        height: 78
+        x: 28
+        y: 73
+        width: 335
+        height: 205
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -133,20 +118,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 09702f5cc0ba84b70800000000000000
-      internalID: 8883538336337233808
+      spriteID: 0ce88716e16af6b50800000000000000
+      internalID: 6588667429280845504
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cocido (2)_1
+      name: Cocido_1
       rect:
         serializedVersion: 2
-        x: 151
-        y: 459
-        width: 68
-        height: 46
+        x: 144
+        y: 278
+        width: 10
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -155,118 +140,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4b692bf18cf032d50800000000000000
-      internalID: 6711225221911844532
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cocido (2)_2
-      rect:
-        serializedVersion: 2
-        x: 327
-        y: 505
-        width: 94
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3c5035daad8508b60800000000000000
-      internalID: 7746289055311267267
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cocido (2)_3
-      rect:
-        serializedVersion: 2
-        x: 449
-        y: 460
-        width: 74
-        height: 56
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 948a668a78523e8d0800000000000000
-      internalID: -2818367677227685815
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cocido (2)_4
-      rect:
-        serializedVersion: 2
-        x: 262
-        y: 463
-        width: 16
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5d17f3e70baf7d090800000000000000
-      internalID: -8009657776315862571
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cocido (2)_5
-      rect:
-        serializedVersion: 2
-        x: 41
-        y: 72
-        width: 634
-        height: 386
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0bfadbdb385bdd940800000000000000
-      internalID: 5322609912050462640
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cocido (2)_6
-      rect:
-        serializedVersion: 2
-        x: 395
-        y: 450
-        width: 9
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 03dcc24e630057820800000000000000
-      internalID: 2915236569548639536
+      spriteID: eeb046b7dcc4c1ef0800000000000000
+      internalID: -136149443305796626
       vertices: []
       indices: 
       edges: []
@@ -285,13 +160,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Cocido (2)_0: 8883538336337233808
-      Cocido (2)_1: 6711225221911844532
-      Cocido (2)_2: 7746289055311267267
-      Cocido (2)_3: -2818367677227685815
-      Cocido (2)_4: -8009657776315862571
-      Cocido (2)_5: 5322609912050462640
-      Cocido (2)_6: 2915236569548639536
+      Cocido_0: 6588667429280845504
+      Cocido_1: -136149443305796626
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

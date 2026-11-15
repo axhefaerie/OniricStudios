@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: Macarons
   m_EditorClassIdentifier: 
   name: Macarons
-  recipeSprite: {fileID: 21300000, guid: c3a3ce9d8b46c354aa3c339308035227, type: 3}
+  recipeSprite: {fileID: 21300000, guid: aa4f7c26d809f0f449cc742f52120a77, type: 3}
   recipeName: {fileID: 21300000, guid: 303601aa041b4e045ba3646efae74585, type: 3}
-  bookSprite: {fileID: 0}
+  bookSprite: {fileID: 21300000, guid: ceba3959228731341b390bb56cc7dc05, type: 3}
   recipeCharacteristics: 'Unos macarons vibrantes pero... son dulces o salados? '
   ingredientsSprite: {fileID: 21300000, guid: 7bb3f1ab7e5d29940ba2794f0082b70b, type: 3}
   baseIngredient: {fileID: 11400000, guid: fbdfed240e3fe084d92b19ab77cd2803, type: 2}

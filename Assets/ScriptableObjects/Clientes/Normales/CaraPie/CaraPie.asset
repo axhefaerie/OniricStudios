@@ -24,9 +24,9 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 2b532a01404848a44bc7759af810ff09, type: 2}
   assignedFlower: {fileID: 11400000, guid: 8d26a136a2bf33e44be754c98469b265, type: 2}
   enterLines:
-  - Snifff
+  - 'Snifff '
   correctLines:
-  - Mmmmmm que rico!!
+  - 'Mmmmmm que rico!! '
   wrongLines:
   - A que te chupo los pies :(
   timeoutLines:

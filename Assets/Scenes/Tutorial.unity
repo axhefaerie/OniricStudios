@@ -587,7 +587,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 3f57547e22a47ad44914116938116f25, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 077bc35f36bb03346abd43238a0cca20, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -783,16 +783,17 @@ MonoBehaviour:
   tutorialImage: {fileID: 1724781077}
   tutorialImages:
   - {fileID: 21300000, guid: 077bc35f36bb03346abd43238a0cca20, type: 3}
-  - {fileID: 21300000, guid: 9ad96fa350d3c744e9cd81a94d42955b, type: 3}
+  - {fileID: 21300000, guid: 3197629489532f643beb27bfb4ea5444, type: 3}
   - {fileID: 21300000, guid: 12e9b5bb31004a048a078647bad9a780, type: 3}
-  - {fileID: 21300000, guid: c83fe1dd7522a294b9999ca04e1e21d2, type: 3}
-  - {fileID: 21300000, guid: 2541a93f1bfe65d42b436686b884a339, type: 3}
-  - {fileID: 21300000, guid: 96209edd0a507564da0aa19692bc63c7, type: 3}
+  - {fileID: 21300000, guid: 7e56dc5a992415a4abc38c31bf5b7c46, type: 3}
+  - {fileID: 21300000, guid: b0753f3efed9982408caca64d311f7d5, type: 3}
+  - {fileID: 21300000, guid: 8741d1facabbe7647987a8f68460fbfe, type: 3}
   - {fileID: 21300000, guid: c60e28db3559a584d9e56b0cb42bb23e, type: 3}
-  - {fileID: 21300000, guid: 37b396190d3ec714eb209d8028aa96b9, type: 3}
-  - {fileID: 21300000, guid: d7efa612d0cf99047b12f634565d7b7f, type: 3}
-  - {fileID: 21300000, guid: 55f7f6548a7a4d64390a8db511a69621, type: 3}
-  - {fileID: 21300000, guid: 585dac57dc0a03f42a3d6331a11bf4be, type: 3}
+  - {fileID: 21300000, guid: 73eb7607af8f7d4439059693de052d24, type: 3}
+  - {fileID: 21300000, guid: 09bdd1dfbc44e3246a99b6ca2aa4ed1c, type: 3}
+  - {fileID: 21300000, guid: 0cdd371d4eb2dbf4582b05136beca7ae, type: 3}
+  - {fileID: 21300000, guid: 2d21743d5ec009d4ab0de9a0b9258a2f, type: 3}
+  - {fileID: 21300000, guid: 0d0f292862ab692428052eb233caaee3, type: 3}
   gameSceneName: Game
 --- !u!4 &1826586158
 Transform:

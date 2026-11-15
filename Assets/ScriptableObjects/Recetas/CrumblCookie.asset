@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: CrumblCookie
   m_EditorClassIdentifier: 
   name: Crumbl Cookie
-  recipeSprite: {fileID: 21300000, guid: 458b1c75b6bb2a844a06138c96123027, type: 3}
+  recipeSprite: {fileID: 21300000, guid: fdc96d05cd5d7fd4d9ce328a87cca977, type: 3}
   recipeName: {fileID: 21300000, guid: 5d85e59840ee73949a015d5c6009bd16, type: 3}
-  bookSprite: {fileID: 21300000, guid: 458b1c75b6bb2a844a06138c96123027, type: 3}
+  bookSprite: {fileID: 21300000, guid: 759989bbb2c8a3449afcc3d3053f7b48, type: 3}
   recipeCharacteristics: Una galleta muy dulce, no se aconseja repartirla en halloween.
   ingredientsSprite: {fileID: 21300000, guid: d860cd3923b27714299f54b1e38db619, type: 3}
   baseIngredient: {fileID: 11400000, guid: b26c6699952953247b554fc72110de89, type: 2}

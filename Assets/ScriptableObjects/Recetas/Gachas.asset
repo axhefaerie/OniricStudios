@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: Gachas
   m_EditorClassIdentifier: 
   name: Gachas
-  recipeSprite: {fileID: 21300000, guid: 458b1c75b6bb2a844a06138c96123027, type: 3}
+  recipeSprite: {fileID: 21300000, guid: 91f3b8e5bfb6acd4a80ff7a453dc48f7, type: 3}
   recipeName: {fileID: 21300000, guid: 50de652433093c74e9e77d8ade0bdfab, type: 3}
-  bookSprite: {fileID: 0}
+  bookSprite: {fileID: 21300000, guid: 4510a7ec59896d34f8211d31d4053e76, type: 3}
   recipeCharacteristics: Que es eso que revolotea?
   ingredientsSprite: {fileID: 21300000, guid: 9e5d529eaca2dad41a4e1b497fa01a90, type: 3}
   baseIngredient: {fileID: 11400000, guid: fbdfed240e3fe084d92b19ab77cd2803, type: 2}

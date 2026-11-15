@@ -608,6 +608,9 @@ MonoBehaviour:
   availableFlowers:
   - {fileID: 11400000, guid: 159d743d2a361cb419256297df369ac6, type: 2}
   - {fileID: 11400000, guid: 8d26a136a2bf33e44be754c98469b265, type: 2}
+  - {fileID: 11400000, guid: 85eb8bd151b294a4ca3dd7e5b2f4a2c1, type: 2}
+  - {fileID: 11400000, guid: db77ceb90467f614790a20ff0e4b3706, type: 2}
+  - {fileID: 11400000, guid: b64eed609dc5b2a4a84b325b93f1bc4c, type: 2}
   requestedRecipe: {fileID: 0}
   requestedFlower: {fileID: 0}
 --- !u!61 &5587941005012677264

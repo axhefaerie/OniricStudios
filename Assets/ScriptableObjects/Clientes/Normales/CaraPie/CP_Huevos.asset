@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dbc71b29c7d3c3b4591582952d2320bc, type: 3}
   m_Name: CP_Huevos
   m_EditorClassIdentifier: 
-  preferenceText: "uouo \xF1am\xF1am"
+  preferenceText: "Uouo \xF1am\xF1am "
   preferenceRecipe: {fileID: 11400000, guid: a3d307ce6ec1d6e4e93e0a79b8646788, type: 2}
