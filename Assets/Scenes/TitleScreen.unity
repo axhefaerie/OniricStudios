@@ -148,7 +148,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3acf9c6bafcd1704798072fa019a5fe8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  musicName: MainMenuMusic
+  musicName: intro
 --- !u!4 &17875825
 Transform:
   m_ObjectHideFlags: 0
@@ -196,8 +196,8 @@ MonoBehaviour:
   musicSource: {fileID: 1132977167}
   sfxSource: {fileID: 1285168739}
   musicClips:
-  - {fileID: 8300000, guid: 8b2eae1ada2024d4fbb6ac52879756b3, type: 3}
-  - {fileID: 8300000, guid: 324ab8d5ef859f8428499c2033f0ef23, type: 3}
+  - {fileID: 8300000, guid: 0a9769ca9b08a364a8f6bb07d5eff193, type: 3}
+  - {fileID: 8300000, guid: 8844e12950ccbaf41827e9b7a6acb0fb, type: 3}
   sfxClips:
   - {fileID: 8300000, guid: 85d644d4c44cff94fba006238276e02b, type: 3}
 --- !u!4 &120030620
