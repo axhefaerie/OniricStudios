@@ -19,7 +19,7 @@ MonoBehaviour:
   spawnPosition: {x: -1, y: -0.3450264, z: 0}
   preferences:
   - {fileID: 11400000, guid: 06f2c7c29f85aed4b8d2f82f1ce61d98, type: 2}
-  assignedFlower: {fileID: 11400000, guid: 8d26a136a2bf33e44be754c98469b265, type: 2}
+  assignedFlower: {fileID: 11400000, guid: 85eb8bd151b294a4ca3dd7e5b2f4a2c1, type: 2}
   enterLines:
   - Hoooola
   correctLines:

@@ -19,7 +19,7 @@ MonoBehaviour:
   spawnPosition: {x: -1, y: -1.4, z: 0}
   preferences:
   - {fileID: 11400000, guid: b644d4db0b7d4f2408ea1d84ecc25a96, type: 2}
-  assignedFlower: {fileID: 11400000, guid: 8d26a136a2bf33e44be754c98469b265, type: 2}
+  assignedFlower: {fileID: 11400000, guid: 159d743d2a361cb419256297df369ac6, type: 2}
   enterLines:
   - Por las precarias!
   correctLines:

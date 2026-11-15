@@ -19,7 +19,7 @@ MonoBehaviour:
   spawnPosition: {x: -1, y: -0.3450264, z: 0}
   preferences:
   - {fileID: 11400000, guid: 12694f4af66830349bd2c8b1c287bb88, type: 2}
-  assignedFlower: {fileID: 11400000, guid: 159d743d2a361cb419256297df369ac6, type: 2}
+  assignedFlower: {fileID: 11400000, guid: db77ceb90467f614790a20ff0e4b3706, type: 2}
   enterLines:
   - Hola chat!
   correctLines:

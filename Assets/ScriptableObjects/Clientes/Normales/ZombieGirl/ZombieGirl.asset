@@ -22,7 +22,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 00c89881e725eef40ad0b996ab739ccf, type: 2}
   - {fileID: 11400000, guid: 77cd37cfd0284fc49b5c9ab2dd70222d, type: 2}
   - {fileID: 11400000, guid: 0c6360bc43f342b4883d43169b81f39f, type: 2}
-  assignedFlower: {fileID: 11400000, guid: 159d743d2a361cb419256297df369ac6, type: 2}
+  assignedFlower: {fileID: 11400000, guid: db77ceb90467f614790a20ff0e4b3706, type: 2}
   enterLines:
   - Grr....
   correctLines:
