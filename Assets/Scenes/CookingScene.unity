@@ -409,7 +409,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   recipeBook: {fileID: 11400000, guid: 7a6547e0780ef7a41ac1d8788297f0fa, type: 2}
   ingredientParent: {fileID: 101832442}
-  susSprite: {fileID: 2506980966881370458, guid: 63849ce86a3474a469400728fd06f22e, type: 3}
+  susSprite: {fileID: 4661708030252558712, guid: f744b674cd0ef5f48a4ee6867b77767d, type: 3}
   burntSprite: {fileID: -4874306897608974326, guid: b0938466a5bc9534b8254acc020bc1bf, type: 3}
   ingredients: []
 --- !u!212 &101832446
@@ -745,7 +745,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &146341868
 MonoBehaviour:
   m_ObjectHideFlags: 0
