@@ -5,6 +5,7 @@ public class IngredientNames : MonoBehaviour //con esta clase hacemos que se vea
 {
     public string ingredientName;
     public TMP_Text nameText;
+    public GameObject nameBackground;
 
     // distancia a la que aparece el nombre por encima del ingrediente por si la queremos cambiar al no verse bien o algo asi
     public float heightOffset = 0.7f;
@@ -12,19 +13,19 @@ public class IngredientNames : MonoBehaviour //con esta clase hacemos que se vea
     private void OnMouseEnter()
     {
         // le cambiamos el nombre
-        nameText.text = ingredientName;
+       nameText.text = ingredientName;
 
         // texto encima del ingrediente
-        nameText.transform.position = transform.position +
+        nameBackground.transform.position = transform.position +
             Vector3.up * heightOffset;
 
         // Mostramos el texto
-        nameText.gameObject.SetActive(true);
+        nameBackground.SetActive(true);
     }
 
     private void OnMouseExit()
     {
         // Ocultamos el texto
-        nameText.gameObject.SetActive(false);
+        nameBackground.SetActive(false);
     }
 }

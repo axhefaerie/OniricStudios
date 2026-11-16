@@ -154,7 +154,7 @@ public class PlateComponent : MonoBehaviour
         sr.sortingOrder = 10;                           // Para que aparezca siempre por encima del sprite del plato
 
         // Segundo, lo ajustar visualmente
-        go.transform.localPosition = new Vector3(0, 0.4f, -ingredients.Count * 0.1f);       // Lo ajusta un poco hacia arriba del plato
+        go.transform.localPosition = new Vector3(0, 0.2f, -ingredients.Count * 0.1f);       // Lo ajusta un poco hacia arriba del plato
                                                                                             // Escala base del plato, consistente en todas las escenas
         float parentScale = ingredientParent.lossyScale.x;
         float worldScale = scale / Mathf.Max(parentScale, 0.0001f);

@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: 1ffeff687df22cc44b37b8957c0b7e0a
+guid: 453d383cca4df4c4ea7f71f5eecf0afc
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5267853151095067944
-    second: PorcionSangre_0
-  - first:
-      213: -1864382976982626354
-    second: PorcionSangre_1
+      213: -7043267407565431198
+    second: PorcionSangre (2)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -103,34 +100,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PorcionSangre_0
+      name: PorcionSangre (2)_0
       rect:
         serializedVersion: 2
-        x: 16
-        y: 43
-        width: 13
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8da6e082873d4e6b0800000000000000
-      internalID: -5267853151095067944
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PorcionSangre_1
-      rect:
-        serializedVersion: 2
-        x: 21
-        y: 31
-        width: 133
+        x: 25
+        y: 29
+        width: 142
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -140,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ecf4aa37f816026e0800000000000000
-      internalID: -1864382976982626354
+      spriteID: 26ed9f11c99414e90800000000000000
+      internalID: -7043267407565431198
       vertices: []
       indices: 
       edges: []
@@ -160,8 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      PorcionSangre_0: -5267853151095067944
-      PorcionSangre_1: -1864382976982626354
+      PorcionSangre (2)_0: -7043267407565431198
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

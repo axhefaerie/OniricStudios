@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b6e59ab3c07384a4bbc9a6c1945901d6, type: 3}
   m_Name: AgujeroNegro
   m_EditorClassIdentifier: 
-  name: Agujero Negro
+  name: agujero Negro
   recipeSprite: {fileID: 21300000, guid: df019dc16667c294d8073e9f3f046ee2, type: 3}
   recipeName: {fileID: 21300000, guid: 42432baef390d8441820bfd88f29ffd8, type: 3}
   bookSprite: {fileID: 21300000, guid: 28f82e4a6a227324c85b7946ac91d153, type: 3}

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b6e59ab3c07384a4bbc9a6c1945901d6, type: 3}
   m_Name: Gachas
   m_EditorClassIdentifier: 
-  name: Gachas
+  name: gachas
   recipeSprite: {fileID: 21300000, guid: 91f3b8e5bfb6acd4a80ff7a453dc48f7, type: 3}
   recipeName: {fileID: 21300000, guid: 50de652433093c74e9e77d8ade0bdfab, type: 3}
   bookSprite: {fileID: 21300000, guid: 4510a7ec59896d34f8211d31d4053e76, type: 3}

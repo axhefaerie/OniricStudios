@@ -388,6 +388,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ingredientName: Flor de sangre
   nameText: {fileID: 1320991992}
+  nameBackground: {fileID: 1039490442}
   heightOffset: 0.7
 --- !u!114 &65154117
 MonoBehaviour:
@@ -802,6 +803,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ingredientName: Salsa sus
   nameText: {fileID: 1320991992}
+  nameBackground: {fileID: 1039490442}
   heightOffset: 0.7
 --- !u!1 &184250127
 GameObject:
@@ -1239,7 +1241,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 0.7529412}
+  m_Color: {r: 0, g: 0, b: 0, a: 0.9254902}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1751,6 +1753,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ingredientName: Miel
   nameText: {fileID: 1320991992}
+  nameBackground: {fileID: 1039490442}
   heightOffset: 0.7
 --- !u!1 &395156336
 GameObject:
@@ -2275,8 +2278,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b3081fbb2845bd4dadad4a035f91e9a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ingredientName: '                Horno'
+  ingredientName: Horno
   nameText: {fileID: 1320991992}
+  nameBackground: {fileID: 1039490442}
   heightOffset: 0.6
 --- !u!61 &464491415
 BoxCollider2D:
@@ -3483,6 +3487,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ingredientName: Gusanos
   nameText: {fileID: 1320991992}
+  nameBackground: {fileID: 1039490442}
   heightOffset: 0.7
 --- !u!1 &607010864
 GameObject:
@@ -3734,6 +3739,8 @@ GameObject:
   - component: {fileID: 688491800}
   - component: {fileID: 688491799}
   - component: {fileID: 688491798}
+  - component: {fileID: 688491801}
+  - component: {fileID: 688491802}
   m_Layer: 5
   m_Name: boton_contactos
   m_TagString: Untagged
@@ -3866,6 +3873,68 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 688491796}
   m_CullTransparentMesh: 1
+--- !u!114 &688491801
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 688491796}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b3081fbb2845bd4dadad4a035f91e9a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ingredientName: Contactos
+  nameText: {fileID: 1320991992}
+  nameBackground: {fileID: 1039490442}
+  heightOffset: 0.7
+--- !u!61 &688491802
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 688491796}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: -1.5840149, y: 5.2682343}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 206.91245, y: 78.44835}
+  m_EdgeRadius: 0
 --- !u!1 &702999591
 GameObject:
   m_ObjectHideFlags: 0
@@ -4146,6 +4215,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ingredientName: Enredadera
   nameText: {fileID: 1320991992}
+  nameBackground: {fileID: 1039490442}
   heightOffset: 0.7
 --- !u!114 &763163714
 MonoBehaviour:
@@ -4619,6 +4689,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ingredientName: Hierba
   nameText: {fileID: 1320991992}
+  nameBackground: {fileID: 1039490442}
   heightOffset: 0.7
 --- !u!1 &799015952
 GameObject:
@@ -5184,7 +5255,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'CERRAR
+  m_text: '
 
 '
   m_isRightToLeft: 0
@@ -5484,6 +5555,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ingredientName: "Boca de drag\xF3n"
   nameText: {fileID: 1320991992}
+  nameBackground: {fileID: 1039490442}
   heightOffset: 0.7
 --- !u!1 &903974438
 GameObject:
@@ -5648,6 +5720,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ingredientName: Moscas
   nameText: {fileID: 1320991992}
+  nameBackground: {fileID: 1039490442}
   heightOffset: 0.7
 --- !u!1 &914938099
 GameObject:
@@ -6122,6 +6195,124 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: -20, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1 &1039490442
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1039490443}
+  - component: {fileID: 1039490445}
+  - component: {fileID: 1039490444}
+  - component: {fileID: 1039490447}
+  - component: {fileID: 1039490446}
+  m_Layer: 5
+  m_Name: Fondito
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1039490443
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1039490442}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1320991991}
+  m_Father: {fileID: 2031540813}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -301.93, y: -172.4}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1039490444
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1039490442}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.40392157}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 0}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &1039490445
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1039490442}
+  m_CullTransparentMesh: 1
+--- !u!114 &1039490446
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1039490442}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Padding:
+    m_Left: 10
+    m_Right: 10
+    m_Top: 5
+    m_Bottom: 5
+  m_ChildAlignment: 4
+  m_Spacing: 0
+  m_ChildForceExpandWidth: 1
+  m_ChildForceExpandHeight: 1
+  m_ChildControlWidth: 0
+  m_ChildControlHeight: 0
+  m_ChildScaleWidth: 0
+  m_ChildScaleHeight: 0
+  m_ReverseArrangement: 0
+--- !u!114 &1039490447
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1039490442}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_HorizontalFit: 2
+  m_VerticalFit: 2
 --- !u!1 &1049085079
 GameObject:
   m_ObjectHideFlags: 0
@@ -6403,7 +6594,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.042316318, y: -0.22308373}
+  m_Offset: {x: -0.059087187, y: -0.015039682}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -6413,7 +6604,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1.1, y: 1.1}
+  m_Size: {x: 0.8971929, y: 0.6839119}
   m_EdgeRadius: 0
 --- !u!212 &1075397692
 SpriteRenderer:
@@ -6484,6 +6675,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ingredientName: Base negra
   nameText: {fileID: 1320991992}
+  nameBackground: {fileID: 1039490442}
   heightOffset: 0.7
 --- !u!1 &1076646919
 GameObject:
@@ -6822,6 +7014,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ingredientName: Purpurina
   nameText: {fileID: 1320991992}
+  nameBackground: {fileID: 1039490442}
   heightOffset: 0.7
 --- !u!1 &1105086558
 GameObject:
@@ -7817,6 +8010,8 @@ GameObject:
   - component: {fileID: 1271548534}
   - component: {fileID: 1271548533}
   - component: {fileID: 1271548532}
+  - component: {fileID: 1271548535}
+  - component: {fileID: 1271548536}
   m_Layer: 5
   m_Name: boton_salir
   m_TagString: Untagged
@@ -7937,6 +8132,68 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1271548530}
   m_CullTransparentMesh: 1
+--- !u!114 &1271548535
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1271548530}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b3081fbb2845bd4dadad4a035f91e9a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ingredientName: Salir del juego
+  nameText: {fileID: 1320991992}
+  nameBackground: {fileID: 1039490442}
+  heightOffset: 0.7
+--- !u!61 &1271548536
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1271548530}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0.000030517578, y: 1.3426552}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 236.64313, y: 78.87347}
+  m_EdgeRadius: 0
 --- !u!1 &1301253171
 GameObject:
   m_ObjectHideFlags: 0
@@ -8100,6 +8357,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ingredientName: Fresas
   nameText: {fileID: 1320991992}
+  nameBackground: {fileID: 1039490442}
   heightOffset: 0.7
 --- !u!1 &1304043690
 GameObject:
@@ -8264,6 +8522,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ingredientName: Santiago
   nameText: {fileID: 1320991992}
+  nameBackground: {fileID: 1039490442}
   heightOffset: 0.7
 --- !u!1 &1312743799
 GameObject:
@@ -8504,6 +8763,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ingredientName: Almendras
   nameText: {fileID: 1320991992}
+  nameBackground: {fileID: 1039490442}
   heightOffset: 0.7
 --- !u!1 &1320991990
 GameObject:
@@ -8516,6 +8776,7 @@ GameObject:
   - component: {fileID: 1320991991}
   - component: {fileID: 1320991993}
   - component: {fileID: 1320991992}
+  - component: {fileID: 1320991994}
   m_Layer: 5
   m_Name: IngredientsName
   m_TagString: Untagged
@@ -8531,16 +8792,16 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1320991990}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 373.9864}
+  m_LocalPosition: {x: 0, y: 0, z: 373.98642}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 2031540813}
+  m_Father: {fileID: 1039490443}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -222.99997, y: -260}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 10, y: -5}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1320991992
 MonoBehaviour:
@@ -8562,21 +8823,19 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '
-
-'
+  m_text: 
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 44f5998ee30125142b230fcb397e428e, type: 2}
-  m_sharedMaterial: {fileID: 830838284165149558, guid: 44f5998ee30125142b230fcb397e428e, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
+  m_sharedMaterial: {fileID: 2164040, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 1
-  m_colorMode: 2
+  m_colorMode: 0
   m_fontColorGradient:
     topLeft: {r: 1, g: 1, b: 1, a: 1}
     topRight: {r: 1, g: 1, b: 1, a: 1}
@@ -8591,15 +8850,15 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 25
+  m_fontSizeBase: 25
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 1
-  m_HorizontalAlignment: 1
-  m_VerticalAlignment: 256
+  m_fontStyle: 0
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_wordSpacing: 0
@@ -8629,7 +8888,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -67.3629, y: -27.780478, z: -69.3441, w: -41.606464}
+  m_margin: {x: 2.5249176, y: -1.2712936, z: 0.46329504, w: 1.3830872}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -8643,6 +8902,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1320991990}
   m_CullTransparentMesh: 1
+--- !u!114 &1320991994
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1320991990}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_HorizontalFit: 2
+  m_VerticalFit: 2
 --- !u!1 &1322244415
 GameObject:
   m_ObjectHideFlags: 0
@@ -8927,6 +9200,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ingredientName: Helecho
   nameText: {fileID: 1320991992}
+  nameBackground: {fileID: 1039490442}
   heightOffset: 0.7
 --- !u!1 &1367949310
 GameObject:
@@ -9091,6 +9365,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ingredientName: Morcilla
   nameText: {fileID: 1320991992}
+  nameBackground: {fileID: 1039490442}
   heightOffset: 0.7
 --- !u!1 &1376451926
 GameObject:
@@ -9342,6 +9617,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ingredientName: Cristales
   nameText: {fileID: 1320991992}
+  nameBackground: {fileID: 1039490442}
   heightOffset: 0.7
 --- !u!1 &1381865110
 GameObject:
@@ -9430,6 +9706,8 @@ GameObject:
   - component: {fileID: 1395703429}
   - component: {fileID: 1395703428}
   - component: {fileID: 1395703427}
+  - component: {fileID: 1395703430}
+  - component: {fileID: 1395703431}
   m_Layer: 5
   m_Name: 'boton_menuPrincipal '
   m_TagString: Untagged
@@ -9550,6 +9828,68 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1395703425}
   m_CullTransparentMesh: 1
+--- !u!114 &1395703430
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1395703425}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b3081fbb2845bd4dadad4a035f91e9a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ingredientName: Menu principal
+  nameText: {fileID: 1320991992}
+  nameBackground: {fileID: 1039490442}
+  heightOffset: 0.7
+--- !u!61 &1395703431
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1395703425}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: -4.6750565, y: -0.000024795532}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 253.4507, y: 94.32231}
+  m_EdgeRadius: 0
 --- !u!1 &1425107281
 GameObject:
   m_ObjectHideFlags: 0
@@ -10201,6 +10541,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ingredientName: Convalaria lila
   nameText: {fileID: 1320991992}
+  nameBackground: {fileID: 1039490442}
   heightOffset: 0.7
 --- !u!1 &1501484293
 GameObject:
@@ -11128,6 +11469,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ingredientName: Base normal
   nameText: {fileID: 1320991992}
+  nameBackground: {fileID: 1039490442}
   heightOffset: 0.7
 --- !u!1 &1624694760
 GameObject:
@@ -11292,6 +11634,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ingredientName: Webo
   nameText: {fileID: 1320991992}
+  nameBackground: {fileID: 1039490442}
   heightOffset: 0.7
 --- !u!1 &1630720852
 GameObject:
@@ -11586,8 +11929,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b3081fbb2845bd4dadad4a035f91e9a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ingredientName: '      Nata'
+  ingredientName: Nata
   nameText: {fileID: 1320991992}
+  nameBackground: {fileID: 1039490442}
   heightOffset: 0.7
 --- !u!1 &1661198090
 GameObject:
@@ -11700,8 +12044,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -770, y: 441}
-  m_SizeDelta: {x: 239.5675, y: 88.1266}
+  m_AnchoredPosition: {x: -803, y: 383}
+  m_SizeDelta: {x: 283.451, y: 289.5864}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1665863006
 MonoBehaviour:
@@ -11724,9 +12068,9 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
-    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
-    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_NormalColor: {r: 1, g: 0.99706966, b: 0.995283, a: 1}
+    m_HighlightedColor: {r: 0.70980394, g: 0.3803922, b: 0.28627452, a: 1}
+    m_PressedColor: {r: 0.4433962, g: 0.14849591, b: 0.14849591, a: 1}
     m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
     m_ColorMultiplier: 1
@@ -11779,8 +12123,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 21300000, guid: 0c1e3c785df25994b88d343ee446d2d0, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -12672,6 +13016,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ingredientName: Nubes
   nameText: {fileID: 1320991992}
+  nameBackground: {fileID: 1039490442}
   heightOffset: 0.7
 --- !u!1 &1793079967
 GameObject:
@@ -12872,6 +13217,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ingredientName: Sirope de chocolate
   nameText: {fileID: 1320991992}
+  nameBackground: {fileID: 1039490442}
   heightOffset: 0.7
 --- !u!1 &1834585196
 GameObject:
@@ -13165,6 +13511,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ingredientName: Estrellitas
   nameText: {fileID: 1320991992}
+  nameBackground: {fileID: 1039490442}
   heightOffset: 0.7
 --- !u!1 &1849986700
 GameObject:
@@ -13581,6 +13928,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ingredientName: Sangre
   nameText: {fileID: 1320991992}
+  nameBackground: {fileID: 1039490442}
   heightOffset: 0.7
 --- !u!1 &1902145587
 GameObject:
@@ -13664,7 +14012,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.013787627, y: -0.2184152}
+  m_Offset: {x: -0.013787627, y: -0.11709666}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -13674,7 +14022,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1.3246963, y: 1.7512275}
+  m_Size: {x: 1.3246963, y: 1.5485904}
   m_EdgeRadius: 0
 --- !u!212 &1902145591
 SpriteRenderer:
@@ -13745,6 +14093,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ingredientName: Pepinillos
   nameText: {fileID: 1320991992}
+  nameBackground: {fileID: 1039490442}
   heightOffset: 0.7
 --- !u!1 &1917347051
 GameObject:
@@ -14410,7 +14759,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.022247419, y: -0.18470252}
+  m_Offset: {x: 0.022247434, y: 0.08215797}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -14420,7 +14769,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.7538222, y: 1.2059135}
+  m_Size: {x: 0.7538222, y: 0.6721927}
   m_EdgeRadius: 0
 --- !u!212 &2015376010
 SpriteRenderer:
@@ -14491,6 +14840,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ingredientName: Carne
   nameText: {fileID: 1320991992}
+  nameBackground: {fileID: 1039490442}
   heightOffset: 0.7
 --- !u!1 &2031540809
 GameObject:
@@ -14587,7 +14937,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1983653337}
-  - {fileID: 1320991991}
+  - {fileID: 1039490443}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -14994,6 +15344,8 @@ GameObject:
   - component: {fileID: 2063474423}
   - component: {fileID: 2063474422}
   - component: {fileID: 2063474421}
+  - component: {fileID: 2063474424}
+  - component: {fileID: 2063474425}
   m_Layer: 5
   m_Name: btn_pausar
   m_TagString: Button
@@ -15114,6 +15466,68 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2063474418}
   m_CullTransparentMesh: 1
+--- !u!114 &2063474424
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2063474418}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b3081fbb2845bd4dadad4a035f91e9a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ingredientName: Ajustes
+  nameText: {fileID: 1320991992}
+  nameBackground: {fileID: 1039490442}
+  heightOffset: 0.3
+--- !u!61 &2063474425
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2063474418}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: -29.355469, y: -9.306318}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 174.38733, y: 55.193615}
+  m_EdgeRadius: 0
 --- !u!1 &2080019406
 GameObject:
   m_ObjectHideFlags: 0
@@ -15617,6 +16031,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ingredientName: Ojos
   nameText: {fileID: 1320991992}
+  nameBackground: {fileID: 1039490442}
   heightOffset: 0.7
 --- !u!1 &2102656393
 GameObject:
