@@ -1,49 +1,49 @@
 fileFormatVersion: 2
-guid: 0a37966f86fe95f42bfb3a4c7e23c131
+guid: a64ff9281be82ba4ab35665f8386970b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3562843947903468084
-    second: "Ilustracio\u0301n_sin_ti\u0301tulo (19)_0"
+      213: 6610509634915558074
+    second: "Ilustracio\u0301n_sin_ti\u0301tulo (20)_0"
   - first:
-      213: -8623341116468736942
-    second: "Ilustracio\u0301n_sin_ti\u0301tulo (19)_1"
+      213: -2647399299733001074
+    second: "Ilustracio\u0301n_sin_ti\u0301tulo (20)_1"
   - first:
-      213: -8549381634112408386
-    second: "Ilustracio\u0301n_sin_ti\u0301tulo (19)_2"
+      213: 7219844229964542683
+    second: "Ilustracio\u0301n_sin_ti\u0301tulo (20)_2"
   - first:
-      213: 7874217535971068402
-    second: "Ilustracio\u0301n_sin_ti\u0301tulo (19)_3"
+      213: -4958081456788426881
+    second: "Ilustracio\u0301n_sin_ti\u0301tulo (20)_3"
   - first:
-      213: -8002516515442450577
-    second: "Ilustracio\u0301n_sin_ti\u0301tulo (19)_4"
+      213: -8802989408886052138
+    second: "Ilustracio\u0301n_sin_ti\u0301tulo (20)_4"
   - first:
-      213: 456068159058259500
-    second: "Ilustracio\u0301n_sin_ti\u0301tulo (19)_5"
+      213: 8399217810917673308
+    second: "Ilustracio\u0301n_sin_ti\u0301tulo (20)_5"
   - first:
-      213: 4729601579070063507
-    second: "Ilustracio\u0301n_sin_ti\u0301tulo (19)_6"
+      213: 5653547619119683834
+    second: "Ilustracio\u0301n_sin_ti\u0301tulo (20)_6"
   - first:
-      213: 3314727225043159260
-    second: "Ilustracio\u0301n_sin_ti\u0301tulo (19)_7"
+      213: 3673994848440455392
+    second: "Ilustracio\u0301n_sin_ti\u0301tulo (20)_7"
   - first:
-      213: -2539859698231689288
-    second: "Ilustracio\u0301n_sin_ti\u0301tulo (19)_8"
+      213: -7477087463175691449
+    second: "Ilustracio\u0301n_sin_ti\u0301tulo (20)_8"
   - first:
-      213: -8659689452193061341
-    second: "Ilustracio\u0301n_sin_ti\u0301tulo (19)_9"
+      213: -2472273317301168710
+    second: "Ilustracio\u0301n_sin_ti\u0301tulo (20)_9"
   - first:
-      213: 2547743099245638438
-    second: "Ilustracio\u0301n_sin_ti\u0301tulo (19)_10"
+      213: 1762063601094295338
+    second: "Ilustracio\u0301n_sin_ti\u0301tulo (20)_10"
   - first:
-      213: 2873570880956738391
-    second: "Ilustracio\u0301n_sin_ti\u0301tulo (19)_11"
+      213: 4467828979425771554
+    second: "Ilustracio\u0301n_sin_ti\u0301tulo (20)_11"
   - first:
-      213: 7725739597635621960
-    second: "Ilustracio\u0301n_sin_ti\u0301tulo (19)_12"
+      213: 5540854905514293506
+    second: "Ilustracio\u0301n_sin_ti\u0301tulo (20)_12"
   - first:
-      213: -1250870641735450011
-    second: "Ilustracio\u0301n_sin_ti\u0301tulo (19)_13"
+      213: -2154204518583757112
+    second: "Ilustracio\u0301n_sin_ti\u0301tulo (20)_13"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -139,11 +139,11 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "Ilustracio\u0301n_sin_ti\u0301tulo (19)_0"
+      name: "Ilustracio\u0301n_sin_ti\u0301tulo (20)_0"
       rect:
         serializedVersion: 2
         x: 256
-        y: 825
+        y: 115
         width: 107
         height: 196
       alignment: 0
@@ -154,18 +154,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 432cfe0a1b3c17130800000000000000
-      internalID: 3562843947903468084
+      spriteID: ab2607d2d7f3dbb50800000000000000
+      internalID: 6610509634915558074
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Ilustracio\u0301n_sin_ti\u0301tulo (19)_1"
+      name: "Ilustracio\u0301n_sin_ti\u0301tulo (20)_1"
       rect:
         serializedVersion: 2
         x: 357
-        y: 825
+        y: 115
         width: 109
         height: 193
       alignment: 0
@@ -176,18 +176,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 25c4cd761fcb35880800000000000000
-      internalID: -8623341116468736942
+      spriteID: e8cebc80d5c824bd0800000000000000
+      internalID: -2647399299733001074
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Ilustracio\u0301n_sin_ti\u0301tulo (19)_2"
+      name: "Ilustracio\u0301n_sin_ti\u0301tulo (20)_2"
       rect:
         serializedVersion: 2
         x: 434
-        y: 826
+        y: 116
         width: 99
         height: 194
       alignment: 0
@@ -198,18 +198,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eb43b7943be7a5980800000000000000
-      internalID: -8549381634112408386
+      spriteID: bd2b0b4231a023460800000000000000
+      internalID: 7219844229964542683
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Ilustracio\u0301n_sin_ti\u0301tulo (19)_3"
+      name: "Ilustracio\u0301n_sin_ti\u0301tulo (20)_3"
       rect:
         serializedVersion: 2
         x: 523
-        y: 799
+        y: 89
         width: 114
         height: 222
       alignment: 0
@@ -220,18 +220,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2f905bb2127d64d60800000000000000
-      internalID: 7874217535971068402
+      spriteID: f7faca02f2b513bb0800000000000000
+      internalID: -4958081456788426881
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Ilustracio\u0301n_sin_ti\u0301tulo (19)_4"
+      name: "Ilustracio\u0301n_sin_ti\u0301tulo (20)_4"
       rect:
         serializedVersion: 2
         x: 632
-        y: 793
+        y: 83
         width: 110
         height: 225
       alignment: 0
@@ -242,18 +242,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f6f1bdbd0a951f090800000000000000
-      internalID: -8002516515442450577
+      spriteID: 6da22d9d5cf75d580800000000000000
+      internalID: -8802989408886052138
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Ilustracio\u0301n_sin_ti\u0301tulo (19)_5"
+      name: "Ilustracio\u0301n_sin_ti\u0301tulo (20)_5"
       rect:
         serializedVersion: 2
         x: 736
-        y: 818
+        y: 108
         width: 117
         height: 200
       alignment: 0
@@ -264,18 +264,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c2ea8060397445600800000000000000
-      internalID: 456068159058259500
+      spriteID: c59c1ea1914009470800000000000000
+      internalID: 8399217810917673308
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Ilustracio\u0301n_sin_ti\u0301tulo (19)_6"
+      name: "Ilustracio\u0301n_sin_ti\u0301tulo (20)_6"
       rect:
         serializedVersion: 2
         x: 834
-        y: 818
+        y: 108
         width: 51
         height: 205
       alignment: 0
@@ -286,18 +286,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3930991e39be2a140800000000000000
-      internalID: 4729601579070063507
+      spriteID: af852661b9f657e40800000000000000
+      internalID: 5653547619119683834
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Ilustracio\u0301n_sin_ti\u0301tulo (19)_7"
+      name: "Ilustracio\u0301n_sin_ti\u0301tulo (20)_7"
       rect:
         serializedVersion: 2
         x: 878
-        y: 827
+        y: 117
         width: 96
         height: 193
       alignment: 0
@@ -308,18 +308,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cd8830859d6400e20800000000000000
-      internalID: 3314727225043159260
+      spriteID: 0e098e759d6acf230800000000000000
+      internalID: 3673994848440455392
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Ilustracio\u0301n_sin_ti\u0301tulo (19)_8"
+      name: "Ilustracio\u0301n_sin_ti\u0301tulo (20)_8"
       rect:
         serializedVersion: 2
         x: 1015
-        y: 822
+        y: 112
         width: 119
         height: 196
       alignment: 0
@@ -330,18 +330,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8bfb19baf0b90ccd0800000000000000
-      internalID: -2539859698231689288
+      spriteID: 743e2ea419c0c3890800000000000000
+      internalID: -7477087463175691449
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Ilustracio\u0301n_sin_ti\u0301tulo (19)_9"
+      name: "Ilustracio\u0301n_sin_ti\u0301tulo (20)_9"
       rect:
         serializedVersion: 2
         x: 1139
-        y: 794
+        y: 84
         width: 101
         height: 226
       alignment: 0
@@ -352,18 +352,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 326e5d0035a92d780800000000000000
-      internalID: -8659689452193061341
+      spriteID: ab5569e3488b0bdd0800000000000000
+      internalID: -2472273317301168710
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Ilustracio\u0301n_sin_ti\u0301tulo (19)_10"
+      name: "Ilustracio\u0301n_sin_ti\u0301tulo (20)_10"
       rect:
         serializedVersion: 2
         x: 1240
-        y: 808
+        y: 98
         width: 98
         height: 216
       alignment: 0
@@ -374,18 +374,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6233d79a9d66b5320800000000000000
-      internalID: 2547743099245638438
+      spriteID: a2ffed6628b147810800000000000000
+      internalID: 1762063601094295338
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Ilustracio\u0301n_sin_ti\u0301tulo (19)_11"
+      name: "Ilustracio\u0301n_sin_ti\u0301tulo (20)_11"
       rect:
         serializedVersion: 2
         x: 1345
-        y: 807
+        y: 97
         width: 98
         height: 214
       alignment: 0
@@ -396,18 +396,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 75b255ccd79f0e720800000000000000
-      internalID: 2873570880956738391
+      spriteID: 2208ed309cae00e30800000000000000
+      internalID: 4467828979425771554
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Ilustracio\u0301n_sin_ti\u0301tulo (19)_12"
+      name: "Ilustracio\u0301n_sin_ti\u0301tulo (20)_12"
       rect:
         serializedVersion: 2
         x: 1439
-        y: 800
+        y: 90
         width: 114
         height: 222
       alignment: 0
@@ -418,18 +418,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8449d383b37573b60800000000000000
-      internalID: 7725739597635621960
+      spriteID: 209f82b0e2215ec40800000000000000
+      internalID: 5540854905514293506
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Ilustracio\u0301n_sin_ti\u0301tulo (19)_13"
+      name: "Ilustracio\u0301n_sin_ti\u0301tulo (20)_13"
       rect:
         serializedVersion: 2
         x: 1535
-        y: 809
+        y: 99
         width: 157
         height: 218
       alignment: 0
@@ -440,8 +440,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 562c46b57c304aee0800000000000000
-      internalID: -1250870641735450011
+      spriteID: 8c61640676aba12e0800000000000000
+      internalID: -2154204518583757112
       vertices: []
       indices: 
       edges: []
@@ -460,20 +460,20 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      "Ilustracio\u0301n_sin_ti\u0301tulo (19)_0": 3562843947903468084
-      "Ilustracio\u0301n_sin_ti\u0301tulo (19)_1": -8623341116468736942
-      "Ilustracio\u0301n_sin_ti\u0301tulo (19)_10": 2547743099245638438
-      "Ilustracio\u0301n_sin_ti\u0301tulo (19)_11": 2873570880956738391
-      "Ilustracio\u0301n_sin_ti\u0301tulo (19)_12": 7725739597635621960
-      "Ilustracio\u0301n_sin_ti\u0301tulo (19)_13": -1250870641735450011
-      "Ilustracio\u0301n_sin_ti\u0301tulo (19)_2": -8549381634112408386
-      "Ilustracio\u0301n_sin_ti\u0301tulo (19)_3": 7874217535971068402
-      "Ilustracio\u0301n_sin_ti\u0301tulo (19)_4": -8002516515442450577
-      "Ilustracio\u0301n_sin_ti\u0301tulo (19)_5": 456068159058259500
-      "Ilustracio\u0301n_sin_ti\u0301tulo (19)_6": 4729601579070063507
-      "Ilustracio\u0301n_sin_ti\u0301tulo (19)_7": 3314727225043159260
-      "Ilustracio\u0301n_sin_ti\u0301tulo (19)_8": -2539859698231689288
-      "Ilustracio\u0301n_sin_ti\u0301tulo (19)_9": -8659689452193061341
+      "Ilustracio\u0301n_sin_ti\u0301tulo (20)_0": 6610509634915558074
+      "Ilustracio\u0301n_sin_ti\u0301tulo (20)_1": -2647399299733001074
+      "Ilustracio\u0301n_sin_ti\u0301tulo (20)_10": 1762063601094295338
+      "Ilustracio\u0301n_sin_ti\u0301tulo (20)_11": 4467828979425771554
+      "Ilustracio\u0301n_sin_ti\u0301tulo (20)_12": 5540854905514293506
+      "Ilustracio\u0301n_sin_ti\u0301tulo (20)_13": -2154204518583757112
+      "Ilustracio\u0301n_sin_ti\u0301tulo (20)_2": 7219844229964542683
+      "Ilustracio\u0301n_sin_ti\u0301tulo (20)_3": -4958081456788426881
+      "Ilustracio\u0301n_sin_ti\u0301tulo (20)_4": -8802989408886052138
+      "Ilustracio\u0301n_sin_ti\u0301tulo (20)_5": 8399217810917673308
+      "Ilustracio\u0301n_sin_ti\u0301tulo (20)_6": 5653547619119683834
+      "Ilustracio\u0301n_sin_ti\u0301tulo (20)_7": 3673994848440455392
+      "Ilustracio\u0301n_sin_ti\u0301tulo (20)_8": -7477087463175691449
+      "Ilustracio\u0301n_sin_ti\u0301tulo (20)_9": -2472273317301168710
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
