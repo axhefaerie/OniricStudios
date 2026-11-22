@@ -1,2 +1,15 @@
 fileFormatVersion: 2
 guid: a7b07c780a604bb4aa6d3f20ce49150c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - background: {instanceID: 0}
+  - darkSprite: {fileID: -20662184342105307, guid: 8144019e0dc1d644eaf74bef8656ec41, type: 3}
+  - dimSprite: {fileID: -7521794593276023470, guid: f959926c5a6c29047bc172b232521c25, type: 3}
+  - litSprite: {fileID: 8616998402459383132, guid: 9f35a075d9fe43b4c9c5aae441aab045, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
