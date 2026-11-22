@@ -351,7 +351,6 @@ GameObject:
   - component: {fileID: 65154119}
   - component: {fileID: 65154118}
   - component: {fileID: 65154117}
-  - component: {fileID: 65154116}
   m_Layer: 0
   m_Name: RamaRoja
   m_TagString: Untagged
@@ -374,22 +373,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 184250128}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &65154116
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 65154114}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b3081fbb2845bd4dadad4a035f91e9a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ingredientName: Flor de sangre
-  nameText: {fileID: 1320991992}
-  nameBackground: {fileID: 1039490442}
-  heightOffset: 0.7
 --- !u!114 &65154117
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -652,7 +635,6 @@ GameObject:
   - component: {fileID: 174564738}
   - component: {fileID: 174564737}
   - component: {fileID: 174564736}
-  - component: {fileID: 174564739}
   m_Layer: 0
   m_Name: SusSouce
   m_TagString: Untagged
@@ -789,22 +771,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &174564739
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 174564734}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b3081fbb2845bd4dadad4a035f91e9a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ingredientName: Salsa sus
-  nameText: {fileID: 1320991992}
-  nameBackground: {fileID: 1039490442}
-  heightOffset: 0.7
 --- !u!1 &184250127
 GameObject:
   m_ObjectHideFlags: 0
@@ -1602,7 +1568,6 @@ GameObject:
   - component: {fileID: 391131204}
   - component: {fileID: 391131203}
   - component: {fileID: 391131202}
-  - component: {fileID: 391131205}
   m_Layer: 0
   m_Name: Miel
   m_TagString: Untagged
@@ -1739,22 +1704,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &391131205
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 391131200}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b3081fbb2845bd4dadad4a035f91e9a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ingredientName: Miel
-  nameText: {fileID: 1320991992}
-  nameBackground: {fileID: 1039490442}
-  heightOffset: 0.7
 --- !u!1 &395156336
 GameObject:
   m_ObjectHideFlags: 0
@@ -2143,7 +2092,6 @@ GameObject:
   - component: {fileID: 464491413}
   - component: {fileID: 464491412}
   - component: {fileID: 464491411}
-  - component: {fileID: 464491414}
   - component: {fileID: 464491415}
   m_Layer: 5
   m_Name: IrAHornoButton
@@ -2266,22 +2214,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 464491409}
   m_CullTransparentMesh: 1
---- !u!114 &464491414
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 464491409}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b3081fbb2845bd4dadad4a035f91e9a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ingredientName: Horno
-  nameText: {fileID: 1320991992}
-  nameBackground: {fileID: 1039490442}
-  heightOffset: 0.6
 --- !u!61 &464491415
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3336,7 +3268,6 @@ GameObject:
   - component: {fileID: 582087436}
   - component: {fileID: 582087435}
   - component: {fileID: 582087434}
-  - component: {fileID: 582087437}
   m_Layer: 0
   m_Name: PorcionGusanos
   m_TagString: Untagged
@@ -3473,22 +3404,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &582087437
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 582087432}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b3081fbb2845bd4dadad4a035f91e9a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ingredientName: Gusanos
-  nameText: {fileID: 1320991992}
-  nameBackground: {fileID: 1039490442}
-  heightOffset: 0.7
 --- !u!1 &607010864
 GameObject:
   m_ObjectHideFlags: 0
@@ -4178,7 +4093,6 @@ GameObject:
   - component: {fileID: 763163716}
   - component: {fileID: 763163715}
   - component: {fileID: 763163714}
-  - component: {fileID: 763163713}
   m_Layer: 0
   m_Name: RamaEnredadera
   m_TagString: Untagged
@@ -4201,22 +4115,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 184250128}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &763163713
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 763163711}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b3081fbb2845bd4dadad4a035f91e9a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ingredientName: Enredadera
-  nameText: {fileID: 1320991992}
-  nameBackground: {fileID: 1039490442}
-  heightOffset: 0.7
 --- !u!114 &763163714
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4538,7 +4436,6 @@ GameObject:
   - component: {fileID: 796730829}
   - component: {fileID: 796730828}
   - component: {fileID: 796730827}
-  - component: {fileID: 796730830}
   m_Layer: 0
   m_Name: PorcionMaria
   m_TagString: Untagged
@@ -4675,22 +4572,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &796730830
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 796730825}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b3081fbb2845bd4dadad4a035f91e9a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ingredientName: Hierba
-  nameText: {fileID: 1320991992}
-  nameBackground: {fileID: 1039490442}
-  heightOffset: 0.7
 --- !u!1 &799015952
 GameObject:
   m_ObjectHideFlags: 0
@@ -5404,7 +5285,6 @@ GameObject:
   - component: {fileID: 857091238}
   - component: {fileID: 857091237}
   - component: {fileID: 857091236}
-  - component: {fileID: 857091239}
   m_Layer: 0
   m_Name: RamaDragon
   m_TagString: Untagged
@@ -5541,22 +5421,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &857091239
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 857091234}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b3081fbb2845bd4dadad4a035f91e9a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ingredientName: "Boca de drag\xF3n"
-  nameText: {fileID: 1320991992}
-  nameBackground: {fileID: 1039490442}
-  heightOffset: 0.7
 --- !u!1 &903974438
 GameObject:
   m_ObjectHideFlags: 0
@@ -5569,7 +5433,6 @@ GameObject:
   - component: {fileID: 903974442}
   - component: {fileID: 903974441}
   - component: {fileID: 903974440}
-  - component: {fileID: 903974443}
   m_Layer: 0
   m_Name: PorcionMoscas
   m_TagString: Untagged
@@ -5706,22 +5569,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &903974443
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 903974438}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b3081fbb2845bd4dadad4a035f91e9a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ingredientName: Moscas
-  nameText: {fileID: 1320991992}
-  nameBackground: {fileID: 1039490442}
-  heightOffset: 0.7
 --- !u!1 &914938099
 GameObject:
   m_ObjectHideFlags: 0
@@ -6524,7 +6371,6 @@ GameObject:
   - component: {fileID: 1075397692}
   - component: {fileID: 1075397691}
   - component: {fileID: 1075397690}
-  - component: {fileID: 1075397693}
   m_Layer: 0
   m_Name: BaseNegra
   m_TagString: Untagged
@@ -6661,22 +6507,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &1075397693
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1075397688}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b3081fbb2845bd4dadad4a035f91e9a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ingredientName: Base negra
-  nameText: {fileID: 1320991992}
-  nameBackground: {fileID: 1039490442}
-  heightOffset: 0.7
 --- !u!1 &1076646919
 GameObject:
   m_ObjectHideFlags: 0
@@ -6863,7 +6693,6 @@ GameObject:
   - component: {fileID: 1092898137}
   - component: {fileID: 1092898136}
   - component: {fileID: 1092898135}
-  - component: {fileID: 1092898138}
   m_Layer: 0
   m_Name: Purpurina
   m_TagString: Untagged
@@ -7000,22 +6829,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &1092898138
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1092898133}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b3081fbb2845bd4dadad4a035f91e9a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ingredientName: Purpurina
-  nameText: {fileID: 1320991992}
-  nameBackground: {fileID: 1039490442}
-  heightOffset: 0.7
 --- !u!1 &1105086558
 GameObject:
   m_ObjectHideFlags: 0
@@ -8206,7 +8019,6 @@ GameObject:
   - component: {fileID: 1301253175}
   - component: {fileID: 1301253174}
   - component: {fileID: 1301253173}
-  - component: {fileID: 1301253176}
   m_Layer: 0
   m_Name: PorcionFresas
   m_TagString: Untagged
@@ -8343,22 +8155,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &1301253176
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1301253171}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b3081fbb2845bd4dadad4a035f91e9a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ingredientName: Fresas
-  nameText: {fileID: 1320991992}
-  nameBackground: {fileID: 1039490442}
-  heightOffset: 0.7
 --- !u!1 &1304043690
 GameObject:
   m_ObjectHideFlags: 0
@@ -8371,7 +8167,6 @@ GameObject:
   - component: {fileID: 1304043694}
   - component: {fileID: 1304043693}
   - component: {fileID: 1304043692}
-  - component: {fileID: 1304043695}
   m_Layer: 0
   m_Name: CabezaSanti
   m_TagString: Untagged
@@ -8508,22 +8303,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &1304043695
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1304043690}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b3081fbb2845bd4dadad4a035f91e9a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ingredientName: Santiago
-  nameText: {fileID: 1320991992}
-  nameBackground: {fileID: 1039490442}
-  heightOffset: 0.7
 --- !u!1 &1312743799
 GameObject:
   m_ObjectHideFlags: 0
@@ -8612,7 +8391,6 @@ GameObject:
   - component: {fileID: 1318905023}
   - component: {fileID: 1318905022}
   - component: {fileID: 1318905021}
-  - component: {fileID: 1318905024}
   m_Layer: 0
   m_Name: PorcionAlmendras
   m_TagString: Untagged
@@ -8749,22 +8527,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &1318905024
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1318905019}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b3081fbb2845bd4dadad4a035f91e9a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ingredientName: Almendras
-  nameText: {fileID: 1320991992}
-  nameBackground: {fileID: 1039490442}
-  heightOffset: 0.7
 --- !u!1 &1320991990
 GameObject:
   m_ObjectHideFlags: 0
@@ -9049,7 +8811,6 @@ GameObject:
   - component: {fileID: 1360485641}
   - component: {fileID: 1360485640}
   - component: {fileID: 1360485639}
-  - component: {fileID: 1360485642}
   m_Layer: 0
   m_Name: RamaHelecho
   m_TagString: Untagged
@@ -9186,22 +8947,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &1360485642
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1360485637}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b3081fbb2845bd4dadad4a035f91e9a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ingredientName: Helecho
-  nameText: {fileID: 1320991992}
-  nameBackground: {fileID: 1039490442}
-  heightOffset: 0.7
 --- !u!1 &1367949310
 GameObject:
   m_ObjectHideFlags: 0
@@ -9214,7 +8959,6 @@ GameObject:
   - component: {fileID: 1367949314}
   - component: {fileID: 1367949313}
   - component: {fileID: 1367949312}
-  - component: {fileID: 1367949315}
   m_Layer: 0
   m_Name: PorcionMorcilla
   m_TagString: Untagged
@@ -9351,22 +9095,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &1367949315
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1367949310}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b3081fbb2845bd4dadad4a035f91e9a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ingredientName: Morcilla
-  nameText: {fileID: 1320991992}
-  nameBackground: {fileID: 1039490442}
-  heightOffset: 0.7
 --- !u!1 &1376451926
 GameObject:
   m_ObjectHideFlags: 0
@@ -9466,7 +9194,6 @@ GameObject:
   - component: {fileID: 1380860141}
   - component: {fileID: 1380860140}
   - component: {fileID: 1380860139}
-  - component: {fileID: 1380860142}
   m_Layer: 0
   m_Name: PorcionCristales
   m_TagString: Untagged
@@ -9603,22 +9330,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &1380860142
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1380860137}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b3081fbb2845bd4dadad4a035f91e9a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ingredientName: Cristales
-  nameText: {fileID: 1320991992}
-  nameBackground: {fileID: 1039490442}
-  heightOffset: 0.7
 --- !u!1 &1381865110
 GameObject:
   m_ObjectHideFlags: 0
@@ -10390,7 +10101,6 @@ GameObject:
   - component: {fileID: 1472521786}
   - component: {fileID: 1472521785}
   - component: {fileID: 1472521784}
-  - component: {fileID: 1472521787}
   m_Layer: 0
   m_Name: RamaLily
   m_TagString: Untagged
@@ -10527,22 +10237,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &1472521787
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1472521782}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b3081fbb2845bd4dadad4a035f91e9a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ingredientName: Convalaria lila
-  nameText: {fileID: 1320991992}
-  nameBackground: {fileID: 1039490442}
-  heightOffset: 0.7
 --- !u!1 &1501484293
 GameObject:
   m_ObjectHideFlags: 0
@@ -11318,7 +11012,6 @@ GameObject:
   - component: {fileID: 1590011445}
   - component: {fileID: 1590011444}
   - component: {fileID: 1590011443}
-  - component: {fileID: 1590011446}
   m_Layer: 0
   m_Name: BaseNormal
   m_TagString: Untagged
@@ -11455,22 +11148,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &1590011446
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1590011441}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b3081fbb2845bd4dadad4a035f91e9a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ingredientName: Base normal
-  nameText: {fileID: 1320991992}
-  nameBackground: {fileID: 1039490442}
-  heightOffset: 0.7
 --- !u!1 &1624694760
 GameObject:
   m_ObjectHideFlags: 0
@@ -11483,7 +11160,6 @@ GameObject:
   - component: {fileID: 1624694764}
   - component: {fileID: 1624694763}
   - component: {fileID: 1624694762}
-  - component: {fileID: 1624694765}
   m_Layer: 0
   m_Name: PorcionWebo
   m_TagString: Untagged
@@ -11620,22 +11296,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &1624694765
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1624694760}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b3081fbb2845bd4dadad4a035f91e9a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ingredientName: Webo
-  nameText: {fileID: 1320991992}
-  nameBackground: {fileID: 1039490442}
-  heightOffset: 0.7
 --- !u!1 &1630720852
 GameObject:
   m_ObjectHideFlags: 0
@@ -11780,7 +11440,6 @@ GameObject:
   - component: {fileID: 1638612546}
   - component: {fileID: 1638612545}
   - component: {fileID: 1638612544}
-  - component: {fileID: 1638612547}
   m_Layer: 0
   m_Name: Nata
   m_TagString: Untagged
@@ -11917,22 +11576,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &1638612547
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1638612542}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b3081fbb2845bd4dadad4a035f91e9a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ingredientName: Nata
-  nameText: {fileID: 1320991992}
-  nameBackground: {fileID: 1039490442}
-  heightOffset: 0.7
 --- !u!1 &1661198090
 GameObject:
   m_ObjectHideFlags: 0
@@ -12865,7 +12508,6 @@ GameObject:
   - component: {fileID: 1764656977}
   - component: {fileID: 1764656976}
   - component: {fileID: 1764656975}
-  - component: {fileID: 1764656978}
   m_Layer: 0
   m_Name: PorcionNubes
   m_TagString: Untagged
@@ -13002,22 +12644,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &1764656978
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1764656973}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b3081fbb2845bd4dadad4a035f91e9a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ingredientName: Nubes
-  nameText: {fileID: 1320991992}
-  nameBackground: {fileID: 1039490442}
-  heightOffset: 0.7
 --- !u!1 &1793079967
 GameObject:
   m_ObjectHideFlags: 0
@@ -13066,7 +12692,6 @@ GameObject:
   - component: {fileID: 1834364866}
   - component: {fileID: 1834364865}
   - component: {fileID: 1834364864}
-  - component: {fileID: 1834364867}
   m_Layer: 0
   m_Name: Sirope
   m_TagString: Untagged
@@ -13203,22 +12828,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &1834364867
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1834364862}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b3081fbb2845bd4dadad4a035f91e9a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ingredientName: Sirope de chocolate
-  nameText: {fileID: 1320991992}
-  nameBackground: {fileID: 1039490442}
-  heightOffset: 0.7
 --- !u!1 &1834585196
 GameObject:
   m_ObjectHideFlags: 0
@@ -13360,7 +12969,6 @@ GameObject:
   - component: {fileID: 1834629013}
   - component: {fileID: 1834629012}
   - component: {fileID: 1834629011}
-  - component: {fileID: 1834629014}
   m_Layer: 0
   m_Name: PorcionEstrellas
   m_TagString: Untagged
@@ -13497,22 +13105,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &1834629014
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1834629009}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b3081fbb2845bd4dadad4a035f91e9a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ingredientName: Estrellitas
-  nameText: {fileID: 1320991992}
-  nameBackground: {fileID: 1039490442}
-  heightOffset: 0.7
 --- !u!1 &1849986700
 GameObject:
   m_ObjectHideFlags: 0
@@ -13777,7 +13369,6 @@ GameObject:
   - component: {fileID: 1901317610}
   - component: {fileID: 1901317609}
   - component: {fileID: 1901317608}
-  - component: {fileID: 1901317611}
   m_Layer: 0
   m_Name: Sangre
   m_TagString: Untagged
@@ -13914,22 +13505,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &1901317611
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1901317606}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b3081fbb2845bd4dadad4a035f91e9a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ingredientName: Sangre
-  nameText: {fileID: 1320991992}
-  nameBackground: {fileID: 1039490442}
-  heightOffset: 0.7
 --- !u!1 &1902145587
 GameObject:
   m_ObjectHideFlags: 0
@@ -13942,7 +13517,6 @@ GameObject:
   - component: {fileID: 1902145591}
   - component: {fileID: 1902145590}
   - component: {fileID: 1902145589}
-  - component: {fileID: 1902145592}
   m_Layer: 0
   m_Name: PorcionPepinillos
   m_TagString: Untagged
@@ -14079,22 +13653,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &1902145592
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1902145587}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b3081fbb2845bd4dadad4a035f91e9a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ingredientName: Pepinillos
-  nameText: {fileID: 1320991992}
-  nameBackground: {fileID: 1039490442}
-  heightOffset: 0.7
 --- !u!1 &1917347051
 GameObject:
   m_ObjectHideFlags: 0
@@ -14689,7 +14247,6 @@ GameObject:
   - component: {fileID: 2015376010}
   - component: {fileID: 2015376009}
   - component: {fileID: 2015376008}
-  - component: {fileID: 2015376011}
   m_Layer: 0
   m_Name: Carne
   m_TagString: Untagged
@@ -14826,22 +14383,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &2015376011
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2015376006}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b3081fbb2845bd4dadad4a035f91e9a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ingredientName: Carne
-  nameText: {fileID: 1320991992}
-  nameBackground: {fileID: 1039490442}
-  heightOffset: 0.7
 --- !u!1 &2031540809
 GameObject:
   m_ObjectHideFlags: 0
@@ -15344,7 +14885,6 @@ GameObject:
   - component: {fileID: 2063474423}
   - component: {fileID: 2063474422}
   - component: {fileID: 2063474421}
-  - component: {fileID: 2063474424}
   - component: {fileID: 2063474425}
   m_Layer: 5
   m_Name: btn_pausar
@@ -15466,22 +15006,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2063474418}
   m_CullTransparentMesh: 1
---- !u!114 &2063474424
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2063474418}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b3081fbb2845bd4dadad4a035f91e9a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ingredientName: Ajustes
-  nameText: {fileID: 1320991992}
-  nameBackground: {fileID: 1039490442}
-  heightOffset: 0.3
 --- !u!61 &2063474425
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -15880,7 +15404,6 @@ GameObject:
   - component: {fileID: 2096438316}
   - component: {fileID: 2096438315}
   - component: {fileID: 2096438314}
-  - component: {fileID: 2096438317}
   m_Layer: 0
   m_Name: PorcionOjos
   m_TagString: Untagged
@@ -16017,22 +15540,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &2096438317
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2096438312}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b3081fbb2845bd4dadad4a035f91e9a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ingredientName: Ojos
-  nameText: {fileID: 1320991992}
-  nameBackground: {fileID: 1039490442}
-  heightOffset: 0.7
 --- !u!1 &2102656393
 GameObject:
   m_ObjectHideFlags: 0
