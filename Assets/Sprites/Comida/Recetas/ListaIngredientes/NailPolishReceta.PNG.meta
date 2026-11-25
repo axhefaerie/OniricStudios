@@ -1,0 +1,1495 @@
+fileFormatVersion: 2
+guid: f007f7430cc60744d825688bcaaf2034
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7978138760542870068
+    second: NailPolishReceta_0
+  - first:
+      213: -2077002777402161277
+    second: NailPolishReceta_1
+  - first:
+      213: -2073460943894484141
+    second: NailPolishReceta_2
+  - first:
+      213: -2596098895241301751
+    second: NailPolishReceta_3
+  - first:
+      213: -5695978757711105258
+    second: NailPolishReceta_4
+  - first:
+      213: 4004982984729323464
+    second: NailPolishReceta_5
+  - first:
+      213: 4262486979268289847
+    second: NailPolishReceta_6
+  - first:
+      213: 2394264019955664542
+    second: NailPolishReceta_7
+  - first:
+      213: -1131125101640346878
+    second: NailPolishReceta_8
+  - first:
+      213: -3304076171220564551
+    second: NailPolishReceta_9
+  - first:
+      213: 4963804630113794524
+    second: NailPolishReceta_10
+  - first:
+      213: 4092303502889900637
+    second: NailPolishReceta_11
+  - first:
+      213: -2080713318232477951
+    second: NailPolishReceta_12
+  - first:
+      213: -7298773632787167342
+    second: NailPolishReceta_13
+  - first:
+      213: -8391638290592881585
+    second: NailPolishReceta_14
+  - first:
+      213: 4391276273975062901
+    second: NailPolishReceta_15
+  - first:
+      213: 3354596163665413982
+    second: NailPolishReceta_16
+  - first:
+      213: 6166692027066387764
+    second: NailPolishReceta_17
+  - first:
+      213: 8805576954373046533
+    second: NailPolishReceta_18
+  - first:
+      213: -4023465235272345080
+    second: NailPolishReceta_19
+  - first:
+      213: 6926358631938192511
+    second: NailPolishReceta_20
+  - first:
+      213: 6905444693102387265
+    second: NailPolishReceta_21
+  - first:
+      213: -5400666441882883894
+    second: NailPolishReceta_22
+  - first:
+      213: 5187783303559067515
+    second: NailPolishReceta_23
+  - first:
+      213: -5576205846492956259
+    second: NailPolishReceta_24
+  - first:
+      213: -2530713548202156919
+    second: NailPolishReceta_25
+  - first:
+      213: 563890191685696470
+    second: NailPolishReceta_26
+  - first:
+      213: -3156467924820220572
+    second: NailPolishReceta_27
+  - first:
+      213: 5759179256663658297
+    second: NailPolishReceta_28
+  - first:
+      213: 8728834591272953634
+    second: NailPolishReceta_29
+  - first:
+      213: -2448450792850798471
+    second: NailPolishReceta_30
+  - first:
+      213: -1466483573369611605
+    second: NailPolishReceta_31
+  - first:
+      213: -4878782865464283658
+    second: NailPolishReceta_32
+  - first:
+      213: -5759753323718032739
+    second: NailPolishReceta_33
+  - first:
+      213: 6533189908259510237
+    second: NailPolishReceta_34
+  - first:
+      213: 8087232281533358029
+    second: NailPolishReceta_35
+  - first:
+      213: -1584419223379092759
+    second: NailPolishReceta_36
+  - first:
+      213: -6211011628643073534
+    second: NailPolishReceta_37
+  - first:
+      213: 274350347972180288
+    second: NailPolishReceta_38
+  - first:
+      213: 3773233136266668109
+    second: NailPolishReceta_39
+  - first:
+      213: -7168860860339208537
+    second: NailPolishReceta_40
+  - first:
+      213: 1107757493892081004
+    second: NailPolishReceta_41
+  - first:
+      213: -840699858736848990
+    second: NailPolishReceta_42
+  - first:
+      213: -4229347503676153282
+    second: NailPolishReceta_43
+  - first:
+      213: -6833098589546743873
+    second: NailPolishReceta_44
+  - first:
+      213: -6672422547225741186
+    second: NailPolishReceta_45
+  - first:
+      213: 5799872670465592384
+    second: NailPolishReceta_46
+  - first:
+      213: 1838319607790238366
+    second: NailPolishReceta_47
+  - first:
+      213: 5164577280413336568
+    second: NailPolishReceta_48
+  - first:
+      213: -1112095821678701983
+    second: NailPolishReceta_49
+  - first:
+      213: -1450291949776420234
+    second: NailPolishReceta_50
+  - first:
+      213: 6095399530749455891
+    second: NailPolishReceta_51
+  - first:
+      213: 1399230195043597582
+    second: NailPolishReceta_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NailPolishReceta_0
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 789
+        width: 77
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43adee6ceea08be60800000000000000
+      internalID: 7978138760542870068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_1
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 817
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387c1777af00d23e0800000000000000
+      internalID: -2077002777402161277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_2
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 823
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35be587d1469933e0800000000000000
+      internalID: -2073460943894484141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_3
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 728
+        width: 66
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901bb5b3fcdc8fbd0800000000000000
+      internalID: -2596098895241301751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_4
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 748
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613757a9f71d3f0b0800000000000000
+      internalID: -5695978757711105258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_5
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 766
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c766482ece849730800000000000000
+      internalID: 4004982984729323464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_6
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 723
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735a303f255672b30800000000000000
+      internalID: 4262486979268289847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_7
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 760
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96c4f7d0722a3120800000000000000
+      internalID: 2394264019955664542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_8
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 746
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203133886bf6d40f0800000000000000
+      internalID: -1131125101640346878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_9
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 750
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5c09f5a309522d0800000000000000
+      internalID: -3304076171220564551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_10
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 746
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd93f50030af2e440800000000000000
+      internalID: 4963804630113794524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_11
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 722
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ad6da9a58cac830800000000000000
+      internalID: 4092303502889900637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_12
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 703
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f245bd242df13e0800000000000000
+      internalID: -2080713318232477951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_13
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 749
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297cbb13d0c85ba90800000000000000
+      internalID: -7298773632787167342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_14
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 740
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4425ad7f69ea8b80800000000000000
+      internalID: -8391638290592881585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_15
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 701
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57172e45182f0fc30800000000000000
+      internalID: 4391276273975062901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_16
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 731
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e574a2cff6bed8e20800000000000000
+      internalID: 3354596163665413982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_17
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 713
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d8680e9bd749550800000000000000
+      internalID: 6166692027066387764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_18
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 708
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50185c70691b33a70800000000000000
+      internalID: 8805576954373046533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_19
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 714
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a557d8fa7c928c0800000000000000
+      internalID: -4023465235272345080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_20
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 697
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74f2a37a7e5f1060800000000000000
+      internalID: 6926358631938192511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_21
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 696
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140697c9c5115df50800000000000000
+      internalID: 6905444693102387265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_22
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 673
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8a23d2c7afc05b0800000000000000
+      internalID: -5400666441882883894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_23
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 674
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b773754bd65bef740800000000000000
+      internalID: 5187783303559067515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_24
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 683
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99b45d93565d92b0800000000000000
+      internalID: -5576205846492956259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_25
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 643
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c542baf6911ecd0800000000000000
+      internalID: -2530713548202156919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_26
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 658
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbb0c7442753d700800000000000000
+      internalID: 563890191685696470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_27
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 654
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4652d246529f134d0800000000000000
+      internalID: -3156467924820220572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_28
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 662
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f4c3f3507bcef40800000000000000
+      internalID: 5759179256663658297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_29
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 606
+        width: 74
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22767fb30dc032970800000000000000
+      internalID: 8728834591272953634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_30
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 599
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978ca12f9fa550ed0800000000000000
+      internalID: -2448450792850798471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_31
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 600
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baadb54b5f006abe0800000000000000
+      internalID: -1466483573369611605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_32
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 564
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd2dbf25d41b4cb0800000000000000
+      internalID: -4878782865464283658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_33
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 563
+        width: 45
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9249e95ede3110b0800000000000000
+      internalID: -5759753323718032739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_34
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 543
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd799f37b9d8aaa50800000000000000
+      internalID: 6533189908259510237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_35
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 539
+        width: 58
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf1edc79ee9b3070800000000000000
+      internalID: 8087232281533358029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_36
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 545
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea50376c13030ae0800000000000000
+      internalID: -1584419223379092759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_37
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 552
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202c8e2c4dd0ec9a0800000000000000
+      internalID: -6211011628643073534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_38
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 563
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049f2ea1030bec300800000000000000
+      internalID: 274350347972180288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_39
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 538
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4868e5cb873d5430800000000000000
+      internalID: 3773233136266668109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_40
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 502
+        width: 92
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aeb74f9707138c90800000000000000
+      internalID: -7168860860339208537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_41
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 530
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65e6b0529b8f5f00800000000000000
+      internalID: 1107757493892081004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_42
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 543
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afd445ceeb3554f0800000000000000
+      internalID: -840699858736848990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_43
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 504
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32a2bb7ad65e45c0800000000000000
+      internalID: -4229347503676153282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_44
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 498
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7f7de3905fb21a0800000000000000
+      internalID: -6833098589546743873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_45
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 498
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e787d499b0bc663a0800000000000000
+      internalID: -6672422547225741186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_46
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 503
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c0999f6794d7050800000000000000
+      internalID: 5799872670465592384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_47
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 452
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9af8f581f5038910800000000000000
+      internalID: 1838319607790238366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_48
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 486
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f307166ca34ca740800000000000000
+      internalID: 5164577280413336568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_49
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 439
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16215a80eba0190f0800000000000000
+      internalID: -1112095821678701983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_50
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 469
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672c7f8d7278fdbe0800000000000000
+      internalID: -1450291949776420234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_51
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 450
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e67621495379450800000000000000
+      internalID: 6095399530749455891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NailPolishReceta_52
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 442
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0df29ee2701b6310800000000000000
+      internalID: 1399230195043597582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NailPolishReceta_0: 7978138760542870068
+      NailPolishReceta_1: -2077002777402161277
+      NailPolishReceta_10: 4963804630113794524
+      NailPolishReceta_11: 4092303502889900637
+      NailPolishReceta_12: -2080713318232477951
+      NailPolishReceta_13: -7298773632787167342
+      NailPolishReceta_14: -8391638290592881585
+      NailPolishReceta_15: 4391276273975062901
+      NailPolishReceta_16: 3354596163665413982
+      NailPolishReceta_17: 6166692027066387764
+      NailPolishReceta_18: 8805576954373046533
+      NailPolishReceta_19: -4023465235272345080
+      NailPolishReceta_2: -2073460943894484141
+      NailPolishReceta_20: 6926358631938192511
+      NailPolishReceta_21: 6905444693102387265
+      NailPolishReceta_22: -5400666441882883894
+      NailPolishReceta_23: 5187783303559067515
+      NailPolishReceta_24: -5576205846492956259
+      NailPolishReceta_25: -2530713548202156919
+      NailPolishReceta_26: 563890191685696470
+      NailPolishReceta_27: -3156467924820220572
+      NailPolishReceta_28: 5759179256663658297
+      NailPolishReceta_29: 8728834591272953634
+      NailPolishReceta_3: -2596098895241301751
+      NailPolishReceta_30: -2448450792850798471
+      NailPolishReceta_31: -1466483573369611605
+      NailPolishReceta_32: -4878782865464283658
+      NailPolishReceta_33: -5759753323718032739
+      NailPolishReceta_34: 6533189908259510237
+      NailPolishReceta_35: 8087232281533358029
+      NailPolishReceta_36: -1584419223379092759
+      NailPolishReceta_37: -6211011628643073534
+      NailPolishReceta_38: 274350347972180288
+      NailPolishReceta_39: 3773233136266668109
+      NailPolishReceta_4: -5695978757711105258
+      NailPolishReceta_40: -7168860860339208537
+      NailPolishReceta_41: 1107757493892081004
+      NailPolishReceta_42: -840699858736848990
+      NailPolishReceta_43: -4229347503676153282
+      NailPolishReceta_44: -6833098589546743873
+      NailPolishReceta_45: -6672422547225741186
+      NailPolishReceta_46: 5799872670465592384
+      NailPolishReceta_47: 1838319607790238366
+      NailPolishReceta_48: 5164577280413336568
+      NailPolishReceta_49: -1112095821678701983
+      NailPolishReceta_5: 4004982984729323464
+      NailPolishReceta_50: -1450291949776420234
+      NailPolishReceta_51: 6095399530749455891
+      NailPolishReceta_52: 1399230195043597582
+      NailPolishReceta_6: 4262486979268289847
+      NailPolishReceta_7: 2394264019955664542
+      NailPolishReceta_8: -1131125101640346878
+      NailPolishReceta_9: -3304076171220564551
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

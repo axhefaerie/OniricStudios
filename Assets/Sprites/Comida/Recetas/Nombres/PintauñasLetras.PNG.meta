@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: d55b2a8aaf585d042bba9c3b9340b695
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4780395439695940495
+    second: "Pintau\xF1asLetras_0"
+  - first:
+      213: 9076660918140003395
+    second: "Pintau\xF1asLetras_1"
+  - first:
+      213: 6250456998610703797
+    second: "Pintau\xF1asLetras_2"
+  - first:
+      213: 7967599137364009732
+    second: "Pintau\xF1asLetras_3"
+  - first:
+      213: 3581464245551790795
+    second: "Pintau\xF1asLetras_4"
+  - first:
+      213: -4469607378579395852
+    second: "Pintau\xF1asLetras_5"
+  - first:
+      213: -1626250007809614991
+    second: "Pintau\xF1asLetras_6"
+  - first:
+      213: 8398099833943366395
+    second: "Pintau\xF1asLetras_7"
+  - first:
+      213: -4575029753065111673
+    second: "Pintau\xF1asLetras_8"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Pintau\xF1asLetras_0"
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 879
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b49f42350675240800000000000000
+      internalID: 4780395439695940495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pintau\xF1asLetras_1"
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 917
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344e76cc307c6fd70800000000000000
+      internalID: 9076660918140003395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pintau\xF1asLetras_2"
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 896
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b59b0e16851eb650800000000000000
+      internalID: 6250456998610703797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pintau\xF1asLetras_3"
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 835
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4036a478339929e60800000000000000
+      internalID: 7967599137364009732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pintau\xF1asLetras_4"
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 850
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca70e381cae3b130800000000000000
+      internalID: 3581464245551790795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pintau\xF1asLetras_5"
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 858
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa6f4a25c3c8f1c0800000000000000
+      internalID: -4469607378579395852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pintau\xF1asLetras_6"
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 868
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b1880fb366e69e0800000000000000
+      internalID: -1626250007809614991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pintau\xF1asLetras_7"
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 811
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa167ecd4b0c8470800000000000000
+      internalID: 8398099833943366395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pintau\xF1asLetras_8"
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 827
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ff5bbddaa3280c0800000000000000
+      internalID: -4575029753065111673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Pintau\xF1asLetras_0": 4780395439695940495
+      "Pintau\xF1asLetras_1": 9076660918140003395
+      "Pintau\xF1asLetras_2": 6250456998610703797
+      "Pintau\xF1asLetras_3": 7967599137364009732
+      "Pintau\xF1asLetras_4": 3581464245551790795
+      "Pintau\xF1asLetras_5": -4469607378579395852
+      "Pintau\xF1asLetras_6": -1626250007809614991
+      "Pintau\xF1asLetras_7": 8398099833943366395
+      "Pintau\xF1asLetras_8": -4575029753065111673
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

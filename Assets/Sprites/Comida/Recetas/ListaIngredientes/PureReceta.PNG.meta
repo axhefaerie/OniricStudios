@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: 21313494f6dac9a4ea367bff49243f1e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -614092404705747912
+    second: PureReceta_0
+  - first:
+      213: 7238912112927649216
+    second: PureReceta_1
+  - first:
+      213: 1850395522286873557
+    second: PureReceta_2
+  - first:
+      213: -3983361456862038419
+    second: PureReceta_3
+  - first:
+      213: 5275221135485439217
+    second: PureReceta_4
+  - first:
+      213: 2142613700806965527
+    second: PureReceta_5
+  - first:
+      213: 4478124367468249367
+    second: PureReceta_6
+  - first:
+      213: -4659021378897119654
+    second: PureReceta_7
+  - first:
+      213: 1800669822975407723
+    second: PureReceta_8
+  - first:
+      213: 4088659800087139836
+    second: PureReceta_9
+  - first:
+      213: -8514312140544952673
+    second: PureReceta_10
+  - first:
+      213: 2078307868313737930
+    second: PureReceta_11
+  - first:
+      213: 5082456818665914668
+    second: PureReceta_12
+  - first:
+      213: 8848964925766424600
+    second: PureReceta_13
+  - first:
+      213: 4332677797358323008
+    second: PureReceta_14
+  - first:
+      213: -603285016758937280
+    second: PureReceta_15
+  - first:
+      213: -5310851201687563342
+    second: PureReceta_16
+  - first:
+      213: -1370009448185898089
+    second: PureReceta_17
+  - first:
+      213: 4672680661184824594
+    second: PureReceta_18
+  - first:
+      213: 5092811450459381248
+    second: PureReceta_19
+  - first:
+      213: -3289975798442696208
+    second: PureReceta_20
+  - first:
+      213: -2366511719781343881
+    second: PureReceta_21
+  - first:
+      213: 3940251436471550828
+    second: PureReceta_22
+  - first:
+      213: 176469234018853588
+    second: PureReceta_23
+  - first:
+      213: 2504193654660952095
+    second: PureReceta_24
+  - first:
+      213: -4616187453292836285
+    second: PureReceta_25
+  - first:
+      213: 9200131833646788315
+    second: PureReceta_26
+  - first:
+      213: -1009176628378751437
+    second: PureReceta_27
+  - first:
+      213: 8394736269155520844
+    second: PureReceta_28
+  - first:
+      213: -121663489585735829
+    second: PureReceta_29
+  - first:
+      213: 3861828135520892238
+    second: PureReceta_30
+  - first:
+      213: 5125143724919440597
+    second: PureReceta_31
+  - first:
+      213: 3301201356779067950
+    second: PureReceta_32
+  - first:
+      213: -6673578895253785376
+    second: PureReceta_33
+  - first:
+      213: 7615527851571286633
+    second: PureReceta_34
+  - first:
+      213: -1595522635321434778
+    second: PureReceta_35
+  - first:
+      213: 5013061005284661605
+    second: PureReceta_36
+  - first:
+      213: -4496432869728470270
+    second: PureReceta_37
+  - first:
+      213: -7125539809007441064
+    second: PureReceta_38
+  - first:
+      213: 594342218392581562
+    second: PureReceta_39
+  - first:
+      213: 1839280863009682146
+    second: PureReceta_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PureReceta_0
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 795
+        width: 76
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c9f36263e4a77f0800000000000000
+      internalID: -614092404705747912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PureReceta_1
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 828
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd235b9638c57460800000000000000
+      internalID: 7238912112927649216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PureReceta_2
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 743
+        width: 53
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbe1e77ceceda910800000000000000
+      internalID: 1850395522286873557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PureReceta_3
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 741
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6671c71cd148b8c0800000000000000
+      internalID: -3983361456862038419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PureReceta_4
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 766
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc0e346ca9553940800000000000000
+      internalID: 5275221135485439217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PureReceta_5
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 706
+        width: 100
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719fb7f0fc71cbd10800000000000000
+      internalID: 2142613700806965527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PureReceta_6
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 765
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71147f6d26e752e30800000000000000
+      internalID: 4478124367468249367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PureReceta_7
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 720
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56f2ed8db4d75fb0800000000000000
+      internalID: -4659021378897119654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PureReceta_8
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 720
+        width: 66
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66f634e9a34df810800000000000000
+      internalID: 1800669822975407723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PureReceta_9
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 704
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf51d9fec66ddb830800000000000000
+      internalID: 4088659800087139836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PureReceta_10
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 658
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96b50c083617d980800000000000000
+      internalID: -8514312140544952673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PureReceta_11
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 657
+        width: 96
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca5db0bef1a7dc10800000000000000
+      internalID: 2078307868313737930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PureReceta_12
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 610
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2108de6c83888640800000000000000
+      internalID: 5082456818665914668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PureReceta_13
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 615
+        width: 54
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818d23657b6ddca70800000000000000
+      internalID: 8848964925766424600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PureReceta_14
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 595
+        width: 83
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045c3cd4083c02c30800000000000000
+      internalID: 4332677797358323008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PureReceta_15
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 602
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04994cd3973b0a7f0800000000000000
+      internalID: -603285016758937280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PureReceta_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 618
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3d47c58f01c46b0800000000000000
+      internalID: -5310851201687563342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PureReceta_17
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 590
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b53fd5aafbcfce0800000000000000
+      internalID: -1370009448185898089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PureReceta_18
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 602
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21542ceed42b8d040800000000000000
+      internalID: 4672680661184824594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PureReceta_19
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 569
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e5ca4080d4da640800000000000000
+      internalID: 5092811450459381248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PureReceta_20
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 499
+        width: 139
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1e03e3178a752d0800000000000000
+      internalID: -3289975798442696208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PureReceta_21
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 545
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d52a11126782fd0800000000000000
+      internalID: -2366511719781343881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PureReceta_22
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 545
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c630c9c1ec59ea630800000000000000
+      internalID: 3940251436471550828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PureReceta_23
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 554
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2aa7755d1f27200800000000000000
+      internalID: 176469234018853588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PureReceta_24
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 522
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f107ad27cdea0c220800000000000000
+      internalID: 2504193654660952095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PureReceta_25
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 528
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a8dd508f100ffb0800000000000000
+      internalID: -4616187453292836285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PureReceta_26
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 537
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdea747882f6daf70800000000000000
+      internalID: 9200131833646788315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PureReceta_27
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 545
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33eabdd043faef1f0800000000000000
+      internalID: -1009176628378751437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PureReceta_28
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 535
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c415a1ad828108470800000000000000
+      internalID: 8394736269155520844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PureReceta_29
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 508
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b679b1963b3cf4ef0800000000000000
+      internalID: -121663489585735829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PureReceta_30
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 484
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45f4597a38f79530800000000000000
+      internalID: 3861828135520892238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PureReceta_31
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 486
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d445aa401b202740800000000000000
+      internalID: 5125143724919440597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PureReceta_32
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 474
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a9adab42930dd20800000000000000
+      internalID: 3301201356779067950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PureReceta_33
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 477
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4bad75a5fa263a0800000000000000
+      internalID: -6673578895253785376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PureReceta_34
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 511
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96210027b3acfa960800000000000000
+      internalID: 7615527851571286633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PureReceta_35
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 488
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d129add909bd9e0800000000000000
+      internalID: -1595522635321434778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PureReceta_36
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 487
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569da598c68f19540800000000000000
+      internalID: 5013061005284661605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PureReceta_37
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 445
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20bb17bc0267991c0800000000000000
+      internalID: -4496432869728470270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PureReceta_38
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 453
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85be433eb4ffc1d90800000000000000
+      internalID: -7125539809007441064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PureReceta_39
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 431
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5be4249178f3800800000000000000
+      internalID: 594342218392581562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PureReceta_40
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 424
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2bdd13330768910800000000000000
+      internalID: 1839280863009682146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PureReceta_0: -614092404705747912
+      PureReceta_1: 7238912112927649216
+      PureReceta_10: -8514312140544952673
+      PureReceta_11: 2078307868313737930
+      PureReceta_12: 5082456818665914668
+      PureReceta_13: 8848964925766424600
+      PureReceta_14: 4332677797358323008
+      PureReceta_15: -603285016758937280
+      PureReceta_16: -5310851201687563342
+      PureReceta_17: -1370009448185898089
+      PureReceta_18: 4672680661184824594
+      PureReceta_19: 5092811450459381248
+      PureReceta_2: 1850395522286873557
+      PureReceta_20: -3289975798442696208
+      PureReceta_21: -2366511719781343881
+      PureReceta_22: 3940251436471550828
+      PureReceta_23: 176469234018853588
+      PureReceta_24: 2504193654660952095
+      PureReceta_25: -4616187453292836285
+      PureReceta_26: 9200131833646788315
+      PureReceta_27: -1009176628378751437
+      PureReceta_28: 8394736269155520844
+      PureReceta_29: -121663489585735829
+      PureReceta_3: -3983361456862038419
+      PureReceta_30: 3861828135520892238
+      PureReceta_31: 5125143724919440597
+      PureReceta_32: 3301201356779067950
+      PureReceta_33: -6673578895253785376
+      PureReceta_34: 7615527851571286633
+      PureReceta_35: -1595522635321434778
+      PureReceta_36: 5013061005284661605
+      PureReceta_37: -4496432869728470270
+      PureReceta_38: -7125539809007441064
+      PureReceta_39: 594342218392581562
+      PureReceta_4: 5275221135485439217
+      PureReceta_40: 1839280863009682146
+      PureReceta_5: 2142613700806965527
+      PureReceta_6: 4478124367468249367
+      PureReceta_7: -4659021378897119654
+      PureReceta_8: 1800669822975407723
+      PureReceta_9: 4088659800087139836
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

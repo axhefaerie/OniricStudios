@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6e59ab3c07384a4bbc9a6c1945901d6, type: 3}
+  m_Name: Gildas
+  m_EditorClassIdentifier: 
+  name: Gildas
+  recipeSprite: {fileID: 21300000, guid: 8a32b6f00e1e6b14885b09843e7d5500, type: 3}
+  recipeName: {fileID: 21300000, guid: 0c7cc94d5bb79cb4da5c70fed3cc1952, type: 3}
+  bookSprite: {fileID: 6578771300620073696, guid: 3d88b26873ada4749b859e9ca04453ff, type: 3}
+  recipeCharacteristics: "Una picante e intensa combinaci\xF3n de sabores."
+  ingredientsSprite: {fileID: 21300000, guid: af2e92dec9984a744b2f1ffc3e5eef04, type: 3}
+  baseIngredient: {fileID: 11400000, guid: d41876e64a749ca41b5e0736a70fae0c, type: 2}
+  sauceIngredients: []
+  toppingIngredients:
+  - {fileID: 11400000, guid: 303bf8ad0b028fa4f89e1a45b8e2319c, type: 2}
+  - {fileID: 11400000, guid: d1052cc269af4f043beab01697b38f61, type: 2}
+  - {fileID: 11400000, guid: bb210e0dcfac9fc41954cbbe8aa887c5, type: 2}

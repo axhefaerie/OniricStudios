@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 67dd0d7f0c9e3484c822b534733496ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3941366640338393406
+    second: BobaReceta_0
+  - first:
+      213: 519353786814213968
+    second: BobaReceta_1
+  - first:
+      213: 6821546644949088359
+    second: BobaReceta_2
+  - first:
+      213: -3934795613615232989
+    second: BobaReceta_3
+  - first:
+      213: -7458343696035526863
+    second: BobaReceta_4
+  - first:
+      213: 2799745138769564722
+    second: BobaReceta_5
+  - first:
+      213: 4377403305201645983
+    second: BobaReceta_6
+  - first:
+      213: -4056369435074411067
+    second: BobaReceta_7
+  - first:
+      213: 4648809260913571595
+    second: BobaReceta_8
+  - first:
+      213: 2629045528871287887
+    second: BobaReceta_9
+  - first:
+      213: -3232578842315674079
+    second: BobaReceta_10
+  - first:
+      213: 1605309088817880541
+    second: BobaReceta_11
+  - first:
+      213: -8509419973468736506
+    second: BobaReceta_12
+  - first:
+      213: -4913720091074769682
+    second: BobaReceta_13
+  - first:
+      213: 8771395433393867952
+    second: BobaReceta_14
+  - first:
+      213: 5218068806049265016
+    second: BobaReceta_15
+  - first:
+      213: -3882525771886438411
+    second: BobaReceta_16
+  - first:
+      213: 2840627969258316389
+    second: BobaReceta_17
+  - first:
+      213: 955541107185105692
+    second: BobaReceta_18
+  - first:
+      213: -2407699655416068025
+    second: BobaReceta_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BobaReceta_0
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 759
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c62e014ce37d49c0800000000000000
+      internalID: -3941366640338393406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobaReceta_1
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 791
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fa0d7748d153700800000000000000
+      internalID: 519353786814213968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobaReceta_2
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 797
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768b2fe08800bae50800000000000000
+      internalID: 6821546644949088359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobaReceta_3
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 721
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328e2b2ac3cc469c0800000000000000
+      internalID: -3934795613615232989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobaReceta_4
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 733
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1374709ace3ae7890800000000000000
+      internalID: -7458343696035526863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobaReceta_5
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 741
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2349cf9be51bad620800000000000000
+      internalID: 2799745138769564722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobaReceta_6
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 684
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f993a251d19afbc30800000000000000
+      internalID: 4377403305201645983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobaReceta_7
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 719
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c543a88d71e4b7c0800000000000000
+      internalID: -4056369435074411067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobaReceta_8
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 661
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07bc417463e38040800000000000000
+      internalID: 4648809260913571595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobaReceta_9
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 696
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cb3beaafe3c7420800000000000000
+      internalID: 2629045528871287887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobaReceta_10
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 673
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ea45b7ba29323d0800000000000000
+      internalID: -3232578842315674079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobaReceta_11
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 683
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd12b96c14374610800000000000000
+      internalID: 1605309088817880541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobaReceta_12
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 663
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60438c47e9778e980800000000000000
+      internalID: -8509419973468736506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobaReceta_13
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 630
+        width: 77
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eecc9c57c95fecbb0800000000000000
+      internalID: -4913720091074769682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobaReceta_14
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 606
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcccef7ca14ab970800000000000000
+      internalID: 8771395433393867952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobaReceta_15
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 638
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875fc1ebeed4a6840800000000000000
+      internalID: 5218068806049265016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobaReceta_16
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 625
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7d867816f7e1ac0800000000000000
+      internalID: -3882525771886438411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobaReceta_17
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 634
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5626ea67610fb6720800000000000000
+      internalID: 2840627969258316389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobaReceta_18
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 611
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b3d060393c24d00800000000000000
+      internalID: 955541107185105692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BobaReceta_19
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 599
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74848118be1269ed0800000000000000
+      internalID: -2407699655416068025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BobaReceta_0: -3941366640338393406
+      BobaReceta_1: 519353786814213968
+      BobaReceta_10: -3232578842315674079
+      BobaReceta_11: 1605309088817880541
+      BobaReceta_12: -8509419973468736506
+      BobaReceta_13: -4913720091074769682
+      BobaReceta_14: 8771395433393867952
+      BobaReceta_15: 5218068806049265016
+      BobaReceta_16: -3882525771886438411
+      BobaReceta_17: 2840627969258316389
+      BobaReceta_18: 955541107185105692
+      BobaReceta_19: -2407699655416068025
+      BobaReceta_2: 6821546644949088359
+      BobaReceta_3: -3934795613615232989
+      BobaReceta_4: -7458343696035526863
+      BobaReceta_5: 2799745138769564722
+      BobaReceta_6: 4377403305201645983
+      BobaReceta_7: -4056369435074411067
+      BobaReceta_8: 4648809260913571595
+      BobaReceta_9: 2629045528871287887
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
