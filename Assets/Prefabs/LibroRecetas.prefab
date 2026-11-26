@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3874405310919516686}
   - component: {fileID: 7868125692452402506}
   - component: {fileID: 4779291657828401382}
+  - component: {fileID: 5999875844660320835}
   m_Layer: 0
   m_Name: BotonAtras
   m_TagString: Untagged
@@ -133,6 +134,20 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!114 &5999875844660320835
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 98431729176876337}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa57571c64fd45142b226dfbef6161a4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sfxSound: pasarPaginaSound
+  playOnClick: 1
 --- !u!1 &151154975280570890
 GameObject:
   m_ObjectHideFlags: 0
@@ -948,6 +963,7 @@ GameObject:
   - component: {fileID: 3085831208930063535}
   - component: {fileID: 5381959861815588277}
   - component: {fileID: 870860802277184552}
+  - component: {fileID: 660917564482941357}
   m_Layer: 0
   m_Name: BotonSiguiente
   m_TagString: Untagged
@@ -1069,6 +1085,20 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!114 &660917564482941357
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4866753234204043662}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa57571c64fd45142b226dfbef6161a4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sfxSound: pasarPaginaSound
+  playOnClick: 1
 --- !u!1 &5830738227268732008
 GameObject:
   m_ObjectHideFlags: 0

@@ -79,11 +79,19 @@ public class OvenComponent : MonoBehaviour
 
         minigamePanel.SetActive(false);
 
+        ///////// ESTOOOOOOOO NO FUNCIONA, NO SE REPRODUCE EL SONIDO DE SALIR DEL HORNO MAL, HAY QUE MIRARLO BIEN
+        ///
+        SFXComponent salirHornoMalSound = GetComponentInParent<SFXComponent>();
+        if (salirHornoMalSound != null)
+        {
+            salirHornoMalSound.PlaySfxSound();
+        }
+
         currentPlate.transform.position = transform.position;
         currentPlate.GetComponent<Draggable>().SetOriginalPosition(transform.position);
         currentPlate.gameObject.SetActive(true);
         currentPlate.HidePlateSprite();   // ocultar el plato, dejar las cenizas
-
+        
         currentPlate = null;
         isCooking = false;
         isReady = true;

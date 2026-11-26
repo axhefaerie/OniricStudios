@@ -200,6 +200,12 @@ MonoBehaviour:
   - {fileID: 8300000, guid: 8844e12950ccbaf41827e9b7a6acb0fb, type: 3}
   sfxClips:
   - {fileID: 8300000, guid: 85d644d4c44cff94fba006238276e02b, type: 3}
+  - {fileID: 8300000, guid: 8cd904567e1d64b4cbfe999a27c9b998, type: 3}
+  - {fileID: 8300000, guid: 51e98a5f702811a488ed5015b40f6282, type: 3}
+  - {fileID: 8300000, guid: 3c93745cfa901a144976c52c1fe4a66d, type: 3}
+  - {fileID: 8300000, guid: e64506c9fa4ade64c8f3c81ca480bb6a, type: 3}
+  - {fileID: 8300000, guid: 1d919a7b3b4b1724bbb8ab69ef9a7f86, type: 3}
+  - {fileID: 8300000, guid: 693e7ec7977a5ca46b0f951677205df9, type: 3}
 --- !u!4 &120030620
 Transform:
   m_ObjectHideFlags: 0
@@ -807,6 +813,7 @@ GameObject:
   - component: {fileID: 505002144}
   - component: {fileID: 505002143}
   - component: {fileID: 505002142}
+  - component: {fileID: 505002146}
   m_Layer: 5
   m_Name: btn_creditos
   m_TagString: Button
@@ -950,6 +957,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 505002140}
   m_CullTransparentMesh: 1
+--- !u!114 &505002146
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 505002140}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa57571c64fd45142b226dfbef6161a4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sfxSound: creditosSound
+  playOnClick: 1
 --- !u!1 &584751913
 GameObject:
   m_ObjectHideFlags: 0
@@ -1737,12 +1758,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1111637296}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -9720}
+  m_LocalScale: {x: 108, y: 108, z: 108}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1940312944}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1132977166
 GameObject:
@@ -2524,6 +2545,7 @@ RectTransform:
   - {fileID: 222069805}
   - {fileID: 505002141}
   - {fileID: 736114210}
+  - {fileID: 1111637299}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -2558,7 +2580,6 @@ SceneRoots:
   m_Roots:
   - {fileID: 616398882}
   - {fileID: 1940312944}
-  - {fileID: 1111637299}
   - {fileID: 120030620}
   - {fileID: 17875825}
   - {fileID: 584751914}

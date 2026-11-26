@@ -31,8 +31,7 @@ public class NewMonoBehaviourScript : MonoBehaviour
         Save();
     }
 
-    //vale esto es de un tutorial que estoy viendo para que se guarde entre usos la config del sonido
-    // NI IDEA de si funcionará
+    
     private void Load()
     {
         volumeSlider.value = PlayerPrefs.GetFloat("musicVolume");

@@ -5789,8 +5789,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1105086561}
   - component: {fileID: 1105086560}
-  - component: {fileID: 1105086559}
   - component: {fileID: 1105086562}
+  - component: {fileID: 1105086563}
   m_Layer: 0
   m_Name: papelera
   m_TagString: Untagged
@@ -5798,19 +5798,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1105086559
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1105086558}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6b86c4ede1649ce4180ec243fe7b7cbd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  trashSfx: basura
 --- !u!212 &1105086560
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -5927,6 +5914,19 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &1105086563
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1105086558}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa57571c64fd45142b226dfbef6161a4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sfxSound: basura
 --- !u!1 &1111622247
 GameObject:
   m_ObjectHideFlags: 0

@@ -40,11 +40,11 @@ public class DragPlate : Draggable
 
             //LÖGICA DE TIRAR PLATO A LA BASURA
             // Comprobar si hemos soltado el plato sobre la papelera
-            TrashComponent trash = hit.GetComponentInParent<TrashComponent>();
+            SFXComponent trash = hit.GetComponentInParent<SFXComponent>();
 
             if (trash != null)
             {
-                trash.PlayTrashSound();
+                trash.PlaySfxSound();
                 PlateComponent plate = GetComponent<PlateComponent>();
 
                 if (plate != null)
