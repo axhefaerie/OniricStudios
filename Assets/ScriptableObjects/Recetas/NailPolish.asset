@@ -15,7 +15,7 @@ MonoBehaviour:
   name: "Pintau\xF1as"
   recipeSprite: {fileID: 21300000, guid: c2e69c6ddf48cd94aa387478496c0eb4, type: 3}
   recipeName: {fileID: 21300000, guid: d55b2a8aaf585d042bba9c3b9340b695, type: 3}
-  bookSprite: {fileID: -7487461736307168165, guid: d95ec75e52d4d9a44b8e56e285abe4b4, type: 3}
+  bookSprite: {fileID: 21300000, guid: d95ec75e52d4d9a44b8e56e285abe4b4, type: 3}
   recipeCharacteristics: Una gran variedad de tonos para todos los gustso.
   ingredientsSprite: {fileID: 21300000, guid: f007f7430cc60744d825688bcaaf2034, type: 3}
   baseIngredient: {fileID: 11400000, guid: d41876e64a749ca41b5e0736a70fae0c, type: 2}

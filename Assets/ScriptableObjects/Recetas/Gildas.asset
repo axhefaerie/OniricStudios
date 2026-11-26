@@ -15,7 +15,7 @@ MonoBehaviour:
   name: Gildas
   recipeSprite: {fileID: 21300000, guid: 8a32b6f00e1e6b14885b09843e7d5500, type: 3}
   recipeName: {fileID: 21300000, guid: 0c7cc94d5bb79cb4da5c70fed3cc1952, type: 3}
-  bookSprite: {fileID: 6578771300620073696, guid: 3d88b26873ada4749b859e9ca04453ff, type: 3}
+  bookSprite: {fileID: 21300000, guid: 3d88b26873ada4749b859e9ca04453ff, type: 3}
   recipeCharacteristics: "Una picante e intensa combinaci\xF3n de sabores."
   ingredientsSprite: {fileID: 21300000, guid: af2e92dec9984a744b2f1ffc3e5eef04, type: 3}
   baseIngredient: {fileID: 11400000, guid: d41876e64a749ca41b5e0736a70fae0c, type: 2}

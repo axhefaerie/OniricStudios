@@ -103,10 +103,10 @@ TextureImporter:
       name: MisterJagger_0
       rect:
         serializedVersion: 2
-        x: 433
-        y: 114
-        width: 1248
-        height: 2491
+        x: 554
+        y: 148
+        width: 1052
+        height: 2098
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

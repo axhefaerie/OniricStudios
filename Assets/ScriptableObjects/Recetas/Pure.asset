@@ -15,7 +15,7 @@ MonoBehaviour:
   name: "Pure navide\xF1o"
   recipeSprite: {fileID: 21300000, guid: 37a3c869525d2e54d9ab0909e5b78ebc, type: 3}
   recipeName: {fileID: 21300000, guid: 7a12363d44917c74a96cb754e5ce627c, type: 3}
-  bookSprite: {fileID: -8746216287646767862, guid: 494d853eda7a43e45becd26ec80005d8, type: 3}
+  bookSprite: {fileID: 21300000, guid: 494d853eda7a43e45becd26ec80005d8, type: 3}
   recipeCharacteristics: "El plato navide\xF1o definitivo."
   ingredientsSprite: {fileID: 21300000, guid: 21313494f6dac9a4ea367bff49243f1e, type: 3}
   baseIngredient: {fileID: 11400000, guid: b26c6699952953247b554fc72110de89, type: 2}

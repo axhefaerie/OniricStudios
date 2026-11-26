@@ -15,7 +15,7 @@ MonoBehaviour:
   name: Churros
   recipeSprite: {fileID: 21300000, guid: 68d983a5a9badd242821a7b9b6e71405, type: 3}
   recipeName: {fileID: 21300000, guid: a33162e641924b14f8e28b4cb43a93a5, type: 3}
-  bookSprite: {fileID: -3051586172680522826, guid: 0176519649b8a934fb5896813d1386f7, type: 3}
+  bookSprite: {fileID: 21300000, guid: 0176519649b8a934fb5896813d1386f7, type: 3}
   recipeCharacteristics: "Lo mejor para un d\xEDa de fr\xEDo."
   ingredientsSprite: {fileID: 21300000, guid: 526dcc2156448214a9e2c459231df22a, type: 3}
   baseIngredient: {fileID: 11400000, guid: b26c6699952953247b554fc72110de89, type: 2}
