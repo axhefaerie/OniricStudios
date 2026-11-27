@@ -14,9 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   customerName: Santiago
   sprite: {fileID: -7698972732032084838, guid: 62ad6b15221969e4bbfbeb14fb355aa7, type: 3}
+  blinkSprite: {fileID: -7698972732032084838, guid: 62ad6b15221969e4bbfbeb14fb355aa7, type: 3}
+  eatSprite: {fileID: -7698972732032084838, guid: 62ad6b15221969e4bbfbeb14fb355aa7, type: 3}
   iconMobileSprite: {fileID: 8245175829003155614, guid: 9c736eebd10bf604aad35e41d638035f, type: 3}
   isSpecial: 0
-  spawnPosition: {x: -1.3, y: -0.2, z: 0}
+  spawnPosition: {x: -0.8, y: -0.2, z: 0}
   preferences:
   - {fileID: 11400000, guid: c818a544baacf24449313b2c8e57b5cd, type: 2}
   assignedFlower: {fileID: 0}

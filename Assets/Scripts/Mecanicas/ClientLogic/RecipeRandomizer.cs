@@ -27,8 +27,10 @@ public class RecipeRandomizer : MonoBehaviour
     public IngredientComponent requestedFlower;
 
     private bool orderCompleted = false;
+    public bool OrderCompleted => orderCompleted;
 
     private string orderText;       // Guarda el texto de pedido
+
 
     private void Start()
     {
@@ -55,54 +57,27 @@ public class RecipeRandomizer : MonoBehaviour
     // Escoge una receta aleatoria del libro de recetas
     public void GenerateRandomRecipe()
     {
-        if (customerType == null)
-        {
-            Debug.LogWarning("Cliente sin CustomerType");
-            return;
-        }
+        if (customerType == null)  return; 
 
-        if (customerType.preferences == null || customerType.preferences.Count == 0)
-        {
-            Debug.LogWarning("Cliente sin preferencias");
-            return;
-        }
+        if (customerType.preferences == null || customerType.preferences.Count == 0) return; 
 
-        if (availableFlowers == null || availableFlowers.Count == 0)
-        {
-            Debug.LogWarning("No hay flores disponibles para los pedidos");
-            return;
-        }
+        if (availableFlowers == null || availableFlowers.Count == 0) return;
 
         // Elegir UNA preferencia al azar (normal y especial usan lo mismo)
         Preference chosen = customerType.preferences[Random.Range(0, customerType.preferences.Count)];
         requestedRecipe = chosen.preferenceRecipe;
 
         // Elegir la flor atribuida a cada cliente
-        if (customerType.assignedFlower != null)
-        {
-            requestedFlower = customerType.assignedFlower;
-        }
-        else
-        {
-            requestedFlower = null;   // este cliente no pide flor (p. ej. Santiago)
-        }
+        if (customerType.assignedFlower != null){ requestedFlower = customerType.assignedFlower; }
+        else { requestedFlower = null; }   // este cliente no pide flor (p. ej. Santiago)
 
         // Construir el texto del pedido
-        if (customerType.isSpecial)
-        {
-            // Los especiales solo dicen su preferencia
-            orderText = chosen.preferenceText;
-        }
-        else
-        {
-            // Los normales dicen el nombre de la receta
-            orderText = chosen.preferenceText + requestedRecipe.name;
-        }
+        if (customerType.isSpecial) { orderText = chosen.preferenceText; }   // Los especiales solo dicen su preferencia
+        else { orderText = chosen.preferenceText + requestedRecipe.name; }   // Los normales dicen el nombre de la receta
 
         // Añadir la flor si el cliente tiene una asignada
-        if (requestedFlower != null)
-            orderText += " y " + requestedFlower.name;
-
+        if (requestedFlower != null) { orderText += " y " + requestedFlower.name; }
+            
         // Se guarda la selección en el GameManager para que persista entre escenas
         if (GameManager.Instance != null)
         {
@@ -111,41 +86,32 @@ public class RecipeRandomizer : MonoBehaviour
             GameManager.Instance.orderText = orderText;
         }
 
-        // Lo único que cambia: el texto que muestra
         // Mostrar el pedido
         DisplayOrder();
-
         orderCompleted = false;
     }
 
     private void DisplayOrder()
     {
-        if (recipeText != null)
-            recipeText.text = orderText;
-        if (balloon != null) balloon.SetActive(true);
-    }
+        if (recipeText != null) {recipeText.text = orderText; }
+        if (balloon != null) {balloon.SetActive(true); }
+}
 
     // Comprueba la receta entregada
     public bool CheckRecipe(RecipeComponent deliveredRecipe, IngredientComponent deliveredFlower)
     {
-        if (orderCompleted)
-            return false;
+        if (orderCompleted) return false;
 
         bool correctRecipe = deliveredRecipe.name == requestedRecipe.name;
         bool correctFlower;
 
         // Se comprueba si hay flor (hay clientes que no tienen flor atribuida)
-        if (requestedFlower == null)
-            correctFlower = deliveredFlower == null;      
-        else
-            correctFlower = deliveredFlower != null && deliveredFlower.name == requestedFlower.name;
+        if (requestedFlower == null) { correctFlower = deliveredFlower == null; }
+        else { correctFlower = deliveredFlower != null && deliveredFlower.name == requestedFlower.name; }
 
-
+        // Si es correcto, se marca como true pero no el cliente no dice nada de momento
         if (correctRecipe && correctFlower)
         {
-            if (recipeText != null)
-                recipeText.text = customerType.GetRandomLine(customerType.correctLines);
-
             orderCompleted = true;
             return true;
         }
@@ -157,6 +123,13 @@ public class RecipeRandomizer : MonoBehaviour
         }
 
         return false;
+    }
+
+    // Al mostrar el texto correcto hayq ue esperar varios segundos, por eso se separa
+    public void ShowCorrectOrder()
+    {
+        if (recipeText != null)
+            recipeText.text = customerType.GetRandomLine(customerType.correctLines);
     }
 
     public void OnWrongPlate()

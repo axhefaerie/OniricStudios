@@ -1,4 +1,5 @@
 ﻿
+using NUnit.Framework.Internal;
 using System.Collections;
 using System.Collections.Generic;
 using TMPro;
@@ -8,8 +9,8 @@ using UnityEngine.UI;
 
 public class CustomerSpawner : MonoBehaviour
 {
-    public GameObject customerPrefab;
-    public Transform spawnPoint;
+    public GameObject customerPrefab;       // client
+    public Transform spawnPoint;            // punto de spawn del cliente
 
     public List<CustomerType> normalCustomers;     // los normales disponibles
     public List<CustomerType> specialCustomers;    // los especiales disponibles
@@ -17,23 +18,22 @@ public class CustomerSpawner : MonoBehaviour
     public int minNormals = 2;    // mínimo de normales antes de un especial
     public int maxNormals = 4;    // máximo
 
-
     public float spawnDelay = 0.5f;
     public TextMeshProUGUI recipeText; //configurar dialogos y esas cosas(?
 
     public Slider timerBar;
     public float maxTime = 120f;        // 2 min
 
-
-    private GameObject currentCustomer;     // Cliente actual
-  
+    private GameObject currentCustomer;     // Cliente actual 
     private bool changingCustomer = false;
-
     private bool spawning = false;      // Guarda si está cambiandose el cliente para uqe no se instancien varios a alvez
 
     public int maxWrongDeliveries = 3;   // intentos máximos fallidos
     private int wrongDeliveries = 0;     // fallos acumulados del cliente actual
 
+    public float eatingDuration = 2f;       // El tiempo que tarda en comer
+
+    public bool IsChangingCustomer => changingCustomer;
     private void Start()
     {
         if (GameManager.Instance.nextNormalsTarget <= 0)
@@ -177,7 +177,7 @@ public class CustomerSpawner : MonoBehaviour
         var randomizer = currentCustomer.GetComponent<RecipeRandomizer>();
         GameManager.Instance.UnlockCustomer(randomizer.customerType);
 
-        StartCoroutine(ChangeCustomerAfterDelay());
+        StartCoroutine(ChangeCustomerAfterDelay(randomizer));
     }
 
     // Se llama cuando se entrega mal un pedido (si se llama 3 veces con elmismo cliente, se va)
@@ -192,7 +192,11 @@ public class CustomerSpawner : MonoBehaviour
             // Se acabaron los intentos: el cliente se va
             OnCustomerWrongTooMany();   
         }
-        // si no llega a 3, no pasa nada: el cliente sigue esperando
+        else 
+        {
+            currentCustomer.GetComponent<RecipeRandomizer>().OnWrongPlate();
+            // si no llega a 3, no pasa nada: el cliente sigue esperando
+        }
     }
 
     // Se llama cuando el jugador se equivoca 3 veces con elmismo cliente
@@ -243,19 +247,18 @@ public class CustomerSpawner : MonoBehaviour
     private void MarkCustomerHandled()
     {
         var randomizer = currentCustomer.GetComponent<RecipeRandomizer>();
-        if (randomizer != null && randomizer.customerType != null &&
-            GameManager.Instance.IsSpecialCustomer(randomizer.customerType))
+        if (randomizer != null && randomizer.customerType != null && GameManager.Instance.IsSpecialCustomer(randomizer.customerType))
         {
             GameManager.Instance.specialCustomersServed++;
         }
-        // Se comprueba si se ha atendido a todos los clientes especiales
-        if (GameManager.Instance.specialCustomersServed >= GameManager.Instance.totalSpecialCustomers)
-        {
-            EndGame();
-            return;
-        }
     }
 
+    // Se comprueba si se ha atendido a todos los clientes especiales
+    private void CheckEndGame()
+    {
+        if (GameManager.Instance.specialCustomersServed >= GameManager.Instance.totalSpecialCustomers)
+            EndGame();
+    }
 
     // Este método permite atribuir una puntuación al jugador para posteriormente decidir si ha ganado o perdido
     private void AwardStars()
@@ -290,20 +293,45 @@ public class CustomerSpawner : MonoBehaviour
 
     private IEnumerator CustomerLeavesAfterDelay()
     {
+        GameObject customer = currentCustomer;
         yield return new WaitForSeconds(2f);
 
-        Destroy(currentCustomer);
+        Destroy(customer);
 
         SpawnCustomer();
     }
 
-    private IEnumerator ChangeCustomerAfterDelay()
+    private IEnumerator ChangeCustomerAfterDelay(RecipeRandomizer randomizer)
     {
-        // Esperar 2 segundos  para que se lea el agradecimiento
+        GameObject customer = currentCustomer;
+        var clientComp = currentCustomer.GetComponent<ClientComponent>();
+
+        // Ocultar el bocadillo mientras come
+        if (randomizer != null && randomizer.balloon != null) { randomizer.balloon.SetActive(false); }
+        // Se pone el sprite de comer
+        if (clientComp != null) { clientComp.SetEating(true); }
+
+        // Esperar 2 segundos  mientras come
+        yield return new WaitForSeconds(eatingDuration);
+
+        // Se pone de nuevo el sprite normal
+        if (clientComp != null) {clientComp.SetEating(false); }
+
+        // Mostrarlo otra vez con el diálogo de acierto
+        if (randomizer != null)
+        {
+            if (randomizer.balloon != null)
+            { 
+                randomizer.balloon.SetActive(true); 
+            }
+            randomizer.ShowCorrectOrder();
+        }
+
+        // Esperar otros dos segundo para queaparezca el siguiente
         yield return new WaitForSeconds(2f);
 
-        Destroy(currentCustomer);
-
-        SpawnCustomer();
+        Destroy(customer);
+        CheckEndGame();
+        if (GameManager.Instance.specialCustomersServed < GameManager.Instance.totalSpecialCustomers) { SpawnCustomer(); }
     }
 }

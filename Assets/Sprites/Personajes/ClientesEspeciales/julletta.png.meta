@@ -1,19 +1,19 @@
 fileFormatVersion: 2
-guid: de12095930414474ebd9f54d0900be1e
+guid: 235f4601996b9904298b96f797e14469
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6369879539158651996
-    second: "Ilustracio\u0301n_sin_ti\u0301tulo_0"
+      213: 2829232388215122354
+    second: unnamed_0
   - first:
-      213: 77795631772038297
-    second: "Ilustracio\u0301n_sin_ti\u0301tulo_1"
+      213: -3157726242096756337
+    second: unnamed_1
   - first:
-      213: 6925114656826501088
-    second: "Ilustracio\u0301n_sin_ti\u0301tulo_2"
+      213: -3521443743514171454
+    second: unnamed_2
   - first:
-      213: 512179064862346311
-    second: "Ilustracio\u0301n_sin_ti\u0301tulo_3"
+      213: 4944269250904071358
+    second: unnamed_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -105,93 +105,106 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "Ilustracio\u0301n_sin_ti\u0301tulo_0"
+      name: julleta
       rect:
         serializedVersion: 2
-        x: 1378
-        y: 157
-        width: 836
-        height: 1218
+        x: 923
+        y: 23
+        width: 845
+        height: 1979
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4ab6b66ee44a997a0800000000000000
-      internalID: -6369879539158651996
+      spriteID: 2b9a79efdd3734720800000000000000
+      internalID: 2829232388215122354
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Ilustracio\u0301n_sin_ti\u0301tulo_1"
+      name: unnamed_1
       rect:
         serializedVersion: 2
-        x: 1426
-        y: 1156
-        width: 8
-        height: 9
+        x: 1252
+        y: 1946
+        width: 36
+        height: 39
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 99479d407b2641100800000000000000
-      internalID: 77795631772038297
+      spriteID: f89c4e196b08d24d0800000000000000
+      internalID: -3157726242096756337
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Ilustracio\u0301n_sin_ti\u0301tulo_2"
+      name: unnamed_2
       rect:
         serializedVersion: 2
-        x: 2147
-        y: 85
-        width: 630
-        height: 1466
+        x: 1896
+        y: 918
+        width: 21
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0e7aefce613fa1060800000000000000
-      internalID: 6925114656826501088
+      spriteID: 2c7e05b9291512fc0800000000000000
+      internalID: -3521443743514171454
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Ilustracio\u0301n_sin_ti\u0301tulo_3"
+      name: unnamed_3
       rect:
         serializedVersion: 2
-        x: 1380
-        y: 773
-        width: 7
-        height: 71
+        x: 996
+        y: 196
+        width: 36
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 74c03865520ab1700800000000000000
-      internalID: 512179064862346311
+      spriteID: ebc160610b29d9440800000000000000
+      internalID: 4944269250904071358
       vertices: []
       indices: 
       edges: []
@@ -200,7 +213,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -210,10 +223,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      "Ilustracio\u0301n_sin_ti\u0301tulo_0": -6369879539158651996
-      "Ilustracio\u0301n_sin_ti\u0301tulo_1": 77795631772038297
-      "Ilustracio\u0301n_sin_ti\u0301tulo_2": 6925114656826501088
-      "Ilustracio\u0301n_sin_ti\u0301tulo_3": 512179064862346311
+      julleta: 2829232388215122354
+      unnamed_1: -3157726242096756337
+      unnamed_2: -3521443743514171454
+      unnamed_3: 4944269250904071358
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -14,6 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   customerName: Silarid
   sprite: {fileID: 5770581514594138179, guid: 10814cd9018da194abb4dbc1e2632fde, type: 3}
+  blinkSprite: {fileID: 4776473795445536634, guid: 7c2098b1dce4f6b438164abdbde97289, type: 3}
+  eatSprite: {fileID: 1710956211134866283, guid: 99c32c8fc29556d4a847acd50782aa98, type: 3}
   iconMobileSprite: {fileID: 6461003491674731114, guid: 532e06e628bd47a4d8d619a40b3c76ae, type: 3}
   isSpecial: 1
   spawnPosition: {x: -1, y: -1.4, z: 0}

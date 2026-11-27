@@ -13,7 +13,9 @@ MonoBehaviour:
   m_Name: Julletta
   m_EditorClassIdentifier: 
   customerName: Julletta
-  sprite: {fileID: 21300000, guid: 235f4601996b9904298b96f797e14469, type: 3}
+  sprite: {fileID: 2829232388215122354, guid: 235f4601996b9904298b96f797e14469, type: 3}
+  blinkSprite: {fileID: -3523221381984978613, guid: 7e175f781c9ba8f44b4c6dc31e9222e9, type: 3}
+  eatSprite: {fileID: 2829232388215122354, guid: 235f4601996b9904298b96f797e14469, type: 3}
   iconMobileSprite: {fileID: 5461366136099871996, guid: 532e06e628bd47a4d8d619a40b3c76ae, type: 3}
   isSpecial: 1
   spawnPosition: {x: -1, y: -0.3450264, z: 0}

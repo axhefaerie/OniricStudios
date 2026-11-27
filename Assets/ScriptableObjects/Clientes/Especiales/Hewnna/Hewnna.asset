@@ -13,7 +13,9 @@ MonoBehaviour:
   m_Name: Hewnna
   m_EditorClassIdentifier: 
   customerName: Hewnna
-  sprite: {fileID: 21300000, guid: 84168b67dcb12e745ab8ac52d418f63f, type: 3}
+  sprite: {fileID: -114467071654809775, guid: 8ee0bab17fb9e0943bca119e3ae7f91a, type: 3}
+  blinkSprite: {fileID: 6443347583012285574, guid: 58fdc61ab968f2c4e8e4b01dd8152b60, type: 3}
+  eatSprite: {fileID: -5546269967689557360, guid: 6b7820a534ad7aa4b9b0ddafde4a0d70, type: 3}
   iconMobileSprite: {fileID: 9122013818894217202, guid: 532e06e628bd47a4d8d619a40b3c76ae, type: 3}
   isSpecial: 1
   spawnPosition: {x: -1, y: -0.3450264, z: 0}

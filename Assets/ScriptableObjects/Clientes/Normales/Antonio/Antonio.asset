@@ -13,7 +13,9 @@ MonoBehaviour:
   m_Name: Antonio
   m_EditorClassIdentifier: 
   customerName: Antonio
-  sprite: {fileID: 2253639577306037883, guid: 72da4452f86154e41979186b7d756472, type: 3}
+  sprite: {fileID: 8889470752565854320, guid: af57b6fdfb0f4b14fba737638e5b3a4e, type: 3}
+  blinkSprite: {fileID: 8889470752565854320, guid: af57b6fdfb0f4b14fba737638e5b3a4e, type: 3}
+  eatSprite: {fileID: 8889470752565854320, guid: af57b6fdfb0f4b14fba737638e5b3a4e, type: 3}
   iconMobileSprite: {fileID: -7426732486150545419, guid: 9c736eebd10bf604aad35e41d638035f, type: 3}
   isSpecial: 0
   spawnPosition: {x: -0.5, y: -0.3, z: 0}

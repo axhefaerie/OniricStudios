@@ -13,7 +13,9 @@ MonoBehaviour:
   m_Name: Jagger
   m_EditorClassIdentifier: 
   customerName: Mister Jagger
-  sprite: {fileID: 21300000, guid: fcf3715abe244cd45a33d36e0f9cf38c, type: 3}
+  sprite: {fileID: 8805444165812455586, guid: fcf3715abe244cd45a33d36e0f9cf38c, type: 3}
+  blinkSprite: {fileID: 8805444165812455586, guid: fcf3715abe244cd45a33d36e0f9cf38c, type: 3}
+  eatSprite: {fileID: 8805444165812455586, guid: fcf3715abe244cd45a33d36e0f9cf38c, type: 3}
   iconMobileSprite: {fileID: -7426732486150545419, guid: 9c736eebd10bf604aad35e41d638035f, type: 3}
   isSpecial: 0
   spawnPosition: {x: -0.5, y: -0.2, z: 0}

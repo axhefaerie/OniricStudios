@@ -5,8 +5,13 @@ using System.Collections.Generic;
 public class CustomerType : ScriptableObject
 {
     public string customerName;
-    public Sprite sprite;       // aspecto
+
+    // Sprites
+    public Sprite sprite;       // aspecto normal
+    public Sprite blinkSprite; // sprite de cliente con ojos cerados
+    public Sprite eatSprite; // sprite de cliente comiendo
     public Sprite iconMobileSprite;
+
     public bool isSpecial;  // true si es especial
     public Vector3 spawnPosition;
 

@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: bc3f754149c152946a859bc1ddd2159c
+guid: c0d43faf8b82f724db72499bca142ec4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1641426866252558263
-    second: "Ilustracio\u0301n_sin_ti\u0301tulo 2_0"
+      213: 6945621838086902841
+    second: mako 1_0
+  - first:
+      213: 8077159152861155556
+    second: mako 1_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +49,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -96,27 +99,62 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "Ilustracio\u0301n_sin_ti\u0301tulo 2_0"
+      name: mako 1_0
       rect:
         serializedVersion: 2
-        x: 1085
-        y: 52
-        width: 965
-        height: 1950
+        x: 79
+        y: 1944
+        width: 8
+        height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 940db3836fa7839e0800000000000000
-      internalID: -1641426866252558263
+      spriteID: 9349d53234ec36060800000000000000
+      internalID: 6945621838086902841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mako
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 32
+        width: 1097
+        height: 1997
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e095947475d71070800000000000000
+      internalID: 8077159152861155556
       vertices: []
       indices: 
       edges: []
@@ -125,7 +163,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 6c39ff6f23187274f888886bb8ae1903
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +173,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      "Ilustracio\u0301n_sin_ti\u0301tulo 2_0": -1641426866252558263
+      mako: 8077159152861155556
+      mako 1_0: 6945621838086902841
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
